@@ -1,0 +1,15 @@
+# Use the base image
+FROM eclipse-temurin:21-jdk
+
+# Install Git and Maven
+RUN apt-get update && apt-get install -y \
+    git \
+    maven \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set working directory
+WORKDIR /app
+
+# Default command (optional)
+CMD ["bash"]
