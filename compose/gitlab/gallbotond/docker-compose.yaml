@@ -15,3 +15,4 @@ services:
     environment:
       GITLAB_OMNIBUS_CONFIG: |
         external_url 'https://gitlab.redoctober.icu'  # Change to your domain
+    network_mode: "host"
