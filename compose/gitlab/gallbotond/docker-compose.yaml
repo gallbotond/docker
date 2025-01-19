@@ -7,7 +7,7 @@ services:
     ports:
       - "80:80"      # HTTP port
       - "443:443"    # HTTPS port
-      - "22:22"      # SSH port
+      - "2222:22"      # SSH port
     volumes:
       - /srv/gitlab/config:/etc/gitlab
       - /srv/gitlab/data:/var/opt/gitlab
