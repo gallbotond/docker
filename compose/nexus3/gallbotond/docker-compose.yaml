@@ -6,11 +6,10 @@ services:
       - "8081:8081" # Expose Nexus UI on port 8081
     volumes:
       - nexus-data:/nexus-data # Persistent storage for Nexus data
-      - etc/localtime:/etc/localtime:ro # Sync time with host
     environment:
       - INSTALL4J_ADD_VM_PARAMS=-Xms1200m -Xmx1200m -XX:MaxDirectMemorySize=2g
     restart: unless-stopped
-    
+
 volumes:
   nexus-data:
     driver: local
