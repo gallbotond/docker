@@ -1,0 +1,17 @@
+services:
+  nexus:
+    image: sonatype/nexus3:3.70.1
+    environment:
+      # CONTEXT_PATH: "/nexus"
+      MIN_HEAP: "256m"
+      MAX_HEAP: "768m"
+      # JAVA_OPTS: "-server -XX:MaxPermitSize=192m -Djava.net.prefereIPv4Stack=true"
+    volumes:
+      - nexus-data:/nexus-data
+      - etc/localtime:/etc/localtime:ro
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    logging:
+      options:
+        max-size: "50m"
