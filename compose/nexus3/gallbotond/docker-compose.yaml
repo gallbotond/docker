@@ -4,6 +4,7 @@ services:
     container_name: nexus3
     ports:
       - "8081:8081" # Expose Nexus UI on port 8081
+      - "8082:8082" # docker repository
     volumes:
       - nexus-data:/nexus-data # Persistent storage for Nexus data
     environment:
