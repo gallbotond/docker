@@ -1,0 +1,108 @@
+services:
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:latest
+    container_name: prowlarr
+    environment:
+      - PUID=1000  # Adjust to your user ID
+      - PGID=1000  # Adjust to your group ID
+      - TZ=Etc/UTC # Replace with your timezone
+    volumes:
+      - ./prowlarr/config:/config
+    ports:
+      - 9696:9696
+    restart: unless-stopped
+
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - ./radarr/config:/config
+      - ./media/movies:/movies
+      - ./downloads:/downloads
+    ports:
+      - 7878:7878
+    restart: unless-stopped
+
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - ./sonarr/config:/config
+      - ./media/tv:/tv
+      - ./downloads:/downloads
+    ports:
+      - 8989:8989
+    restart: unless-stopped
+
+  lidarr:
+    image: lscr.io/linuxserver/lidarr:latest
+    container_name: lidarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - ./lidarr/config:/config
+      - ./media/music:/music
+      - ./downloads:/downloads
+    ports:
+      - 8686:8686
+    restart: unless-stopped
+
+  readarr:
+    image: lscr.io/linuxserver/readarr:latest
+    container_name: readarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - ./readarr/config:/config
+      - ./media/books:/books
+      - ./downloads:/downloads
+    ports:
+      - 8787:8787
+    restart: unless-stopped
+
+  jellyseerr:
+    image: fallenbagel/jellyseerr:latest
+    container_name: jellyseerr
+    environment:
+      - LOG_LEVEL=info
+      - TZ=Etc/UTC
+      - PORT=5055
+    volumes:
+      - ./jellyseerr/config:/app/config
+    ports:
+      - 5055:5055
+    restart: unless-stopped
+
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+      - WEBUI_PORT=8080
+    volumes:
+      - ./qbittorrent/config:/config
+      - ./downloads:/downloads
+      - ./media/torrents:/media/torrents
+    ports:
+      - 8080:8080
+      - 6881:6881
+      - 6881:6881/udp
+    restart: unless-stopped
+
+networks:
+  default:
+    driver: bridge
