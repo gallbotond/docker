@@ -29,7 +29,7 @@ services:
         OLLAMA_BASE_URL: '/ollama'
       dockerfile: Dockerfile
     image: ghcr.io/open-webui/open-webui:latest
-    container_name: open-webui
+    container_name: open-webui-cpu
     volumes:
       - open-webui:/app/backend/data
     depends_on:
