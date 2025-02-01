@@ -1,5 +1,5 @@
 services:
-  open-webui:
+  open-webui-cpu:
     image: ghcr.io/open-webui/open-webui:main
     container_name: open-webui
     ports:

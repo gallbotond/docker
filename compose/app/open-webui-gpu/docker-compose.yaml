@@ -1,5 +1,5 @@
 services:
-  open-webui:
+  open-webui-gpu:
     image: ghcr.io/open-webui/open-webui:ollama
     container_name: open-webui
     deploy:
