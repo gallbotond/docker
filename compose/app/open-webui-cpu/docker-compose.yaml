@@ -1,7 +1,7 @@
 services:
-  open-webui-cpu:
+  open-webui:
     image: ghcr.io/open-webui/open-webui:main
-    container_name: open-webui
+    container_name: open-webui-cpu
     ports:
       - "3000:8080"
     volumes:
