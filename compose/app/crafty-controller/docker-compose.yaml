@@ -12,7 +12,7 @@ services:
       - "19132:19132/udp" # BEDROCK
       - "25500-25600:25500-25600" # MC SERV PORT RANGE
     volumes:
-      - /mnt/minecraft-backups:/crafty/backups # backup to external volume
+      - /mnt/minecraft_backups:/crafty/backups # backup to external volume
       - ./docker/logs:/crafty/logs
       - ./docker/servers:/crafty/servers
       - ./docker/config:/crafty/app/config
