@@ -22,7 +22,7 @@ services:
       - TZ=Etc/UTC
     volumes:
       - ./radarr/config:/config
-      - ./mnt/media/downloads:/downloads
+      - /mnt/media/downloads:/downloads
       - /mnt/media/movies:/movies  # Mount movies folder
     ports:
       - 7878:7878
