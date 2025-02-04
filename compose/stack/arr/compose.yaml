@@ -88,6 +88,22 @@ services:
       - 5055:5055
     restart: unless-stopped
 
+  jellyfin:
+    image: jellyfin/jellyfin:latest
+    container_name: jellyfin
+    environment:
+      - PUID=3001
+      - PGID=3000
+      - TZ=Etc/UTC
+    volumes:
+      - ./jellyfin/config:/config
+      - /mnt/media/movies:/movies  # Mount movies folder
+      - /mnt/media/shows:/shows  # Mount shows folder
+      - /mnt/media/music:/music  # Mount music folder
+    ports:
+      - 8096:8096
+    restart: unless-stopped
+
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
     container_name: qbittorrent
