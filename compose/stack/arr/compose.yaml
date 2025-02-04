@@ -3,11 +3,12 @@ services:
     image: lscr.io/linuxserver/prowlarr:latest
     container_name: prowlarr
     environment:
-      - PUID=1000  # Adjust to your user ID
-      - PGID=1000  # Adjust to your group ID
+      - PUID=3001  # Adjusted to your user ID
+      - PGID=3000  # Adjusted to your group ID
       - TZ=Etc/UTC # Replace with your timezone
     volumes:
       - ./prowlarr/config:/config
+      - /mnt/media/books:/books  # Mount books folder
     ports:
       - 9696:9696
     restart: unless-stopped
@@ -16,13 +17,13 @@ services:
     image: lscr.io/linuxserver/radarr:latest
     container_name: radarr
     environment:
-      - PUID=1000
-      - PGID=1000
+      - PUID=3001
+      - PGID=3000
       - TZ=Etc/UTC
     volumes:
       - ./radarr/config:/config
-      - ./media/movies:/movies
-      - ./downloads:/downloads
+      - ./mnt/media/downloads:/downloads
+      - /mnt/media/movies:/movies  # Mount movies folder
     ports:
       - 7878:7878
     restart: unless-stopped
@@ -31,13 +32,13 @@ services:
     image: lscr.io/linuxserver/sonarr:latest
     container_name: sonarr
     environment:
-      - PUID=1000
-      - PGID=1000
+      - PUID=3001
+      - PGID=3000
       - TZ=Etc/UTC
     volumes:
       - ./sonarr/config:/config
-      - ./media/tv:/tv
-      - ./downloads:/downloads
+      - /mnt/media/shows:/shows  # Mount shows folder
+      - /mnt/media/downloads:/downloads  # Mount downloads folder
     ports:
       - 8989:8989
     restart: unless-stopped
@@ -46,13 +47,13 @@ services:
     image: lscr.io/linuxserver/lidarr:latest
     container_name: lidarr
     environment:
-      - PUID=1000
-      - PGID=1000
+      - PUID=3001
+      - PGID=3000
       - TZ=Etc/UTC
     volumes:
       - ./lidarr/config:/config
-      - ./media/music:/music
-      - ./downloads:/downloads
+      - /mnt/media/music:/music  # Mount music folder
+      - /mnt/media/downloads:/downloads  # Mount downloads folder
     ports:
       - 8686:8686
     restart: unless-stopped
@@ -61,13 +62,13 @@ services:
     image: lscr.io/linuxserver/readarr:latest
     container_name: readarr
     environment:
-      - PUID=1000
-      - PGID=1000
+      - PUID=3001
+      - PGID=3000
       - TZ=Etc/UTC
     volumes:
       - ./readarr/config:/config
-      - ./media/books:/books
-      - ./downloads:/downloads
+      - /mnt/media/books:/books  # Mount books folder
+      - /mnt/media/downloads:/downloads  # Mount downloads folder
     ports:
       - 8787:8787
     restart: unless-stopped
@@ -76,6 +77,8 @@ services:
     image: fallenbagel/jellyseerr:latest
     container_name: jellyseerr
     environment:
+      - PUID=3001
+      - PGID=3000
       - LOG_LEVEL=info
       - TZ=Etc/UTC
       - PORT=5055
@@ -89,14 +92,14 @@ services:
     image: lscr.io/linuxserver/qbittorrent:latest
     container_name: qbittorrent
     environment:
-      - PUID=1000
-      - PGID=1000
+      - PUID=3001
+      - PGID=3000
       - TZ=Etc/UTC
       - WEBUI_PORT=8080
     volumes:
       - ./qbittorrent/config:/config
-      - ./downloads:/downloads
-      - ./media/torrents:/media/torrents
+      - /mnt/media/downloads:/downloads  # Mount downloads folder
+      - /mnt/media/torrents:/torrents  # Mount torrents folder
     ports:
       - 8080:8080
       - 6881:6881
