@@ -8,7 +8,7 @@ services:
       - TZ=Etc/UTC # Replace with your timezone
     volumes:
       - ./prowlarr/config:/config
-      - /mnt/media/books:/media/books  # Mount books folder
+      - /mnt/media:/md  # Mount books folder
     ports:
       - 9696:9696
     restart: unless-stopped
@@ -22,8 +22,7 @@ services:
       - TZ=Etc/UTC
     volumes:
       - ./radarr/config:/config
-      - /mnt/media/downloads:/media/downloads
-      - /mnt/media/movies:/media/movies  # Mount movies folder
+      - /mnt/media:/md  # Mount movies folder
     ports:
       - 7878:7878
     restart: unless-stopped
@@ -37,8 +36,7 @@ services:
       - TZ=Etc/UTC
     volumes:
       - ./sonarr/config:/config
-      - /mnt/media/shows:/media/shows  # Mount shows folder
-      - /mnt/media/downloads:/media/downloads  # Mount downloads folder
+      - /mnt/media:/md
     ports:
       - 8989:8989
     restart: unless-stopped
@@ -52,8 +50,7 @@ services:
       - TZ=Etc/UTC
     volumes:
       - ./lidarr/config:/config
-      - /mnt/media/music:/media/music  # Mount music folder
-      - /mnt/media/downloads:/media/downloads  # Mount downloads folder
+      - /mnt/media:/md
     ports:
       - 8686:8686
     restart: unless-stopped
@@ -67,8 +64,7 @@ services:
       - TZ=Etc/UTC
     volumes:
       - ./readarr/config:/config
-      - /mnt/media/books:/media/books  # Mount books folder
-      - /mnt/media/downloads:/media/downloads  # Mount downloads folder
+      - /mnt/media:/md
     ports:
       - 8787:8787
     restart: unless-stopped
@@ -115,8 +111,7 @@ services:
       - WEBUI_PORT=8080
     volumes:
       - ./qbittorrent/config:/config
-      - /mnt/media/downloads:/media/downloads  # Mount downloads folder
-      - /mnt/media/torrents:/media/torrents  # Mount torrents folder
+      - /mnt/media:/md
     ports:
       - 8080:8080
       - 6881:6881
