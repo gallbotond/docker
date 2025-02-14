@@ -91,8 +91,8 @@ services:
       - PUID=3001
       - PGID=3000
       - TZ=Etc/UTC
-      - NVIDIA_VISIBLE_DEVICES=all
-      - NVIDIA_DRIVER_CAPABILITIES=all
+      # - NVIDIA_VISIBLE_DEVICES=all
+      # - NVIDIA_DRIVER_CAPABILITIES=all
     runtime: nvidia
     volumes:
       - ./jellyfin/config:/config
@@ -103,13 +103,13 @@ services:
     ports:
       - 8096:8096
     restart: unless-stopped
-    deploy:
-      resources:
-        reservations:
-          devices:
-          - driver: nvidia
-            count: 1
-            capabilities: [gpu]
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #       - driver: nvidia
+    #         count: 1
+    #         capabilities: [gpu]
 
 
   qbittorrent:
