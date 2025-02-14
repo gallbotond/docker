@@ -93,7 +93,7 @@ services:
       - TZ=Etc/UTC
       # - NVIDIA_VISIBLE_DEVICES=all
       # - NVIDIA_DRIVER_CAPABILITIES=all
-    runtime: nvidia
+    # runtime: nvidia
     volumes:
       - ./jellyfin/config:/config
       - /mnt/media/movies:/movies  # Mount movies folder
