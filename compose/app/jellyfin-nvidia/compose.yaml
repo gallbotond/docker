@@ -1,0 +1,29 @@
+services:
+  jellyfin:
+    image: jellyfin/jellyfin:latest
+    container_name: jellyfin
+    environment:
+      - PUID=3001  # Replace with your user ID
+      - PGID=3000  # Replace with your group ID
+      - TZ=Etc/UTC  # Replace with your timezone
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,video,utility
+    runtime: nvidia
+    volumes:
+      - ./jellyfin/config:/config
+      - ./jellyfin/cache:/cache
+      - /mnt/media/movies:/movies  # Mount movies folder
+      - /mnt/media/shows:/shows  # Mount shows folder
+      - /mnt/media/music:/music  # Mount music folder
+      - /mnt/media/books:/books  # Mount books folder
+    ports:
+      - 8096:8096
+      - 8920:8920  # HTTPS port
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    restart: unless-stopped
