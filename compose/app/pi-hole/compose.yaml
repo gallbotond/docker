@@ -3,7 +3,7 @@ services:
   pihole:
     container_name: pihole
     image: pihole/pihole:latest
-    network_mode: host
+    network_mode: host # Use host network for better performance
     # ports:
     #   # DNS Ports
     #   - "53:53/tcp"

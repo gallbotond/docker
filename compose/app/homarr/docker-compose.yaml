@@ -5,5 +5,5 @@ services:
     ports:
       - "7575:7575"  # Map port 7575 on the host to port 7575 in the container
     volumes:
-      - /root/homarr/homarr/configs:/app/data/configs  # Map the host config directory to the container
+      - ./configs:/app/data/configs  # Map the host config directory to the container
     restart: unless-stopped  # Automatically restart the container if it stops unexpectedly
