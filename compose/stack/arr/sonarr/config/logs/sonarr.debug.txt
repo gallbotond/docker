@@ -5681,3 +5681,23 @@
 2025-03-02 00:04:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2025-03-02 00:04:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
 2025-03-02 00:04:26.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-03-02 00:05:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-03-02 00:05:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2025-03-02 00:05:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-03-02 00:05:00.0|Debug|DownloadClientFactory|Temporarily ignoring download client qBittorrent till 03/02/2025 00:15:00 due to recent failures.
+2025-03-02 00:05:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (16 ms)
+2025-03-02 00:06:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-03-02 00:06:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (7 ms)
+2025-03-02 00:06:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-03-02 00:06:00.0|Debug|DownloadClientFactory|Temporarily ignoring download client qBittorrent till 03/02/2025 00:15:00 due to recent failures.
+2025-03-02 00:06:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (3 ms)
+2025-03-02 00:07:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-03-02 00:07:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (4 ms)
+2025-03-02 00:07:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-03-02 00:07:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-03-02 00:07:00.0|Debug|DownloadClientFactory|Temporarily ignoring download client qBittorrent till 03/02/2025 00:15:00 due to recent failures.
+2025-03-02 00:08:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-03-02 00:08:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (3 ms)
+2025-03-02 00:08:00.0|Debug|DownloadClientFactory|Temporarily ignoring download client qBittorrent till 03/02/2025 00:15:00 due to recent failures.
+2025-03-02 00:08:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-03-02 00:08:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)

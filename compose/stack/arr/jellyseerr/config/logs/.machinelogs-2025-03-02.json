@@ -1,0 +1,22 @@
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: radarr","timestamp":"2025-03-02T00:00:00.006Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2025-03-02T00:00:00.026Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-03-02T00:00:00.034Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"0c340387-528a-40ee-a4c5-1da31841917d","timestamp":"2025-03-02T00:00:00.034Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-03-02T00:00:00.053Z"}
+{"error":"connect ECONNREFUSED 192.168.1.149:8096","label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server","timestamp":"2025-03-02T00:00:00.066Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-03-02T00:00:00.066Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: radarr","timestamp":"2025-03-02T00:01:00.022Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: radarr","timestamp":"2025-03-02T00:02:00.015Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: radarr","timestamp":"2025-03-02T00:03:00.023Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2025-03-02T00:03:00.030Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: radarr","timestamp":"2025-03-02T00:04:00.036Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: radarr","timestamp":"2025-03-02T00:05:00.009Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-03-02T00:05:00.011Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2087955c-67af-4214-978a-cdaed138f412","timestamp":"2025-03-02T00:05:00.011Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-03-02T00:05:00.015Z"}
+{"error":"connect ECONNREFUSED 192.168.1.149:8096","label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server","timestamp":"2025-03-02T00:05:00.019Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-03-02T00:05:00.019Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2025-03-02T00:06:00.007Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: radarr","timestamp":"2025-03-02T00:06:00.010Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: radarr","timestamp":"2025-03-02T00:07:00.020Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: radarr","timestamp":"2025-03-02T00:08:00.005Z"}
