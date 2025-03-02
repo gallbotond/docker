@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>R</ContentRating>
+  <Added>02/11/2025 21:49:33</Added>
+  <LockData>true</LockData>
+  <LocalTitle>Bad Boys Collection</LocalTitle>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/movies/Bad Boys (1995)/Bad.Boys.1995.REMASTERED.720p.BluRay.x264-NeZu.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Bad Boys for Life (2020)/Bad Boys for Life (2020) [720p] [BluRay] [YTS] [YIFY].mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Bad Boys II (2003)/Bad Boys II 2003 1080 BluRay X264 YIFY.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/Bad Boys - Ride or Die (2024)/Bad Boys Ride or Die (2024) [720p] [BluRay].mp4</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

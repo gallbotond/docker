@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG-13</ContentRating>
+  <Added>02/15/2025 22:35:38</Added>
+  <LockData>true</LockData>
+  <LocalTitle>The Bourne Collection</LocalTitle>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/movies/The Bourne Identity (2002)/The Bourne Identity 2002 RiffTrax triple audio 720p 10bit BluRay x265 budgetbits.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/The Bourne Supremacy (2004)/The Bourne Supremacy 2004 720p bluray YTS.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/The Bourne Ultimatum (2007)/The Bourne Ultimatum 2007 720p BrRip x264 YIFY.mp4</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

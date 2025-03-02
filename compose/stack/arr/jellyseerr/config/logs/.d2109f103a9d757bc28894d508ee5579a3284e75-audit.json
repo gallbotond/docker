@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/app/config/logs/.d2109f103a9d757bc28894d508ee5579a3284e75-audit.json",
+    "files": [
+        {
+            "date": 1740268800031,
+            "name": "/app/config/logs/overseerr-2025-02-23.log",
+            "hash": "bfdb1713de5102800b03df287f3dda29454af67d6b25010fa0a1619d2fc0a1e2"
+        },
+        {
+            "date": 1740355200018,
+            "name": "/app/config/logs/overseerr-2025-02-24.log",
+            "hash": "40b60b5d4ac2f63a85cde579c50e3651f63f5738c931ff34b43c2e410692949b"
+        },
+        {
+            "date": 1740441600013,
+            "name": "/app/config/logs/overseerr-2025-02-25.log",
+            "hash": "8446456c14f1d692c0378ca01017bb959834f3e5d9c81721e37caa971e5d5fd6"
+        },
+        {
+            "date": 1740528000021,
+            "name": "/app/config/logs/overseerr-2025-02-26.log",
+            "hash": "7c67e183575e77ee92a72f1e80719232dd82e97184d33620cbbb8862ac504bc6"
+        },
+        {
+            "date": 1740614400015,
+            "name": "/app/config/logs/overseerr-2025-02-27.log",
+            "hash": "3d6a3c0be3314cd5d50bb3b95acc6b64e959c630d58200f9b76e98e4bf3d03be"
+        },
+        {
+            "date": 1740700800027,
+            "name": "/app/config/logs/overseerr-2025-02-28.log",
+            "hash": "eb223232d0e99e67fe3c451ace94f253b362fa78f1dd0b0b391d974e1484c8d6"
+        },
+        {
+            "date": 1740787200006,
+            "name": "/app/config/logs/overseerr-2025-03-01.log",
+            "hash": "f57507db0045f6a5d18d489092e58c5f5105cd49e521aac8af709f3c4d985511"
+        },
+        {
+            "date": 1740873600011,
+            "name": "/app/config/logs/overseerr-2025-03-02.log",
+            "hash": "ee6143c3a5d88936680b4e3dde3636fa1ffe958d6fe0f705ae9ff92f40a8b617"
+        }
+    ],
+    "hashType": "sha256"
+}

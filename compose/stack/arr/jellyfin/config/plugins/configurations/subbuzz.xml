@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnableAddic7ed>true</EnableAddic7ed>
+  <EnableOpenSubtitles>true</EnableOpenSubtitles>
+  <EnablePodnapisiNet>true</EnablePodnapisiNet>
+  <EnableSubf2m>true</EnableSubf2m>
+  <EnableSubdlCom>true</EnableSubdlCom>
+  <EnableSubscene>true</EnableSubscene>
+  <EnableSubssabbz>true</EnableSubssabbz>
+  <EnableSubsunacsNet>true</EnableSubsunacsNet>
+  <EnableYavkaNet>true</EnableYavkaNet>
+  <EnableYifySubtitles>true</EnableYifySubtitles>
+  <HashMatchByScore>100</HashMatchByScore>
+  <MinScore>50</MinScore>
+  <OpenSubUserName>gall_botond</OpenSubUserName>
+  <OpenSubPassword>vxtt%28Nx&amp;V-99e</OpenSubPassword>
+  <OpenSubApiKey />
+  <OpenSubToken>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIzTWZyZlIwbE01Z2c3Umtva2tWSm05NVRaaUYxUjdZRiIsImV4cCI6MTczOTczMDk3Nn0.xE8GaXfbxgAhJaraJgU5Ce4dHnRgIizzkcU3tuO5QD8</OpenSubToken>
+  <OpenSubUseHash>true</OpenSubUseHash>
+  <SubEncoding>
+    <DefaultEncoding>utf-8</DefaultEncoding>
+    <AutoDetectEncoding>true</AutoDetectEncoding>
+  </SubEncoding>
+  <SubPostProcessing>
+    <EncodeSubtitlesToUTF8>true</EncodeSubtitlesToUTF8>
+    <AdjustDuration>false</AdjustDuration>
+    <AdjustDurationCps>15</AdjustDurationCps>
+    <AdjustDurationExtendOnly>true</AdjustDurationExtendOnly>
+  </SubPostProcessing>
+  <Cache>
+    <Subtitle>true</Subtitle>
+    <SubLifeInMinutes>10080</SubLifeInMinutes>
+    <Search>true</Search>
+    <SearchLifeInMinutes>240</SearchLifeInMinutes>
+    <BasePath>/cache/subbuzz</BasePath>
+  </Cache>
+  <SubdlApiKey>2-efo3Z4vBRIs6WVcZEUgCp-U0RhMA8G</SubdlApiKey>
+  <SubtitleInfoWithHtml>false</SubtitleInfoWithHtml>
+</PluginConfiguration>

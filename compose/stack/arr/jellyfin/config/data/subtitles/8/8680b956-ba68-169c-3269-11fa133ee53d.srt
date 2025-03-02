@@ -1,0 +1,5695 @@
+1
+00:01:10,000 --> 00:01:11,875
+[sanftes Donnergrollen]
+
+2
+00:01:12,042 --> 00:01:13,958
+[prasselnder Regen]
+
+3
+00:01:42,750 --> 00:01:45,250
+[entfernte Tierschreie]
+
+4
+00:01:51,458 --> 00:01:53,375
+[sanftes Donnergrollen]
+
+5
+00:02:15,958 --> 00:02:17,958
+[Schusse]
+
+6
+00:02:28,792 --> 00:02:30,958
+[Maschinengewehr-Feuer]
+
+7
+00:02:39,250 --> 00:02:41,250
+[Maschinengewehr-Feuer]
+
+8
+00:02:54,375 --> 00:02:55,792
+[Schreie]
+
+9
+00:02:57,750 --> 00:02:59,958
+[Maschinengewehr-Feuer, Explosionen]
+
+10
+00:03:02,875 --> 00:03:06,333
+-[Soldat 1] Angriff! Angriff!
+-[Soldat 2] Auf die Leiter!
+
+11
+00:03:07,250 --> 00:03:10,667
+-[Soldat 1] Weiter! Los! Raus da!
+-[Soldat 2] An die Leitern!
+
+12
+00:03:11,292 --> 00:03:12,417
+[Soldat 1] Raus!
+
+13
+00:03:13,083 --> 00:03:15,083
+Heinrich, komm! Vorwarts!
+
+14
+00:03:15,250 --> 00:03:19,667
+Los! An die Leitern!
+Auf meinen Befehl: Vorwarts!
+
+15
+00:03:19,833 --> 00:03:20,667
+Hans?
+
+16
+00:03:22,583 --> 00:03:27,458
+Angriff! Raus mit dir! Los! Vorwarts!
+
+17
+00:03:28,083 --> 00:03:28,917
+Hans?
+
+18
+00:03:30,208 --> 00:03:33,792
+-Hans?
+-Los, Heinrich! Raus! Raus!
+
+19
+00:03:34,875 --> 00:03:36,000
+[Soldat 1] Angriff!
+
+20
+00:03:36,167 --> 00:03:38,083
+[Kampfgeschrei, Explosionen]
+
+21
+00:03:39,542 --> 00:03:42,833
+[Soldat 1] Weiter! Weiter! Weiter! Weiter!
+
+22
+00:03:43,000 --> 00:03:44,917
+[Kampfgeschrei]
+
+23
+00:03:45,500 --> 00:03:46,917
+[Heinrich achzt angestrengt]
+
+24
+00:03:52,083 --> 00:03:54,167
+[Soldat] Schneller! Vorwarts! Schneller!
+
+25
+00:04:02,333 --> 00:04:03,542
+[Soldat] In Deckung!
+
+26
+00:04:08,333 --> 00:04:09,583
+[Soldat] Heinrich!
+
+27
+00:04:10,417 --> 00:04:13,250
+[Soldat] Heinrich! Heinrich!
+
+28
+00:04:18,500 --> 00:04:20,500
+[Heinrich keucht]
+
+29
+00:04:25,875 --> 00:04:27,875
+[Explosion]
+
+30
+00:04:29,125 --> 00:04:31,125
+[spannungsgeladene Musik]
+
+31
+00:04:32,250 --> 00:04:34,500
+[achzt, keucht]
+
+32
+00:04:35,833 --> 00:04:37,375
+[schreit vor Schreck]
+
+33
+00:04:39,625 --> 00:04:41,625
+[schie?t]
+
+34
+00:04:43,292 --> 00:04:44,792
+[schie?t]
+
+35
+00:04:44,958 --> 00:04:46,875
+[keucht panisch]
+
+36
+00:05:01,458 --> 00:05:03,167
+[Kampfschrei]
+
+37
+00:05:03,333 --> 00:05:04,792
+[Stille]
+
+38
+00:05:09,250 --> 00:05:11,125
+[Metalltur quietscht]
+
+39
+00:05:51,833 --> 00:05:53,250
+[Soldat ruft unverstandlich]
+
+40
+00:06:03,417 --> 00:06:05,417
+[ruhige spannungsvolle Musik]
+
+41
+00:06:19,875 --> 00:06:22,500
+[bedrohliche Klange]
+
+42
+00:06:37,917 --> 00:06:40,125
+[bedrohliche Klange]
+
+43
+00:06:53,708 --> 00:06:56,500
+[weiter ruhige Musik
+mit bedrohlichen Klangen]
+
+44
+00:07:23,500 --> 00:07:25,500
+[Nahmaschinen rattern]
+
+45
+00:08:08,833 --> 00:08:10,500
+[Musik klingt aus]
+
+46
+00:08:20,667 --> 00:08:22,458
+[keucht]
+
+47
+00:08:24,250 --> 00:08:25,667
+[Kirchenglocke lautet]
+
+48
+00:08:30,500 --> 00:08:32,250
+[ausgelassenes Lachen]
+
+49
+00:08:35,500 --> 00:08:37,500
+[Jungen lachen amusiert]
+
+50
+00:08:38,250 --> 00:08:39,875
+-[Junge 1] Paul!
+-[Junge 2] Paul!
+
+51
+00:08:40,042 --> 00:08:42,625
+[Gelachter]
+
+52
+00:08:42,792 --> 00:08:43,958
+[Junge 2] Paul. Na?
+
+53
+00:08:44,583 --> 00:08:46,750
+-Und?
+-M-m.
+
+54
+00:08:47,458 --> 00:08:49,667
+-Na, und jetzt?
+-Wei? nicht.
+
+55
+00:08:50,417 --> 00:08:52,500
+-Wei? er, dass wir alle gehen?
+-Naturlich.
+
+56
+00:08:52,667 --> 00:08:53,500
+Bleibst du daheim?
+
+57
+00:08:53,667 --> 00:08:56,292
+Mein Gott, sollst du
+deiner Mutti am Rockzipfel hangen?
+
+58
+00:08:57,750 --> 00:08:59,375
+Gib her, ich unterschreib's dir.
+
+59
+00:08:59,542 --> 00:09:02,375
+-Das mussen seine Eltern machen.
+-Haben sie nicht. Gib her.
+
+60
+00:09:02,542 --> 00:09:06,000
+-Das geht nicht. Das merken die doch.
+-Ha, wie denn? Wie denn?
+
+61
+00:09:06,167 --> 00:09:08,167
+Ist sein Vater ein Brieffreund von denen?
+
+62
+00:09:11,500 --> 00:09:12,875
+Gib mir deinen Fuller.
+
+63
+00:09:13,042 --> 00:09:14,000
+Hab ich nicht.
+
+64
+00:09:14,542 --> 00:09:15,792
+Ludwig.
+
+65
+00:09:15,958 --> 00:09:18,167
+Das gibt Arger. Der wird dich verdreschen.
+
+66
+00:09:18,333 --> 00:09:19,625
+Hast du ’ne bessere ldee?
+
+67
+00:09:19,792 --> 00:09:21,792
+Ich bleib sicher nicht als Einziger hier.
+
+68
+00:09:34,833 --> 00:09:38,417
+[lacht] Jawoll.
+Gluckwunsch, Gefreiter Baumer.
+
+69
+00:09:38,583 --> 00:09:41,083
+-Sie gehen an die Front.
+-Ich bin 'n toter Mann.
+
+70
+00:09:43,083 --> 00:09:46,458
+[Mann] Sie stehen hier
+an der Schwelle des Daseins.
+
+71
+00:09:47,833 --> 00:09:49,667
+Erinnern Sie sich an diesen Moment.
+
+72
+00:09:50,708 --> 00:09:52,667
+Es ist ein gro?er Moment.
+
+73
+00:09:52,833 --> 00:09:55,333
+Denn in spateren Jahren
+werden Sie danach beurteilt,
+
+74
+00:09:55,500 --> 00:09:58,417
+was Sie heute wagen zu werden.
+
+75
+00:09:59,083 --> 00:10:01,125
+Deutschlands eiserne Jugend.
+
+76
+00:10:01,792 --> 00:10:02,917
+Meine Freunde.
+
+77
+00:10:03,542 --> 00:10:06,125
+Wir haben das Gluck,
+in einer gro?en Zeit zu leben.
+
+78
+00:10:06,292 --> 00:10:08,750
+Ihre Taten werden das Grundwasser bilden
+
+79
+00:10:08,917 --> 00:10:11,667
+fur das Wachstum
+einer edlen, kraftigen Wurzel.
+
+80
+00:10:12,167 --> 00:10:13,917
+Stillstehen und zuhoren, Leinemann!
+
+81
+00:10:14,625 --> 00:10:16,833
+Der Kaiser braucht Soldaten, keine Kinder!
+
+82
+00:10:19,042 --> 00:10:20,000
+Ich bin mir sicher,
+
+83
+00:10:20,167 --> 00:10:23,833
+dass ich die meisten von Ihnen
+hier in der Heimat bald wiedersehen werde,
+
+84
+00:10:24,625 --> 00:10:27,958
+das Schwert mit Ehren
+zuruck in die Scheide gesteckt.
+
+85
+00:10:28,708 --> 00:10:32,208
+Mit einem eisernen Kreuz
+an der vor Stolz geschwellten Brust.
+
+86
+00:10:33,250 --> 00:10:34,708
+Aber tauschen Sie sich nicht.
+
+87
+00:10:35,958 --> 00:10:39,208
+In den dunkelsten Stunden
+wird es dort drau?en auch vorkommen,
+
+88
+00:10:40,125 --> 00:10:42,708
+dass Sie vor einem Angriff Zweifel hegen.
+
+89
+00:10:43,708 --> 00:10:46,667
+Aber dies ist keine Zeit
+fur die Schwachen des Geistes!
+
+90
+00:10:47,167 --> 00:10:51,417
+Jedes Schwanken,
+Jedes Zogern ist ein Verrat am Vaterland!
+
+91
+00:10:52,708 --> 00:10:55,208
+Denn der moderne Krieg
+ist wie ein Schachspiel.
+
+92
+00:10:55,708 --> 00:10:59,667
+Es geht niemals um den Einzelnen,
+sondern immer nur um das Gesamte.
+
+93
+00:11:01,583 --> 00:11:04,667
+Sie werden sich
+als wurdige Trager dieser Uniform erweisen
+
+94
+00:11:05,333 --> 00:11:08,125
+und die gegnerische Front
+in Flandern durchbrechen.
+
+95
+00:11:08,292 --> 00:11:11,625
+Und dann werden Sie
+in ein paar Wochen schon
+
+96
+00:11:12,458 --> 00:11:14,917
+nun endlich auf Paris marschieren!
+
+97
+00:11:15,083 --> 00:11:16,625
+-Jawoll!
+-Ja!
+
+98
+00:11:16,792 --> 00:11:18,042
+Unsere Zukunft,
+
+99
+00:11:18,750 --> 00:11:20,458
+die Zukunft Deutschlands,
+
+100
+00:11:21,458 --> 00:11:24,417
+liegt in den Handen
+seiner gro?ten Generation.
+
+101
+00:11:25,333 --> 00:11:27,833
+Meine Freunde, das sind Sie!
+
+102
+00:11:28,000 --> 00:11:28,833
+Ja!
+
+103
+00:11:29,000 --> 00:11:30,917
+Darum auf in den Kampf!
+
+104
+00:11:31,083 --> 00:11:34,042
+Fur Kaiser, Gott und Vaterland!
+
+105
+00:11:34,208 --> 00:11:36,042
+-Ja!
+-Ja!
+
+106
+00:11:36,208 --> 00:11:37,542
+[Jubel, Applaus]
+
+107
+00:11:37,708 --> 00:11:39,833
+-Bravo!
+-Ja!
+
+108
+00:11:45,333 --> 00:11:47,333
+[Jubel verklingt langsam]
+
+109
+00:11:47,500 --> 00:11:49,000
+[Offizier 1] Der Nachste.
+
+110
+00:11:49,167 --> 00:11:50,208
+[Offizier 2] Nachster.
+
+111
+00:11:50,917 --> 00:11:53,458
+-[Offizier 1] Der Nachste.
+-[Offizier 3] Nachster.
+
+112
+00:11:55,542 --> 00:11:56,875
+[Offizier 1] Der Nachste.
+
+113
+00:11:57,042 --> 00:11:59,542
+[Offizier 3] Baumer, Paul. Wiesengrund 53.
+
+114
+00:11:59,708 --> 00:12:02,667
+Geboren 18.11.99. Korrekt?
+
+115
+00:12:02,833 --> 00:12:03,875
+Jawohl, Herr Offizier.
+
+116
+00:12:08,875 --> 00:12:10,000
+[Offizier 1] Nachster.
+
+117
+00:12:11,125 --> 00:12:12,375
+[Junge flustert] Paul?
+
+118
+00:12:13,833 --> 00:12:16,167
+Hier. Kann dein Vater stolz auf dich sein.
+
+119
+00:12:16,333 --> 00:12:17,083
+Ja.
+
+120
+00:12:17,250 --> 00:12:18,292
+[Offizier 1] Nachster.
+
+121
+00:12:19,958 --> 00:12:21,083
+Alles in Ordnung?
+
+122
+00:12:21,917 --> 00:12:24,542
+-Ja. Mochte endlich loslegen.
+-[Offizier 2] Nachster.
+
+123
+00:12:24,708 --> 00:12:25,458
+Abflug.
+
+124
+00:12:26,750 --> 00:12:28,167
+[Offizier 3] Der Nachste.
+
+125
+00:12:28,833 --> 00:12:30,625
+[Offizier liest Adresse vor]
+
+126
+00:12:30,792 --> 00:12:31,833
+[Paul] Entschuldigung.
+
+127
+00:12:32,000 --> 00:12:33,208
+Die gehort schon wem.
+
+128
+00:12:33,917 --> 00:12:35,292
+[Offizier 1] Nachster.
+
+129
+00:12:35,458 --> 00:12:39,000
+Ja. War die wohl zu klein fur den Kerl.
+Das kommt immer wieder vor.
+
+130
+00:12:39,167 --> 00:12:40,792
+Hier. Machen Sie es gut.
+
+131
+00:12:41,375 --> 00:12:42,583
+Danke.
+
+132
+00:12:45,458 --> 00:12:47,458
+(heiteres Lachen]
+
+133
+00:12:49,833 --> 00:12:51,167
+[dustere Musik]
+
+134
+00:12:59,458 --> 00:13:01,542
+[Kropp] Mensch, wie ma?geschneidert.
+
+135
+00:13:03,208 --> 00:13:05,917
+[Kropp] Na, Ludwig.
+Schnappst du uns jetzt die Madels weg?
+
+136
+00:13:06,083 --> 00:13:07,000
+Ja.
+
+137
+00:13:07,167 --> 00:13:08,875
+Hauptsache, du erschieR?t uns nicht.
+
+138
+00:13:10,542 --> 00:13:14,042
+[Muller] > Madchen, ich liebe dich S
+
+139
+00:13:14,208 --> 00:13:17,083
+J Aber heiraten, das geht noch nicht S
+
+140
+00:13:17,250 --> 00:13:19,875
+S Wart nur noch ein Jahr
+Dann wird's... S
+
+141
+00:13:20,042 --> 00:13:21,292
+Die wartet nicht, Franz.
+
+142
+00:13:21,458 --> 00:13:22,333
+[Gelachter]
+
+143
+00:13:22,500 --> 00:13:23,875
+[lacht] Die wartet nicht!
+
+144
+00:13:26,000 --> 00:13:27,542
+[Kropp] Du Weiberheld, du.
+
+145
+00:13:28,750 --> 00:13:30,583
+[weiter dustere Musik]
+
+146
+00:13:30,750 --> 00:13:31,833
+[Kirchenglocken lauten]
+
+147
+00:13:34,750 --> 00:13:38,500
+S Trink 'ne Tasse Tee
+Mit Zucker und Kaffee —
+
+148
+00:13:38,667 --> 00:13:42,083
+S Trink 'ne Tasse Tee
+Mit Zucker und Kaffee —
+
+149
+00:13:42,250 --> 00:13:45,708
+J Und ein Glaschen Wein —&
+
+150
+00:13:45,875 --> 00:13:48,792
+J Und ein Glaschen Wein —&
+
+151
+00:13:50,083 --> 00:13:53,667
+J Madchen, ich liebe dich S
+
+152
+00:13:53,833 --> 00:13:57,417
+J Aber Heirat, das geht noch nicht J
+
+153
+00:13:57,583 --> 00:14:01,042
+S Warte noch ein Jahr
+Dann wird's werden wahr —
+
+154
+00:14:01,208 --> 00:14:04,708
+S Warte noch ein Jahr
+Dann wird's werden wahr —
+
+155
+00:14:28,333 --> 00:14:32,250
+-[Leutnant] Wie hei?en Sie, Soldat?
+-Kropp. Albert Kropp, Herr Leutnant.
+
+156
+00:14:32,417 --> 00:14:34,458
+Mogen Sie gern schmutzige Madchen, Kropp?
+
+157
+00:14:36,792 --> 00:14:39,000
+Ob Sie gerne schmutzige Madchen mogen?
+
+158
+00:14:40,167 --> 00:14:42,125
+Ah, nein, Herr Leutnant.
+
+159
+00:14:42,292 --> 00:14:44,125
+Und warum schlafen Sie dann mit einer?
+
+160
+00:14:44,833 --> 00:14:47,000
+Sie melden sich zum Wachdienst um 3 Uhr.
+
+161
+00:14:48,042 --> 00:14:50,833
+Meine Herren,
+Sie kampfen in einem absoluten Drecksloch.
+
+162
+00:14:51,000 --> 00:14:54,417
+Und tun dies
+mit einer sauberen G-98 gefalligst.
+
+163
+00:14:55,042 --> 00:14:56,583
+Sie werden sie verwohnen.
+
+164
+00:14:56,750 --> 00:14:58,000
+Sie werden sie lieben.
+
+165
+00:14:58,833 --> 00:15:02,750
+Und Sie werden sie makellos halten
+wie die Schenkel der heiligen Jungfrau.
+
+166
+00:15:02,917 --> 00:15:04,167
+Haben wir uns verstanden?
+
+167
+00:15:04,333 --> 00:15:05,875
+[alle] Jawohl, Herr Leutnant.
+
+168
+00:15:06,042 --> 00:15:08,917
+Willkommen
+im Reserve-Infanterie-Regiment 78.
+
+169
+00:15:10,500 --> 00:15:12,208
+Wir sind jetzt an der Westfront.
+
+170
+00:15:13,333 --> 00:15:15,667
+[alle] Willkommen in Paris!
+
+171
+00:15:15,833 --> 00:15:17,750
+[Jungen lachen ausgelassen]
+
+172
+00:15:36,542 --> 00:15:37,958
+[Hupen]
+
+173
+00:15:46,625 --> 00:15:48,583
+[Leutnant] Was, verdammt, ist passiert?
+
+174
+00:15:48,750 --> 00:15:51,333
+Ich muss die Kompanie
+vor 18 Uhr an der Front ubergeben.
+
+175
+00:15:51,500 --> 00:15:53,250
+Das konnen Sie tun, aber zu Fu?.
+
+176
+00:15:53,417 --> 00:15:56,125
+-Wir brauchen die Lastwagen.
+-Ich hab einen Befehl.
+
+177
+00:15:56,292 --> 00:16:00,542
+Stecken Sie sich den Befehl in den Arsch!
+Ich hab 40 Mann, die im Matsch krepieren.
+
+178
+00:16:00,708 --> 00:16:01,875
+Steigen Sie sofort aus.
+
+179
+00:16:04,667 --> 00:16:06,250
+[Leutnant] Alle absetzen!
+
+180
+00:16:07,583 --> 00:16:09,375
+Ja, kommen Sie. Machen Sie flott.
+
+181
+00:16:10,417 --> 00:16:12,292
+Sie haben den Herrn Stabsarzt gehort.
+
+182
+00:16:14,042 --> 00:16:17,625
+Schneller, Soldaten!
+Schlafen Sie hier nicht ein!
+
+183
+00:16:20,542 --> 00:16:21,792
+Kommen Sie!
+
+184
+00:16:27,958 --> 00:16:29,708
+-Franz Muller, oder?
+-Ja.
+
+185
+00:16:30,208 --> 00:16:33,917
+Die oberste Heeresleitung erwartet,
+dass Sie mindestens 6 Wochen uberleben.
+
+186
+00:16:34,083 --> 00:16:36,333
+-Wollen Sie in 6 Wochen noch leben?
+-Jawohl.
+
+187
+00:16:36,500 --> 00:16:40,167
+Nehmen Sie gefalligst die Beine
+in die Hand und trodeln Sie nicht.
+
+188
+00:16:40,333 --> 00:16:42,042
+-Haben Sie mich verstanden?
+-Ja.
+
+189
+00:16:42,917 --> 00:16:44,750
+Beeilen Sie sich!
+
+190
+00:16:44,917 --> 00:16:46,833
+Wir sind hier nicht beim Tanztee.
+
+191
+00:16:53,375 --> 00:16:56,625
+[Leutnant] Gas! Gas!
+
+192
+00:16:56,792 --> 00:16:57,875
+[Soldat] Gas!
+
+193
+00:16:58,042 --> 00:16:59,667
+[Leutnant] Gas!
+
+194
+00:16:59,833 --> 00:17:00,958
+[Soldat] Gas!
+
+195
+00:17:02,125 --> 00:17:03,792
+[Soldat] Gasmasken an!
+
+196
+00:17:03,958 --> 00:17:07,167
+Das, meine Herren, war ein fettes Schwein.
+
+197
+00:17:07,333 --> 00:17:09,167
+Konnten die Franzosen besser zielen,
+
+198
+00:17:09,333 --> 00:17:11,833
+wurde man uns jetzt
+mit einem Loffel zusammenkratzen
+
+199
+00:17:12,000 --> 00:17:13,750
+und in einem Kochgeschirr beerdigen.
+
+200
+00:17:13,917 --> 00:17:17,417
+Aber eins ist so sicher
+wie das Amen in der Kirche:
+
+201
+00:17:18,083 --> 00:17:21,500
+Fette Schweine tragen kein Gas.
+
+202
+00:17:22,458 --> 00:17:24,083
+Augen geradeaus.
+
+203
+00:17:38,042 --> 00:17:41,250
+-[Leutnant] Haben Sie Watte in den Ohren?
+-[Paul] Nein, Herr Leutnant.
+
+204
+00:17:41,417 --> 00:17:43,833
+Ich habe nur versucht,
+mir meine Maske aufzuziehen.
+
+205
+00:17:44,000 --> 00:17:46,583
+[lautes Atmen]
+
+206
+00:17:50,875 --> 00:17:54,500
+Sie, Paul Baumer,
+sind bei Tagesanbruch fast sicher tot.
+
+207
+00:17:55,542 --> 00:17:56,875
+Essen Sie mal was, Mensch.
+
+208
+00:17:58,958 --> 00:18:00,042
+Achtung!
+
+209
+00:18:00,208 --> 00:18:01,625
+Gasmasken weg!
+
+210
+00:18:01,792 --> 00:18:03,333
+[Soldat] Gasmasken ab!
+
+211
+00:18:03,500 --> 00:18:04,500
+[Leutnant] Sie nicht.
+
+212
+00:18:04,667 --> 00:18:07,208
+Sie behalten Ihre auf
+bis zum Wachdienst heute Nacht.
+
+213
+00:18:07,917 --> 00:18:09,500
+Zusammen mit dem Knallkopf da.
+
+214
+00:18:10,250 --> 00:18:12,792
+In einer Reihe Marsch!
+
+215
+00:18:13,458 --> 00:18:16,542
+Bleiben Sie zusammen und bewegen Sie sich!
+
+216
+00:18:17,375 --> 00:18:19,583
+Na, kommen Sie! Beeilen Sie sich!
+
+217
+00:18:25,292 --> 00:18:27,333
+[stetes Maschinengewehr-Feuer]
+
+218
+00:18:29,708 --> 00:18:31,458
+[unaufhorliche Explosionen]
+
+219
+00:18:33,625 --> 00:18:35,167
+[laute Explosion]
+
+220
+00:18:37,125 --> 00:18:40,292
+Paul! Paul, komm.
+Gib mir deinen Tornister.
+
+221
+00:18:40,458 --> 00:18:42,375
+Dann tragst du meinen beim nachsten Mal.
+
+222
+00:18:50,750 --> 00:18:52,750
+[lautes Atmen]
+
+223
+00:18:54,083 --> 00:18:56,250
+[Leutnant]
+Herzlichen Gluckwunsch, Soldaten.
+
+224
+00:18:56,417 --> 00:18:58,292
+Das hier ist jetzt Ihr Zuhause.
+
+225
+00:18:58,458 --> 00:18:59,500
+Helme ab!
+
+226
+00:19:00,667 --> 00:19:03,250
+Wie ich sehe,
+genie?en die Manner meine Abwesenheit.
+
+227
+00:19:03,417 --> 00:19:06,667
+Wir lagen die ganze Nacht im Trommelfeuer.
+Die Nerven liegen blank.
+
+228
+00:19:06,833 --> 00:19:09,167
+Dann sind trockene Stiefel
+'n gutes Gegenmittel.
+
+229
+00:19:09,333 --> 00:19:10,833
+Sollen wir alle ersaufen, Mann?
+
+230
+00:19:11,000 --> 00:19:13,792
+Alle mit anpacken.
+Den Graben leer schopfen.
+
+231
+00:19:19,625 --> 00:19:21,125
+Worauf warten Sie, Baumer?
+
+232
+00:19:21,917 --> 00:19:23,917
+Was stehen Sie hier noch so rum?
+
+233
+00:19:26,125 --> 00:19:28,333
+[Soldat]
+Wirf 'nem Hund 'n Stuck Fleisch hin,
+
+234
+00:19:29,292 --> 00:19:31,042
+wird er immer danach schnappen.
+
+235
+00:19:32,708 --> 00:19:34,542
+Gib 'nem Menschen Macht...
+
+236
+00:19:38,125 --> 00:19:39,500
+Der Mensch ist 'n Biest.
+
+237
+00:19:40,750 --> 00:19:41,583
+Trink.
+
+238
+00:19:45,417 --> 00:19:48,250
+[Soldat]
+Katczinsky, herkommen. Mit anpacken.
+
+239
+00:19:53,583 --> 00:19:55,083
+Heute Nacht gibt's Kattun.
+
+240
+00:19:57,292 --> 00:19:59,625
+[weiter Schusse und Explosionen]
+
+241
+00:20:20,792 --> 00:20:22,708
+[achzen angestrengt]
+
+242
+00:20:25,042 --> 00:20:26,125
+'tschuldigung.
+
+243
+00:20:27,125 --> 00:20:28,125
+Vergiss es.
+
+244
+00:20:28,958 --> 00:20:31,417
+Ich hab mir das
+irgendwie anders vorgestellt.
+
+245
+00:20:31,583 --> 00:20:33,125
+[Kropp] Halt die Klappe, Ludwig.
+
+246
+00:20:33,625 --> 00:20:36,792
+Meine Hande.
+Ich kann meine Hande nicht mehr spuren.
+
+247
+00:20:44,250 --> 00:20:46,083
+Steck sie dir in die Unterhose.
+
+248
+00:20:46,250 --> 00:20:47,667
+So mache ich das auch immer.
+
+249
+00:21:09,833 --> 00:21:11,833
+[dustere spharische Musik]
+
+250
+00:21:27,542 --> 00:21:29,917
+[Kropp]
+Meinst du, es wird dann besser schie?en?
+
+251
+00:21:44,000 --> 00:21:45,917
+-[Paul] Hast du gehort?
+-[Kropp] Was?
+
+252
+00:21:47,333 --> 00:21:50,042
+-[Paul] Das Gerausch. Hor doch.
+-[Kropp] Da ist nichts.
+
+253
+00:21:50,875 --> 00:21:52,167
+[Paul] Sch, sch, sch...
+
+254
+00:21:53,500 --> 00:21:55,500
+[entfernte Schusse]
+
+255
+00:22:00,583 --> 00:22:02,333
+Unsere ersten Franzosen.
+
+256
+00:22:02,500 --> 00:22:04,000
+Beruhig dich, Paulchen.
+
+257
+00:22:07,125 --> 00:22:09,125
+[entfernte Schusse]
+
+258
+00:22:09,750 --> 00:22:11,250
+Jetzt hab ich's auch gehort.
+
+259
+00:22:21,750 --> 00:22:22,708
+[Kropp] Wer ist da?
+
+260
+00:22:24,333 --> 00:22:25,208
+He.
+
+261
+00:22:27,708 --> 00:22:29,208
+[Franzosisch] Zeigen Sie sich!
+
+262
+00:22:31,958 --> 00:22:33,833
+[entfernte Schusse]
+
+263
+00:22:43,667 --> 00:22:45,333
+-[Schuss]
+-[Paul schreit]
+
+264
+00:22:47,458 --> 00:22:48,333
+[Kropp] Nein!
+
+265
+00:22:48,500 --> 00:22:51,542
+[Paul] Ich bin getroffen!
+Ich bin getroffen! Ich bin getroffen!
+
+266
+00:22:52,042 --> 00:22:54,500
+-[Kropp] Nein. Paul.
+-[Kamerad] Was ist da los?
+
+267
+00:22:54,667 --> 00:22:55,542
+[Kropp] Oh nein.
+
+268
+00:22:56,125 --> 00:22:57,042
+Oh Mann.
+
+269
+00:22:58,083 --> 00:22:59,792
+[Kropp achzt angestrengt]
+
+270
+00:23:02,958 --> 00:23:03,917
+Was ist?
+
+271
+00:23:04,625 --> 00:23:06,708
+Die da druben haben auf mich geschossen.
+
+272
+00:23:12,250 --> 00:23:14,125
+Die haben euer Mundungsfeuer gesehen.
+
+273
+00:23:15,250 --> 00:23:17,708
+Hm? In Zukunft zieht den Kopf ein.
+
+274
+00:23:17,875 --> 00:23:21,292
+Wenn ihr die nachste nicht fangen wollt,
+zieht 10 m nach links.
+
+275
+00:23:21,458 --> 00:23:24,500
+Schie?en, verlagern.
+Schie?en, verlagern. Verstanden?
+
+276
+00:23:25,833 --> 00:23:27,500
+-Ja.
+-Hm...
+
+277
+00:23:28,417 --> 00:23:29,917
+[stohnt genervt]
+
+278
+00:23:42,208 --> 00:23:43,083
+[Kropp] Komm.
+
+279
+00:23:50,958 --> 00:23:53,417
+[melancholische Streichmusik]
+
+280
+00:24:13,333 --> 00:24:15,333
+[Explosion und Schusse in der Ferne]
+
+281
+00:24:29,833 --> 00:24:31,542
+[Explosion in der Ferne]
+
+282
+00:24:32,458 --> 00:24:34,042
+[Schreie]
+
+283
+00:24:34,208 --> 00:24:36,125
+[Soldat 1] In Deckung! In Deckung!
+
+284
+00:24:39,000 --> 00:24:40,083
+[Soldat 2] Rein hier!
+
+285
+00:24:40,917 --> 00:24:43,125
+Baumer, Kropp!
+Ihr zwei, rein hier. Schnell!
+
+286
+00:24:43,292 --> 00:24:45,750
+In den Bunker! In den Bunker!
+
+287
+00:24:47,917 --> 00:24:50,417
+Rein! Rein! Rein! Rein!
+
+288
+00:24:50,583 --> 00:24:52,375
+[schreien vor Angst]
+
+289
+00:24:54,375 --> 00:24:56,583
+[unaufhorliche Explosionen]
+
+290
+00:24:58,667 --> 00:25:00,917
+[lautes Donnern]
+
+291
+00:25:03,583 --> 00:25:05,750
+[angstliches Gewimmer]
+
+292
+00:25:09,042 --> 00:25:13,208
+[weint] "Gib Acht, auf was du isst."
+Das hat meine Mutter gesagt.
+
+293
+00:25:16,333 --> 00:25:18,167
+-Wir bleiben zusammen, ja, Paul?
+-Ja.
+
+294
+00:25:18,333 --> 00:25:19,792
+-Wir bleiben zusammen.
+-Ja.
+
+295
+00:25:21,625 --> 00:25:24,583
+Ich kann das nicht, Paul.
+Ich kann das nicht. Ich will heim.
+
+296
+00:25:24,750 --> 00:25:26,750
+-Pst...
+-Ich will heim.
+
+297
+00:25:26,917 --> 00:25:28,750
+[Explosionen verstummen]
+
+298
+00:25:28,917 --> 00:25:30,833
+[unverstandliches Gerede]
+
+299
+00:25:33,583 --> 00:25:35,417
+[Gehuste]
+
+300
+00:25:47,333 --> 00:25:48,208
+Feuerwalze.
+
+301
+00:25:51,958 --> 00:25:52,792
+Was?
+
+302
+00:25:54,417 --> 00:25:57,583
+Alle paar Minuten verschiebt sich
+das Granatfeuer nach vorne,
+
+303
+00:25:58,583 --> 00:26:02,708
+und direkt dahinter
+ruckt die Infanterie nach.
+
+304
+00:26:04,292 --> 00:26:05,458
+Was hei?t das?
+
+305
+00:26:06,167 --> 00:26:07,250
+Sie kommen.
+
+306
+00:26:18,708 --> 00:26:21,458
+[Explosion, Schreie]
+
+307
+00:26:21,625 --> 00:26:23,583
+[wimmert]
+
+308
+00:26:28,208 --> 00:26:29,292
+Wo geht's denn hin?
+
+309
+00:26:29,458 --> 00:26:30,958
+Bin gleich wieder da.
+
+310
+00:26:31,125 --> 00:26:32,458
+Das Feuer lasst gleich nach.
+
+311
+00:26:33,958 --> 00:26:35,750
+-Nein. Lass mich los.
+-Ruhig.
+
+312
+00:26:35,917 --> 00:26:38,708
+-Lass mich raus. Ich will hier raus.
+-Ruhig. Beruhig dich!
+
+313
+00:26:40,083 --> 00:26:41,250
+Ruhig.
+
+314
+00:26:45,542 --> 00:26:46,583
+[Kamerad] Nein!
+
+315
+00:26:47,792 --> 00:26:49,625
+[Schreie]
+
+316
+00:26:50,875 --> 00:26:53,917
+Raus! Raus! Raus! Raus!
+
+317
+00:26:54,083 --> 00:26:56,375
+[panisches Geschrei]
+
+318
+00:27:00,208 --> 00:27:02,750
+[Kamerad] Bewegung! Raus! Raus hier!
+
+319
+00:27:02,917 --> 00:27:04,208
+Alle raus!
+
+320
+00:27:07,750 --> 00:27:09,542
+[lautes Krachen]
+
+321
+00:27:10,583 --> 00:27:12,583
+[Stille]
+
+322
+00:27:26,542 --> 00:27:28,542
+[Explosionen in der Ferne]
+
+323
+00:27:33,958 --> 00:27:35,958
+[atmet leise]
+
+324
+00:27:55,875 --> 00:28:00,667
+[Franz, dumpf] Paul. Das ist Paul.
+Albert! Albert! Wir haben Paul gefunden!
+
+325
+00:28:03,083 --> 00:28:04,708
+Der Balken muss da weg.
+
+326
+00:28:07,708 --> 00:28:09,958
+[Franz] Paul. Paul!
+
+327
+00:28:12,667 --> 00:28:13,750
+Alles in Ordnung?
+
+328
+00:28:14,833 --> 00:28:16,875
+[Kropp] Alles in Ordnung, Paul?
+
+329
+00:28:17,042 --> 00:28:19,667
+[Franz]
+Komm, Paul. Paul, komm. Ich helf dir.
+
+330
+00:28:19,833 --> 00:28:22,167
+Komm. Komm hoch. Setz dich.
+
+331
+00:28:22,333 --> 00:28:26,542
+[Kropp] Paul, bist du verletzt?
+Horst du mich?
+
+332
+00:28:26,708 --> 00:28:29,375
+-Wir sehen uns spater, Paul.
+-Bis spater, Paulchen.
+
+333
+00:28:36,875 --> 00:28:39,125
+[Soldat schreit vor Schmerz]
+
+334
+00:28:41,458 --> 00:28:43,417
+[Leutnant] Weiter! Weiter!
+
+335
+00:29:20,333 --> 00:29:22,458
+[melancholische Musik]
+
+336
+00:29:46,667 --> 00:29:48,667
+[Leutnant] Katczinsky, weitermachen!
+
+337
+00:29:48,833 --> 00:29:50,708
+Und Sie? Sind Sie verletzt?
+
+338
+00:29:50,875 --> 00:29:52,000
+Nein.
+
+339
+00:29:52,167 --> 00:29:55,417
+-[Leutnant] Dann einsammeln.
+-[Katczinsky] Mann, Mann, Mann, Mann!
+
+340
+00:30:05,125 --> 00:30:06,458
+Sich regen bringt Segen.
+
+341
+00:30:28,542 --> 00:30:30,542
+[dustere Musik]
+
+342
+00:31:07,167 --> 00:31:08,500
+[Glas zerspringt]
+
+343
+00:31:19,458 --> 00:31:21,458
+[Musik verklingt]
+
+344
+00:31:21,625 --> 00:31:23,542
+[atmet stockend]
+
+345
+00:32:04,083 --> 00:32:06,083
+[atmet stockend]
+
+346
+00:32:33,333 --> 00:32:35,083
+[Paul schluchzt]
+
+347
+00:32:48,958 --> 00:32:51,333
+[triste Harmonium-Musik]
+
+348
+00:33:02,500 --> 00:33:07,292
+[Leutnant] Los! Los! Weiter jetzt hier!
+Wir sind ja ubermorgen noch nicht fertig.
+
+349
+00:33:36,875 --> 00:33:38,875
+[Harmonium-Musik steigert sich]
+
+350
+00:34:06,292 --> 00:34:08,292
+[weiter triste Musik]
+
+351
+00:34:21,208 --> 00:34:24,250
+[Mann] Albrecht, Karl. Diepholz.
+
+352
+00:34:24,417 --> 00:34:28,667
+14. September 1898.
+
+353
+00:34:32,625 --> 00:34:35,750
+Blumenthal, Samuel.
+
+354
+00:34:36,792 --> 00:34:40,750
+Dresden, 6. November 1900.
+
+355
+00:34:41,875 --> 00:34:43,500
+Der hatte gestern Geburtstag.
+
+356
+00:34:46,875 --> 00:34:49,375
+Von Gallwitz, Gustav.
+
+357
+00:34:50,375 --> 00:34:54,792
+Osnabruck, 20. Juni 99.
+
+358
+00:34:54,958 --> 00:34:56,000
+[Uhr tickt]
+
+359
+00:34:56,167 --> 00:34:57,583
+Gotz Luttwitz...
+
+360
+00:34:57,750 --> 00:34:58,625
+Es genugt.
+
+361
+00:35:01,458 --> 00:35:03,458
+[Telefon klingelt]
+
+362
+00:35:34,292 --> 00:35:35,500
+[rauspert sich]
+
+363
+00:35:36,458 --> 00:35:37,625
+Herr Erzberger.
+
+364
+00:35:47,083 --> 00:35:48,542
+Gott sei mit uns.
+
+365
+00:35:49,500 --> 00:35:52,625
+Wieder mehr als 40.000 Tote
+allein in den letzten Wochen.
+
+366
+00:35:54,250 --> 00:35:56,208
+Das sollte den Generalstab uberzeugen.
+
+367
+00:35:57,708 --> 00:36:00,292
+Ich denke,
+die Herren wissen, dass es vorbei ist.
+
+368
+00:36:02,458 --> 00:36:03,750
+Wir wissen es alle.
+
+369
+00:36:08,875 --> 00:36:10,375
+Der General Feldmarschall.
+
+370
+00:36:36,625 --> 00:36:38,625
+[Motor rattert]
+
+371
+00:36:56,375 --> 00:36:58,125
+-Danke.
+-Jawoll.
+
+372
+00:37:10,792 --> 00:37:14,958
+[Kat] Wenn wir in dem Tempo weitermachen,
+erobern wir in 180 Jahren Frankreich.
+
+373
+00:37:15,792 --> 00:37:17,958
+-Ich hab's gerechnet.
+-[Lachen]
+
+374
+00:37:18,750 --> 00:37:23,042
+-[Paul] Lass dich nicht erwischen, Kat.
+-[Kat lacht] Niemals.
+
+375
+00:37:29,792 --> 00:37:31,792
+[Huhner gackern]
+
+376
+00:37:33,042 --> 00:37:33,958
+Hor mal.
+
+377
+00:37:37,167 --> 00:37:39,792
+Was meinst du, Paul.
+Lohnt es sich, dafur zu sterben?
+
+378
+00:37:41,417 --> 00:37:43,000
+Fur Hunger lohnt sich alles.
+
+379
+00:38:10,042 --> 00:38:11,792
+[Scheunentur wird geoffnet]
+
+380
+00:38:22,083 --> 00:38:24,083
+[Hundegebell]
+
+381
+00:38:25,125 --> 00:38:27,042
+[Frau spricht Franzosisch]
+
+382
+00:38:28,583 --> 00:38:30,458
+[Poltern]
+
+383
+00:38:31,375 --> 00:38:33,500
+[Mann ruft wutend auf Franzosisch]
+
+384
+00:38:34,917 --> 00:38:36,917
+[Hund knurrt]
+
+385
+00:38:37,542 --> 00:38:40,417
+[Mann brullt wutend auf Franzosisch]
+
+386
+00:38:40,583 --> 00:38:41,333
+[Paul] Kat?
+
+387
+00:38:41,500 --> 00:38:43,750
+[Mann brullt wutend auf Franzosisch]
+
+388
+00:38:44,500 --> 00:38:45,542
+[Paul] Kat?
+
+389
+00:38:46,708 --> 00:38:47,542
+[Kat] Lauf!
+
+390
+00:38:47,708 --> 00:38:49,875
+[Mann, Franzosisch]
+He! Dreckiger Deutscher!
+
+391
+00:38:50,042 --> 00:38:50,792
+Lauf!
+
+392
+00:38:50,958 --> 00:38:54,292
+-[Mann brullt wutend auf Franzosisch]
+-[Schusse]
+
+393
+00:38:57,000 --> 00:38:58,542
+[sie lachen]
+
+394
+00:39:01,625 --> 00:39:03,417
+[Kat achzt angestrengt]
+
+395
+00:39:03,583 --> 00:39:04,750
+[sie lachen]
+
+396
+00:39:04,917 --> 00:39:07,042
+[Lachen, ausgelassene Stimmung]
+
+397
+00:39:07,542 --> 00:39:09,542
+[Soldat] Pst... Ruhe jetzt.
+
+398
+00:39:11,958 --> 00:39:14,083
+Manner, ihr seid Helden.
+
+399
+00:39:14,250 --> 00:39:16,542
+Macht die Tur zu,
+sonst riechen die anderen das.
+
+400
+00:39:19,250 --> 00:39:20,083
+Parole.
+
+401
+00:39:20,250 --> 00:39:22,125
+Wei? nicht. Hab ich alles vergessen.
+
+402
+00:39:22,292 --> 00:39:24,875
+-Streng deinen Kopf an.
+-Augen auf, Finger lang.
+
+403
+00:39:25,042 --> 00:39:26,833
+-So sieht das aus.
+-Mund auf, Gans rein.
+
+404
+00:39:27,000 --> 00:39:29,875
+[Kat] Ein Stuck Gans von der Gans.
+Vom Franz fur den Franz.
+
+405
+00:39:30,042 --> 00:39:30,958
+Ich nehm 'n Flugel.
+
+406
+00:39:31,125 --> 00:39:32,958
+Muss ich teilen? Ich nehm den Rest.
+
+407
+00:39:33,125 --> 00:39:34,500
+[Soldat] Na dann, rein damit.
+
+408
+00:39:35,208 --> 00:39:38,125
+[Kamerad] Komm her, du blindes Huhn.
+Breitmaulfrosch.
+
+409
+00:39:38,292 --> 00:39:40,917
+-[Kropp] Ruhe sanft im Trommelfeuer.
+-Oh Gott.
+
+410
+00:39:41,625 --> 00:39:42,833
+Oh Gott.
+
+411
+00:39:43,000 --> 00:39:44,958
+Hey, Jungs, das vergesse ich euch nie.
+
+412
+00:39:45,125 --> 00:39:47,250
+[freudiges Lachen, genussvolles Schmatzen]
+
+413
+00:39:50,542 --> 00:39:52,542
+[melancholische Streichmusik]
+
+414
+00:40:02,000 --> 00:40:03,458
+[schlurft]
+
+415
+00:40:04,000 --> 00:40:05,458
+Mmh...
+
+416
+00:40:11,375 --> 00:40:13,417
+-Schmeckt's auch?
+-Ja.
+
+417
+00:40:13,583 --> 00:40:14,500
+-Mhm.
+
+418
+00:40:16,125 --> 00:40:17,500
+-[Kropp] Und dir?
+-Ja, gut.
+
+419
+00:40:18,125 --> 00:40:20,042
+[alle lachen ausgelassen]
+
+420
+00:40:20,208 --> 00:40:20,958
+[Kat] Gut, Paul?
+
+421
+00:40:21,542 --> 00:40:22,417
+Gut, Kat.
+
+422
+00:40:22,583 --> 00:40:23,833
+[Kat] Das Leben ist kurz.
+
+423
+00:40:24,000 --> 00:40:28,625
+Wo ist Emil, wenn man ihn mal braucht?
+Emil, bringen Sie Kaffee und Kaviar!
+
+424
+00:40:28,792 --> 00:40:31,750
+Ja, und lassen Sie das Fu?bad ein.
+Ich brauch 'n Fu?bad.
+
+425
+00:40:32,375 --> 00:40:34,292
+-[Kamerad] Kat?
+-Was ist?
+
+426
+00:40:34,833 --> 00:40:35,917
+[lacht]
+
+427
+00:40:36,083 --> 00:40:39,375
+J Du hast die Gans gestohlen
+Gib sie wieder her S
+
+428
+00:40:39,542 --> 00:40:42,500
+[alle] S Gib sie wieder her
+Sonst wird dich der Jager holen... S
+
+429
+00:40:42,667 --> 00:40:44,667
+-Der Bauer!
+-Der Bauer! Ja!
+
+430
+00:40:44,833 --> 00:40:48,000
+J Sonst wird dich der Bauer holen
+Mit dem Schie?gewehr —
+
+431
+00:40:48,167 --> 00:40:51,542
+J Sonst wird dich der Bauer holen
+Mit dem Schie?gewehr —
+
+432
+00:40:51,708 --> 00:40:54,083
+[ausgelassene Stimmung, Gelachter]
+
+433
+00:40:54,250 --> 00:40:56,167
+[weiter melancholische Streichmusik]
+
+434
+00:41:16,250 --> 00:41:18,208
+[Kat] Unser Tjaden sitzt da und sagt:
+
+435
+00:41:18,375 --> 00:41:23,125
+"Kreuz. Kreuz. Ich hor immer nur Kreuz.
+Mein Vater war Ritter von Nazareth."
+
+436
+00:41:23,875 --> 00:41:27,042
+"Ritter von Nazareth?" fragt die Lehrerin.
+"Kenn ich nicht.
+
+437
+00:41:27,208 --> 00:41:30,500
+Du, Tjaden. Geh doch noch mal nach Hause
+und frag noch mal nach. Ja?"
+
+438
+00:41:30,667 --> 00:41:33,833
+Nachsten Morgen,
+Tjaden springt in den Klassenraum, sagt:
+
+439
+00:41:34,000 --> 00:41:37,667
+"Bitte um Entschuldigung.
+Mein Vater war nicht Ritter von Nazareth.
+
+440
+00:41:37,833 --> 00:41:40,167
+Mein Vater war mit Tripper im Lazarett."
+
+441
+00:41:40,333 --> 00:41:42,750
+[schallendes Gelachter]
+
+442
+00:41:50,542 --> 00:41:51,417
+[Paul] Guck mal!
+
+443
+00:42:02,042 --> 00:42:04,042
+[melancholische Musik]
+
+444
+00:42:11,167 --> 00:42:13,292
+[Frau spricht Franzosisch]
+
+445
+00:42:15,667 --> 00:42:16,917
+[Franzosisch] He! Hallo!
+
+446
+00:42:18,000 --> 00:42:19,458
+[Paul, Franzosisch] Kommen Sie!
+
+447
+00:42:20,000 --> 00:42:21,125
+Brot. Baguette!
+
+448
+00:42:22,167 --> 00:42:23,167
+Fur Sie!
+
+449
+00:42:23,708 --> 00:42:26,958
+[Kropp, Franzosisch]
+Leberwurst, Liebe! Viel Liebe!
+
+450
+00:42:41,250 --> 00:42:43,125
+He, Franz, wo willst 'n jetzt hin?
+
+451
+00:42:44,125 --> 00:42:45,417
+Nimm mich mit!
+
+452
+00:42:45,583 --> 00:42:46,417
+[Franz] Ja, komm!
+
+453
+00:42:53,125 --> 00:42:54,000
+Guck mal!
+
+454
+00:42:54,500 --> 00:42:56,792
+[lacht] Jetzt macht der sich zum Deppen.
+
+455
+00:42:57,417 --> 00:43:00,958
+[Franzosisch] Oh, la, 1a!
+Sie sind sehr schon, meine Liebe.
+
+456
+00:43:01,125 --> 00:43:02,292
+[alle lachen]
+
+457
+00:43:02,458 --> 00:43:03,208
+[Kropp] Franz!
+
+458
+00:43:03,375 --> 00:43:05,125
+Die dunkle Schmale ist fur mich!
+
+459
+00:43:10,542 --> 00:43:12,542
+[Lachen verstummt]
+
+460
+00:43:15,125 --> 00:43:17,000
+[Kropp] Wo... Wo will 'n der jetzt hin?
+
+461
+00:43:22,125 --> 00:43:23,042
+Franz?
+
+462
+00:43:23,750 --> 00:43:27,125
+[Franz, Franzosisch]
+Auf Wiedersehen, meine Freunde!
+
+463
+00:43:39,292 --> 00:43:40,208
+Mensch.
+
+464
+00:43:42,500 --> 00:43:45,500
+Wenn's jetzt vorbei war...
+Wisst ihr, was ich machen wurde?
+
+465
+00:43:45,667 --> 00:43:47,292
+Hier ist nicht vorbei.
+
+466
+00:43:47,458 --> 00:43:51,292
+[Kropp] Na, aber wenn. Meine Fresse.
+Dann kamen doch auch die Weiber wieder.
+
+467
+00:43:51,458 --> 00:43:52,208
+[Kat] Das auch.
+
+468
+00:43:53,083 --> 00:43:55,625
+[Kropp] Acht Tage lang
+wurde ich keine Hose anziehen.
+
+469
+00:43:55,792 --> 00:43:58,792
+Ich musste euch den Arsch vollhauen,
+dass Iihr so was redet.
+
+470
+00:43:58,958 --> 00:43:59,958
+[Kropp] Und du, Paul?
+
+471
+00:44:01,458 --> 00:44:03,125
+Wei? nicht, mir fallt nichts ein.
+
+472
+00:44:03,292 --> 00:44:07,000
+-Ich wurde bei den Preu?en bleiben.
+-[Kropp] Du hast 'n Vogel, Tjaden.
+
+473
+00:44:07,167 --> 00:44:09,875
+[Tjaden] Schon mal Torf gestochen?
+Probier's mal.
+
+474
+00:44:10,042 --> 00:44:12,083
+[Kropp]
+Schlimmer als Schanzen ist es nicht.
+
+475
+00:44:12,250 --> 00:44:15,958
+[Tjaden] Dauert aber langer,
+und drucken kannst du dich da auch nicht.
+
+476
+00:44:16,792 --> 00:44:19,417
+Im Kommiss im Frieden
+hast du keine Sorgen.
+
+477
+00:44:19,958 --> 00:44:22,583
+Morgens Futter, sonst machst du Krach.
+
+478
+00:44:23,208 --> 00:44:26,792
+Dann hast du dein schones Bett,
+jede Woche frische Wasche.
+
+479
+00:44:26,958 --> 00:44:27,792
+Und dann...
+
+480
+00:44:29,500 --> 00:44:31,333
+Dann machst du deinen Unteroffizier.
+
+481
+00:44:32,083 --> 00:44:35,083
+Stellt's euch vor. Ich werd Landjager.
+
+482
+00:44:35,250 --> 00:44:37,583
+Hier 'n Cognac, da 'n halben Liter.
+
+483
+00:44:37,750 --> 00:44:40,208
+Mit 'm Landjager will jeder gutstehen.
+Jeder.
+
+484
+00:44:40,375 --> 00:44:42,333
+Dein Plan hat aber 'n Haken, Tjaden.
+
+485
+00:44:43,333 --> 00:44:44,417
+Ja, welchen denn?
+
+486
+00:44:45,000 --> 00:44:46,958
+Du wirst niemals Unteroffizier werden.
+
+487
+00:44:56,250 --> 00:44:58,417
+Was ihr immer
+fur 'n Blodsinn zusammenfragt.
+
+488
+00:44:58,583 --> 00:45:00,500
+Wird ja auch nicht anders dadurch.
+
+489
+00:45:10,167 --> 00:45:12,167
+[lautes Stimmengewirr]
+
+490
+00:45:16,333 --> 00:45:19,875
+-[Tjaden] Kat! Kat! Kat!
+-[Kat] Hier! Hier!
+
+491
+00:45:21,000 --> 00:45:22,667
+[Soldat] Hier! Lasst mich durch!
+
+492
+00:45:25,708 --> 00:45:27,375
+[Vogel zwitschern]
+
+493
+00:45:27,542 --> 00:45:29,333
+[Flugzeug surrt]
+
+494
+00:45:29,500 --> 00:45:31,958
+[Schusse und Explosionen in der Ferne]
+
+495
+00:46:16,333 --> 00:46:17,333
+"Dickerchen.
+
+496
+00:46:18,208 --> 00:46:20,875
+Du fragtest
+nach einem Paket mit Fressalien.
+
+497
+00:46:21,042 --> 00:46:23,417
+Sind viermal Wurst und Schmalz unterwegs.
+
+498
+00:46:25,875 --> 00:46:28,167
+'n paarmal Kuchen,
+
+499
+00:46:29,167 --> 00:46:31,083
+Sauerkohl mit Bockwurst,
+
+500
+00:46:31,917 --> 00:46:34,333
+einmal Hing..."
+
+501
+00:46:34,917 --> 00:46:37,333
+-Hingfong.
+-"Hingfong mit Wurfelzucker.
+
+502
+00:46:38,625 --> 00:46:41,292
+Eier, und 'n Glas Pflaumenmus noch.
+
+503
+00:46:41,792 --> 00:46:42,625
+Teil's dir ein,
+
+504
+00:46:42,792 --> 00:46:45,375
+weil so schnell
+will ich nichts wieder schicken nicht.
+
+505
+00:46:45,875 --> 00:46:47,875
+Gib lieber den Kameraden nichts ab.
+
+506
+00:46:49,417 --> 00:46:50,625
+Mein guter Dicker.
+
+507
+00:46:51,167 --> 00:46:53,333
+Ich muss dir noch 'ne Frage stellen.
+
+508
+00:46:53,500 --> 00:46:55,500
+Wie viel Geld hast du denn schon gespart?
+
+509
+00:46:56,333 --> 00:46:58,667
+Schickst du nicht auch mal was nach Hause?
+
+510
+00:46:59,167 --> 00:47:01,917
+Man hort ja,
+es geht mit Gewalt be... zu Ende bei euch,
+
+511
+00:47:02,625 --> 00:47:04,875
+also soll doch auch was ubrig bleiben.
+
+512
+00:47:06,000 --> 00:47:07,042
+Nun wirst du denken:
+
+513
+00:47:07,208 --> 00:47:09,708
+'Guck einer die Olle an.
+Wie frech die ist!'
+
+514
+00:47:10,375 --> 00:47:11,917
+Aber nichts fur ungut.
+
+515
+00:47:12,417 --> 00:47:15,125
+Du kennst mich ja.
+Ich krieg 'n Schlumpen nicht voll.
+
+516
+00:47:15,292 --> 00:47:17,708
+Immer haben. Haben ist die Losung bei mir.
+
+517
+00:47:18,542 --> 00:47:20,875
+Fall mir also
+auf 'n letzten Metern nicht um.
+
+518
+00:47:22,542 --> 00:47:25,917
+Karl Lemmer
+liegt im Osten schon im Lazarett.
+
+519
+00:47:26,417 --> 00:47:27,542
+Irgendwas am Magen.
+
+520
+00:47:28,167 --> 00:47:30,417
+Und der war keine drei Wochen drau?en,
+war er.
+
+521
+00:47:31,958 --> 00:47:34,833
+Kannst du nicht auch mal
+krank sein mit deinem Rei?en?
+
+522
+00:47:35,792 --> 00:47:37,875
+Du hast doch deine Arbeit getan."
+
+523
+00:47:38,042 --> 00:47:39,208
+[Paul lacht]
+
+524
+00:47:39,375 --> 00:47:42,500
+Wenn sie sehen konnte,
+wie du hier sitzt mit deiner Zigarre.
+
+525
+00:47:43,583 --> 00:47:44,500
+Hm.
+
+526
+00:47:46,292 --> 00:47:48,250
+"Am Sonntag geh ich zum Gra...
+
+527
+00:47:54,625 --> 00:47:57,583
+Am Sonntag geh ich
+zum Grab von unserem Kleinen.
+
+528
+00:48:00,667 --> 00:48:03,833
+Ich werde ihm wie immer vorlesen.
+Das mochte er doch so gerne.
+
+529
+00:48:05,833 --> 00:48:09,208
+Im nachsten Jahr gehen wir hin
+und feiern zusammen seinen Zehnten.
+
+530
+00:48:12,042 --> 00:48:13,917
+Nun ist weiter nichts zu schreiben.
+
+531
+00:48:14,542 --> 00:48:16,750
+Sei gekusst von deiner... Fru.
+
+532
+00:48:17,542 --> 00:48:18,542
+Wiedersehen."
+
+533
+00:48:22,792 --> 00:48:23,875
+[Kat schnieft]
+
+534
+00:48:24,958 --> 00:48:26,333
+Das hab ich nicht gewusst.
+
+535
+00:48:35,333 --> 00:48:36,875
+[seufzt] Ach Paul.
+
+536
+00:48:41,917 --> 00:48:43,667
+Was soll 'n das alles werden, hm?
+
+537
+00:48:45,208 --> 00:48:46,958
+Irgendwann nach Hause kommen...
+
+538
+00:48:48,000 --> 00:48:49,875
+...wieder zuruckmussen ins Leben.
+
+539
+00:48:50,958 --> 00:48:54,125
+Wo sie doch eh nur wissen wollen,
+ob wir auch im Nahkampf waren.
+
+540
+00:48:57,000 --> 00:49:00,375
+Wir spazieren herum wie Reisende
+in 'ner Landschaft von fruher.
+
+541
+00:49:03,417 --> 00:49:04,875
+Ja, ich frag mich halt...
+
+542
+00:49:06,792 --> 00:49:12,000
+...ob ich dann nicht nur mit dir
+und dem Tjaden und Kropp...
+
+543
+00:49:13,167 --> 00:49:15,333
+...und dem Muller am Lagerfeuer sitzen
+
+544
+00:49:16,875 --> 00:49:18,375
+und Bratkartoffeln essen will.
+
+545
+00:49:19,167 --> 00:49:20,167
+Mit Schale.
+
+546
+00:49:20,333 --> 00:49:21,583
+[lacht]
+
+547
+00:49:26,958 --> 00:49:28,125
+Ja...
+
+548
+00:49:28,292 --> 00:49:30,208
+lleises Schluchzen]
+
+549
+00:49:33,583 --> 00:49:35,750
+[rauspert sich und seufzt]
+
+550
+00:49:39,833 --> 00:49:41,000
+Mir ist langweilig.
+
+551
+00:49:44,292 --> 00:49:46,458
+Wann geht das hier
+denn endlich wieder los?
+
+552
+00:49:46,958 --> 00:49:49,083
+Wann geht das hier
+denn endlich wieder los?
+
+553
+00:50:08,292 --> 00:50:09,125
+Franz?
+
+554
+00:50:10,000 --> 00:50:10,833
+[Franz] Ja?
+
+555
+00:50:12,375 --> 00:50:15,375
+Wir mussen morgen um 6 Uhr raus.
+Ein paar Kinder suchen.
+
+556
+00:50:16,667 --> 00:50:17,625
+Was ist passiert?
+
+557
+00:50:19,125 --> 00:50:21,167
+Die hatten heute ankommen sollen.
+
+558
+00:50:21,333 --> 00:50:22,833
+Eine ganze Kompanie.
+
+559
+00:50:27,208 --> 00:50:28,083
+Wie war's?
+
+560
+00:50:31,708 --> 00:50:32,958
+Hm. Schon.
+
+561
+00:50:33,125 --> 00:50:34,875
+-Ja?
+
+562
+00:50:37,625 --> 00:50:38,458
+Hier.
+
+563
+00:50:44,000 --> 00:50:44,833
+Riech mal.
+
+564
+00:50:49,875 --> 00:50:51,500
+[lacht]
+
+565
+00:50:57,333 --> 00:50:58,750
+Wie hei?t sie denn?
+
+566
+00:50:58,917 --> 00:50:59,833
+Eloise.
+
+567
+00:51:02,667 --> 00:51:03,625
+[flustert] Eloise.
+
+568
+00:51:04,542 --> 00:51:07,708
+Die hatte Haut, wei? wie Milch.
+
+569
+00:51:10,333 --> 00:51:11,667
+Und Bruste...
+
+570
+00:51:11,833 --> 00:51:13,083
+[beide kichern]
+
+571
+00:51:13,250 --> 00:51:14,333
+-[Kropp] He.
+-Hm?
+
+572
+00:51:15,042 --> 00:51:16,500
+[Kropp] Ich will auch mal.
+
+573
+00:51:18,667 --> 00:51:21,875
+Albert. Albert. Kropp! Gib mal ruber.
+
+574
+00:51:22,042 --> 00:51:23,625
+-[Kropp] Ja.
+-[Tjaden] Meine Gute...
+
+575
+00:51:23,792 --> 00:51:24,542
+Tjaden.
+
+576
+00:51:24,708 --> 00:51:27,500
+[Tjaden] So eine hat doch
+nie Dreck unter den Nageln.
+
+577
+00:51:27,667 --> 00:51:30,042
+-Nee.
+-Hochstens mal Sand vom Strand.
+
+578
+00:51:30,750 --> 00:51:31,958
+[Franz] Tjaden.
+
+579
+00:51:32,125 --> 00:51:35,292
+-Komm, gib wieder her.
+-[Tjaden] Die badet zweimal am Tag.
+
+580
+00:51:37,250 --> 00:51:39,958
+[Franz] Tjaden! Bitte.
+
+581
+00:51:40,125 --> 00:51:41,625
+[Tjaden] Das ist meins.
+
+582
+00:51:41,792 --> 00:51:44,250
+-Tjaden!
+-Das ist jetzt meins!
+
+583
+00:51:45,000 --> 00:51:47,000
+[bedrohliche Klange]
+
+584
+00:51:49,167 --> 00:51:52,500
+[Fanfare]
+
+585
+00:51:57,875 --> 00:51:59,875
+[spannungsgeladene Musik]
+
+586
+00:52:45,708 --> 00:52:47,167
+Da hat's aber eingeschlagen.
+
+587
+00:52:48,333 --> 00:52:49,333
+[Kat] Minenwerfer.
+
+588
+00:52:50,583 --> 00:52:52,708
+[Tjaden] Den hat's aus dem Anzug gesto?en.
+
+589
+00:52:58,042 --> 00:53:00,125
+Ist das einer von denen, die wir suchen?
+
+590
+00:53:00,292 --> 00:53:02,875
+[Tjaden] Nee,
+die sind erst seit gestern verschwunden.
+
+591
+00:53:03,583 --> 00:53:04,917
+Der hangt schon langer da.
+
+592
+00:53:06,250 --> 00:53:07,125
+Kein Spa?.
+
+593
+00:53:08,458 --> 00:53:09,917
+[Kat] Nicht weich werden.
+
+594
+00:53:10,083 --> 00:53:13,042
+-[Paul] Wie viele suchen wir?
+-[Tjaden] 60 junge Rekruten.
+
+595
+00:53:20,458 --> 00:53:22,292
+Morgens Steckrubenbrot.
+
+596
+00:53:22,458 --> 00:53:23,917
+Mittags Steckrubenbrot.
+
+597
+00:53:24,083 --> 00:53:27,000
+Uberall Steckrubenbrot.
+Ich hab die Schnauze voll.
+
+598
+00:53:27,167 --> 00:53:30,208
+Sagt, wenn ihr sie gefunden habt.
+Ich mach keinen Schritt mehr.
+
+599
+00:53:30,833 --> 00:53:31,833
+[Kat] Gas.
+
+600
+00:53:35,042 --> 00:53:36,208
+Hier war Gas.
+
+601
+00:54:05,208 --> 00:54:07,208
+[nervoses Atmen]
+
+602
+00:54:18,750 --> 00:54:19,667
+Ja!
+
+603
+00:54:21,333 --> 00:54:23,083
+[lacht]
+
+604
+00:54:55,750 --> 00:54:57,250
+[Franzosisch] Tag, meine Dame.
+
+605
+00:55:00,250 --> 00:55:01,750
+Ich hei?e Kropp.
+
+606
+00:55:05,750 --> 00:55:06,917
+Und du?
+
+607
+00:55:13,542 --> 00:55:14,750
+Ahm...
+
+608
+00:55:19,083 --> 00:55:20,417
+Mochtest du...
+
+609
+00:55:23,208 --> 00:55:24,125
+Hm...
+
+610
+00:55:24,292 --> 00:55:26,500
+Mochtest du mit mir mitkommen?
+
+611
+00:55:27,958 --> 00:55:29,500
+Kein Problem.
+
+612
+00:55:56,833 --> 00:55:58,625
+[Fliegen surren]
+
+613
+00:56:16,333 --> 00:56:18,333
+[atmet heftig]
+
+614
+00:56:23,250 --> 00:56:24,125
+Kat.
+
+615
+00:56:27,000 --> 00:56:27,958
+Kat!
+
+616
+00:56:29,708 --> 00:56:30,583
+Kat!
+
+617
+00:56:40,583 --> 00:56:41,750
+[Kat] Schei?e.
+
+618
+00:56:47,667 --> 00:56:49,667
+-Verdammte Kinder.
+-[Paul] Ja.
+
+619
+00:56:50,583 --> 00:56:53,333
+[Paul]
+Haben die Masken zu fruh abgenommen.
+
+620
+00:56:56,625 --> 00:56:58,375
+[Kat] Bald ist Deutschland leer.
+
+621
+00:57:02,042 --> 00:57:04,083
+[Zug pfeift]
+
+622
+00:57:21,750 --> 00:57:23,750
+[Zug pfeift]
+
+623
+00:58:21,333 --> 00:58:22,333
+Herr General.
+
+624
+00:58:24,667 --> 00:58:26,458
+Na, Brixdorf, was gibt's Neues?
+
+625
+00:58:26,625 --> 00:58:28,333
+Die Franzosen erhohen den Druck.
+
+626
+00:58:28,500 --> 00:58:31,083
+Unsere Aufklarer
+haben am Morgen Befehle abgefangen,
+
+627
+00:58:31,250 --> 00:58:33,375
+die ganze Divisionen
+nach Latierre beordern.
+
+628
+00:58:33,542 --> 00:58:36,083
+Eine Panzerflotte
+hangt noch bei Fernancourt fest.
+
+629
+00:58:36,250 --> 00:58:38,042
+Wir mussen mit einem Angriff rechnen.
+
+630
+00:58:39,333 --> 00:58:42,542
+Die Sozialdemokratie
+ist das Ende der Menschheit, Brixdorf.
+
+631
+00:58:44,792 --> 00:58:45,875
+Herr General?
+
+632
+00:58:50,167 --> 00:58:52,042
+Ich habe eben die deutsche Delegation
+
+633
+00:58:52,208 --> 00:58:55,625
+zur Verhandlung eines Waffenstillstands
+in den Zug nach Compiegne gesetzt.
+
+634
+00:59:01,958 --> 00:59:05,250
+Diese Menschen, Brixdorf,
+verkaufen unser Vaterland.
+
+635
+00:59:06,875 --> 00:59:08,792
+Mein Befehl lautet Krieg.
+
+636
+00:59:09,708 --> 00:59:13,333
+Und solange sich das nicht andert,
+kampfe ich hier um jeden Meter.
+
+637
+00:59:15,375 --> 00:59:17,917
+Wir mussen durchhalten,
+auf frische Truppen warten.
+
+638
+00:59:18,083 --> 00:59:20,917
+In ein paar Monaten
+ruckt der neue Jahrgang nach.
+
+639
+00:59:22,042 --> 00:59:23,417
+Die Franzosen versuchen,
+
+640
+00:59:23,583 --> 00:59:26,583
+uns ihre beschissenen Bedingungen
+aufzuzwingen.
+
+641
+00:59:29,167 --> 00:59:31,125
+Ich werde nicht kapitulieren.
+
+642
+00:59:33,792 --> 00:59:36,750
+Wir mussen jetzt zuschlagen.
+Mit all unserer Macht.
+
+643
+00:59:41,958 --> 00:59:42,917
+Herr General.
+
+644
+01:00:05,125 --> 01:00:06,625
+Von unserer Seite...
+
+645
+01:00:06,792 --> 01:00:08,000
+[uriniert]
+
+646
+01:00:08,167 --> 01:00:09,750
+...Muss ich darauf bestehen...
+
+647
+01:00:10,708 --> 01:00:12,333
+...mMussen wir darauf bestehen...
+
+648
+01:00:12,500 --> 01:00:13,500
+[Bremsen quietschen]
+
+649
+01:00:13,667 --> 01:00:14,875
+Herrgottsack!
+
+650
+01:00:15,458 --> 01:00:16,792
+Schei?e.
+
+651
+01:00:16,958 --> 01:00:19,500
+[Bremsen, Rumpeln]
+
+652
+01:00:19,667 --> 01:00:21,000
+[Lokomotive zischt]
+
+653
+01:00:21,708 --> 01:00:23,542
+[unverstandliche Stimmen]
+
+654
+01:00:40,250 --> 01:00:41,458
+[atmet aus]
+
+655
+01:00:42,042 --> 01:00:44,042
+[Wiehern]
+
+656
+01:00:49,458 --> 01:00:50,667
+[Soldat] Herr Leutnant.
+
+657
+01:00:50,833 --> 01:00:52,917
+[Wiehern]
+
+658
+01:01:00,333 --> 01:01:02,167
+[Leutnant] Packen Sie die Tornister,
+
+659
+01:01:02,333 --> 01:01:05,167
+rollen Sie Ihre Decken zusammen,
+waschen Sie Ihr Geschirr.
+
+660
+01:01:05,333 --> 01:01:08,500
+Das ganze Regiment
+ruckt in die erste Feuerstellung vor.
+
+661
+01:01:08,667 --> 01:01:10,958
+Und wir nehmen jeden,
+der auf zwei Beinen steht.
+
+662
+01:01:12,750 --> 01:01:15,042
+Stellen Sie auf, verdammt noch mal!
+
+663
+01:01:15,208 --> 01:01:18,583
+Die Franzosen warten nicht,
+bis Sie sich die Schamhaare kammen!
+
+664
+01:01:18,750 --> 01:01:19,917
+[Kat] Jetzt geht das los.
+
+665
+01:01:20,083 --> 01:01:21,667
+-Bewegen Sie sich!
+-[Paul] Wohin?
+
+666
+01:01:21,833 --> 01:01:23,375
+[Kat] Wohin, wohin?
+
+667
+01:01:23,542 --> 01:01:24,792
+In die Schlacht.
+
+668
+01:01:26,417 --> 01:01:28,417
+[ruhige spannungsgeladene Musik]
+
+669
+01:02:37,750 --> 01:02:39,125
+[Schlurfen]
+
+670
+01:02:47,875 --> 01:02:49,333
+[sto?t auf]
+
+671
+01:02:51,958 --> 01:02:53,542
+[schlurft]
+
+672
+01:02:56,667 --> 01:02:58,667
+[Rauspern]
+
+673
+01:02:59,583 --> 01:03:01,833
+Monsieur le Marechal erwartet Sie.
+
+674
+01:03:07,583 --> 01:03:09,583
+[weiter spannungsvolle Musik]
+
+675
+01:04:09,333 --> 01:04:10,875
+Ich komm gleich wieder.
+
+676
+01:04:26,042 --> 01:04:27,167
+Neidisch, wa?
+
+677
+01:04:44,833 --> 01:04:47,750
+Ich stehe vor Ihnen in der Hoffnung,
+
+678
+01:04:47,917 --> 01:04:50,500
+dass Sie unsere Anwesenheit
+zum Anlass nehmen,
+
+679
+01:04:51,083 --> 01:04:53,583
+alle Feindseligkeiten auszusetzen.
+
+680
+01:04:55,125 --> 01:04:58,125
+Im Namen der Menschlichkeit bitte ich Sie,
+
+681
+01:04:58,292 --> 01:05:03,125
+fur die Dauer der Verhandlungen
+einer sofortigen Waffenruhe zuzustimmen,
+
+682
+01:05:03,667 --> 01:05:07,167
+um unseren Volkern
+unnotige Opfer zu ersparen.
+
+683
+01:05:09,083 --> 01:05:12,417
+Matthias Erzberger,
+Leiter der deutschen Delegation.
+
+684
+01:05:12,583 --> 01:05:14,417
+[ubersetzt ins Franzosisch]
+
+685
+01:05:22,292 --> 01:05:25,708
+[sprechen Franzosisch]
+
+686
+01:05:26,708 --> 01:05:29,333
+Marschall Foch fragt,
+was die Herren zu ihm fuhrt.
+
+687
+01:05:33,542 --> 01:05:35,542
+Wir sehen Ihren Vorschlagen
+
+688
+01:05:36,458 --> 01:05:40,083
+zur Herbeifuhrung
+eines endgultigen Waffenstillstands
+
+689
+01:05:40,250 --> 01:05:42,458
+zu Wasser, Land und Luft entgegen.
+
+690
+01:05:42,625 --> 01:05:43,833
+[ubersetzt]
+
+691
+01:05:44,000 --> 01:05:46,333
+[spricht Franzosisch]
+
+692
+01:05:46,500 --> 01:05:48,708
+Ich habe Ihnen keine Vorschlage zu machen.
+
+693
+01:05:51,625 --> 01:05:52,708
+Was meint er damit?
+
+694
+01:05:53,542 --> 01:05:56,625
+Ich denke,
+ihm konnte die Formulierung missfallen.
+
+695
+01:05:58,208 --> 01:05:59,042
+Ja...
+
+696
+01:05:59,708 --> 01:06:01,000
+Gut, dann...
+
+697
+01:06:04,458 --> 01:06:07,542
+[Franzosisch] Monsieur Le Marechal,
+wenn Sie erlauben,
+
+698
+01:06:07,708 --> 01:06:09,458
+durften wir Ihre Bedingungen erfahren...
+
+699
+01:06:09,625 --> 01:06:11,458
+[spricht Franzosisch]
+
+700
+01:06:13,500 --> 01:06:16,125
+[spricht Franzosisch]
+
+701
+01:06:18,292 --> 01:06:20,750
+Er will,
+dass Sie ihn formlich darum bitten.
+
+702
+01:06:28,083 --> 01:06:29,542
+Monsieur le Marechal,
+
+703
+01:06:31,500 --> 01:06:33,875
+ich bitte Sie um den Waffenstillstand.
+
+704
+01:06:35,333 --> 01:06:38,250
+[Dolmetscher ubersetzt ins Franzosische]
+
+705
+01:06:43,625 --> 01:06:46,083
+[spricht Franzosisch]
+
+706
+01:06:46,250 --> 01:06:49,792
+[Dolmetscher] Sie haben 72 Stunden,
+unsere Bedingungen zu akzeptieren.
+
+707
+01:06:49,958 --> 01:06:52,958
+-72 Stunden?
+-Es geht weiter, bis Sie unterschreiben.
+
+708
+01:06:53,125 --> 01:06:54,708
+Monsieur le Marechal.
+
+709
+01:06:54,875 --> 01:06:58,292
+In Gottes Namen,
+lassen Sie nicht 72 Stunden vergehen.
+
+710
+01:06:59,542 --> 01:07:01,750
+Da drau?en sterben Menschen.
+
+711
+01:07:07,917 --> 01:07:10,083
+[Franzosisch] Dann unterschreiben Sie.
+
+712
+01:07:10,250 --> 01:07:12,167
+[dustere spannungsvolle Musik]
+
+713
+01:07:24,667 --> 01:07:25,958
+Verstanden.
+
+714
+01:07:45,000 --> 01:07:45,917
+Soldaten, Marsch.
+
+715
+01:07:49,625 --> 01:07:50,833
+Soldaten, Marsch.
+
+716
+01:07:52,208 --> 01:07:53,333
+Marsch, Soldaten.
+
+717
+01:07:56,125 --> 01:07:57,125
+Soldaten, Marsch.
+
+718
+01:07:58,875 --> 01:07:59,833
+Los, raus hier.
+
+719
+01:08:01,000 --> 01:08:02,042
+Marsch, Soldaten.
+
+720
+01:08:03,750 --> 01:08:04,583
+Marsch.
+
+721
+01:08:05,833 --> 01:08:06,917
+Soldaten, Marsch.
+
+722
+01:08:08,125 --> 01:08:09,958
+Marsch, Soldaten. Raus hier.
+
+723
+01:08:17,667 --> 01:08:20,042
+[Schusse, Explosionen]
+
+724
+01:08:20,208 --> 01:08:21,583
+[Paul keucht]
+
+725
+01:08:22,708 --> 01:08:24,250
+[Leutnant] Vorwarts!
+
+726
+01:08:24,792 --> 01:08:26,875
+-[Soldat 1] Schneller!
+-[Leutnant] Hurra!
+
+727
+01:08:27,042 --> 01:08:29,375
+-[Soldat 1] Schneller!
+-[Leutnant] Hurra!
+
+728
+01:08:30,083 --> 01:08:31,542
+[Leutnant] Weiter, Manner!
+
+729
+01:08:32,583 --> 01:08:34,208
+Vorwarts!
+
+730
+01:08:35,417 --> 01:08:36,292
+[Leutnant] Hurra!
+
+731
+01:08:36,458 --> 01:08:38,375
+[keucht]
+
+732
+01:08:41,542 --> 01:08:45,333
+[Leutnant] Eine Linie! Weiter!
+
+733
+01:08:46,333 --> 01:08:48,125
+[Schreie]
+
+734
+01:09:00,125 --> 01:09:02,417
+[Soldat] Weiter! Weiter! Weiter! Weiter!
+
+735
+01:09:30,125 --> 01:09:32,125
+[Rufe auf Franzosisch]
+
+736
+01:09:41,042 --> 01:09:42,833
+[Explosion, Schreie]
+
+737
+01:09:51,958 --> 01:09:53,417
+[Soldat schreit vor Schmerz]
+
+738
+01:09:53,583 --> 01:09:55,333
+[Rufe auf Franzosisch]
+
+739
+01:10:30,417 --> 01:10:33,167
+Komm weiter, Paul. Komm! Paul!
+
+740
+01:10:50,250 --> 01:10:51,792
+[Rufe auf Franzosisch]
+
+741
+01:11:10,042 --> 01:11:11,500
+[spricht Franzosisch]
+
+742
+01:11:28,000 --> 01:11:30,542
+[genussvolles Schmatzen]
+
+743
+01:11:49,583 --> 01:11:51,458
+[Beben]
+
+744
+01:12:05,417 --> 01:12:06,250
+[Kat] Raus!
+
+745
+01:12:14,333 --> 01:12:16,333
+[spannungsvolle Musik]
+
+746
+01:12:23,833 --> 01:12:25,833
+[bedrohliche Klange]
+
+747
+01:12:30,875 --> 01:12:32,875
+[donnerndes Gerausch nahert sich]
+
+748
+01:12:48,917 --> 01:12:50,208
+[Soldat 1] Feuer frei!
+
+749
+01:12:51,083 --> 01:12:52,250
+[Soldat 2] Feuer frei!
+
+750
+01:12:53,000 --> 01:12:55,000
+[unaufhorliche Schusse]
+
+751
+01:13:00,833 --> 01:13:02,958
+[Patronen prallen ab]
+
+752
+01:13:34,500 --> 01:13:35,833
+Runter!
+
+753
+01:13:36,250 --> 01:13:37,417
+Runter!
+
+754
+01:13:38,208 --> 01:13:39,625
+[Soldat] In Deckung!
+
+755
+01:13:43,583 --> 01:13:45,583
+[Schreie]
+
+756
+01:13:57,708 --> 01:13:59,792
+[Soldat] Raus hier! Raus!
+
+757
+01:14:02,292 --> 01:14:04,833
+[Soldat]
+Die Linien mussen geschlossen bleiben!
+
+758
+01:14:05,000 --> 01:14:06,667
+[Schreie]
+
+759
+01:14:10,042 --> 01:14:12,042
+[Schusse und Explosionen in der Ferne]
+
+760
+01:14:27,458 --> 01:14:28,708
+Handgranaten raus!
+
+761
+01:14:28,875 --> 01:14:31,750
+Zielt auf die Ketten,
+wenn sie uber uns sind!
+
+762
+01:14:34,208 --> 01:14:36,042
+[gellende Schreie]
+
+763
+01:14:40,042 --> 01:14:41,458
+[schreit laut]
+
+764
+01:14:56,708 --> 01:14:58,542
+Los, Manner. Los, Franz!
+
+765
+01:14:58,708 --> 01:14:59,792
+Franz!
+
+766
+01:14:59,958 --> 01:15:01,583
+Ihm nach!
+
+767
+01:15:05,958 --> 01:15:07,958
+[Achzen und Keuchen]
+
+768
+01:15:10,625 --> 01:15:11,500
+Franz!
+
+769
+01:15:11,667 --> 01:15:13,333
+Kommt! Mir nach!
+
+770
+01:15:15,167 --> 01:15:16,083
+Franz!
+
+771
+01:15:16,250 --> 01:15:17,292
+Los, komm mit!
+
+772
+01:15:17,458 --> 01:15:18,292
+Paul!
+
+773
+01:15:20,125 --> 01:15:21,875
+[beklemmende Musik]
+
+774
+01:15:34,000 --> 01:15:34,917
+[Soldat] Vorwarts!
+
+775
+01:15:47,042 --> 01:15:48,667
+[Explosion]
+
+776
+01:16:00,958 --> 01:16:02,417
+[gellende Schreie]
+
+777
+01:16:02,583 --> 01:16:04,125
+Paul. Paul!
+
+778
+01:16:04,292 --> 01:16:06,625
+[dramatische Musik]
+
+779
+01:16:20,750 --> 01:16:21,917
+[Kat] Feuer frei!
+
+780
+01:16:36,042 --> 01:16:38,917
+[Kat] Ruckzug! Ruckzug!
+
+781
+01:16:47,750 --> 01:16:49,750
+[keucht]
+
+782
+01:17:01,042 --> 01:17:03,208
+[Musik verklingt langsam]
+
+783
+01:17:04,875 --> 01:17:06,875
+[keucht, achzt]
+
+784
+01:17:07,042 --> 01:17:08,958
+[Stille]
+
+785
+01:17:23,583 --> 01:17:25,583
+[dumpfe Schreie und Schusse]
+
+786
+01:17:42,500 --> 01:17:44,500
+[achzt angestrengt]
+
+787
+01:17:54,333 --> 01:17:57,042
+Nein! Nein! Nein, nicht schie?en! Nein!
+
+788
+01:17:57,208 --> 01:18:00,125
+Nein! Nein! Nein! Nein! Nein! Nein!
+
+789
+01:18:00,750 --> 01:18:01,875
+Nicht! Nicht schie?en!
+
+790
+01:18:02,042 --> 01:18:03,250
+Nicht schie?en!
+
+791
+01:18:03,417 --> 01:18:04,333
+[Paul] Albert.
+
+792
+01:18:04,500 --> 01:18:06,000
+[Kropp schreit vor Schmerz]
+
+793
+01:18:12,500 --> 01:18:14,708
+-Albert.
+-[Kat] Weiter! Weiter!
+
+794
+01:18:15,292 --> 01:18:16,167
+[Kat] Weiter!
+
+795
+01:18:16,333 --> 01:18:18,250
+[Kropp schreit vor Schmerz]
+
+796
+01:18:21,958 --> 01:18:22,792
+[Kat] Weiter!
+
+797
+01:18:25,333 --> 01:18:27,125
+[Paul keucht]
+
+798
+01:18:28,542 --> 01:18:30,542
+[spharische melancholische Musik]
+
+799
+01:18:49,083 --> 01:18:51,667
+Wo ist Franz? Ich hab Franz verloren!
+
+800
+01:18:59,208 --> 01:19:02,167
+Katczinsky! MG sichern und zuruckziehen!
+
+801
+01:19:02,333 --> 01:19:05,583
+Wir formieren uns in Eguisac,
+zwei Kilometer nordostlich!
+
+802
+01:19:07,792 --> 01:19:10,458
+Ich vermisse meine Kameraden,
+Herr Feldwebel!
+
+803
+01:19:10,625 --> 01:19:15,667
+Ich vermisse meine Mutter, verdammt!
+Granaten! Munition! Los!
+
+804
+01:19:17,458 --> 01:19:18,583
+[Kat] Paul, komm!
+
+805
+01:19:18,750 --> 01:19:20,667
+[Paul keucht]
+
+806
+01:19:31,917 --> 01:19:33,917
+[spannungsgeladene Musik]
+
+807
+01:19:38,125 --> 01:19:40,125
+[Musik verklingt]
+
+808
+01:19:46,667 --> 01:19:49,333
+[General] Das sind keine Verhandlungen,
+das ist ein Diktat.
+
+809
+01:19:49,500 --> 01:19:52,667
+[Mann] Vielleicht sollten wir uns in Spa
+mit dem Generalstab beraten.
+
+810
+01:19:52,833 --> 01:19:54,625
+Und was versprechen Sie sich davon?
+
+811
+01:19:54,792 --> 01:19:56,958
+Selbst wenn wir doch noch
+endgultig verlieren,
+
+812
+01:19:57,125 --> 01:19:59,708
+stehen wir nicht schlechter da
+als bei dieser Unterwerfung.
+
+813
+01:19:59,875 --> 01:20:01,750
+Bis auf ein paar 100.000 Tote mehr.
+
+814
+01:20:01,917 --> 01:20:05,833
+Elsass-Lothringen, Besetzung des Rheins,
+Kanonen, Lokomotiven, Waggons...
+
+815
+01:20:06,000 --> 01:20:08,000
+Das ist die totale Kapitulation!
+
+816
+01:20:08,167 --> 01:20:12,417
+250.000 Amerikaner
+landen jeden Monat in Europa.
+
+817
+01:20:12,583 --> 01:20:16,000
+Marne, Cantigny, Cambrai, alles verloren.
+
+818
+01:20:17,083 --> 01:20:20,208
+Was uns von einem Waffenstillstand trennt,
+ist falscher Stolz.
+
+819
+01:20:20,375 --> 01:20:24,417
+Wir loffeln nun die Suppe aus, die Sie
+und Ihre Vater uns eingebrockt haben.
+
+820
+01:20:24,583 --> 01:20:27,000
+Aber wenn Sie lieber abreisen wurden,
+bitte schon.
+
+821
+01:20:27,167 --> 01:20:28,208
+Wir bleiben hier.
+
+822
+01:20:34,667 --> 01:20:35,708
+Es ist Winter.
+
+823
+01:20:36,958 --> 01:20:40,167
+Ohne Zuge und Verpflegung
+wird uns der Bolschewismus uberrollen.
+
+824
+01:20:40,708 --> 01:20:42,917
+Die Manner
+werden auf dem Heimweg verhungern.
+
+825
+01:20:43,083 --> 01:20:45,667
+anstatt in aller Ehre
+auf dem Schlachtfeld zu sterben.
+
+826
+01:20:46,542 --> 01:20:47,458
+Ehre?
+
+827
+01:20:49,417 --> 01:20:52,458
+Mein Sohn ist im Krieg gefallen.
+Er empfindet keine Ehre.
+
+828
+01:20:58,500 --> 01:20:59,708
+Von Helldorf.
+
+829
+01:21:00,667 --> 01:21:05,292
+Besorgen Sie Abdrucke der Bedingungen
+und telegrafieren Sie ins Hauptquartier.
+
+830
+01:21:05,458 --> 01:21:07,042
+Sie informieren die Regierung.
+
+831
+01:21:10,250 --> 01:21:12,583
+Wir haben 72 Stunden Zeit, meine Herren.
+
+832
+01:21:12,750 --> 01:21:16,375
+Jede Minute, die wir mit Reden vergeuden,
+stirbt ein weiterer Soldat.
+
+833
+01:21:17,167 --> 01:21:18,875
+Erlangen wir Gnade, wo wir konnen,
+
+834
+01:21:19,042 --> 01:21:22,583
+aber, um Gottes willen,
+schlie?en wir Frieden.
+
+835
+01:21:25,458 --> 01:21:27,000
+[Paul keucht]
+
+836
+01:21:50,792 --> 01:21:52,792
+[Flugzeuge surren]
+
+837
+01:22:05,458 --> 01:22:07,375
+[atmet schnell]
+
+838
+01:22:07,917 --> 01:22:10,250
+[Soldat, Franzosisch] Ruckzug!
+
+839
+01:22:10,417 --> 01:22:12,333
+[Franzosische Rufe]
+
+840
+01:22:14,708 --> 01:22:17,750
+[deutscher Soldat]
+Sie ziehen sich zuruck! Mehr Feuer!
+
+841
+01:22:18,333 --> 01:22:20,000
+Mehr Feuer!
+
+842
+01:22:31,917 --> 01:22:33,792
+[keucht]
+
+843
+01:22:35,958 --> 01:22:37,958
+[Achzen]
+
+844
+01:22:51,833 --> 01:22:53,833
+[Paul keucht]
+
+845
+01:23:16,500 --> 01:23:18,500
+[Soldat achzt und schreit unterdruckt]
+
+846
+01:23:19,042 --> 01:23:20,167
+[Paul] Sei ruhig!
+
+847
+01:23:55,667 --> 01:23:57,667
+[dustere Harmonium-Musik]
+
+848
+01:23:57,833 --> 01:24:00,042
+[Soldat hustet und rochelt]
+
+849
+01:24:04,583 --> 01:24:05,792
+Halt die Schnauze.
+
+850
+01:24:05,958 --> 01:24:07,875
+[wimmert]
+
+851
+01:24:08,708 --> 01:24:09,750
+Halt die Schnauze!
+
+852
+01:24:18,208 --> 01:24:20,042
+[schreit vor Schreck]
+
+853
+01:24:35,333 --> 01:24:36,833
+[achzt und gurgelt]
+
+854
+01:25:01,792 --> 01:25:03,542
+[weint]
+
+855
+01:25:09,042 --> 01:25:10,875
+[keucht]
+
+856
+01:26:04,875 --> 01:26:07,083
+Nein! Nein! Nein! Nein! Nein!
+
+857
+01:26:07,250 --> 01:26:08,083
+Kamerad.
+
+858
+01:26:08,750 --> 01:26:09,917
+Kamerad.
+
+859
+01:26:10,458 --> 01:26:11,625
+Kamerad.
+
+860
+01:26:15,250 --> 01:26:16,375
+Kamerad.
+
+861
+01:26:42,292 --> 01:26:44,292
+[atmet schwer]
+
+862
+01:26:58,042 --> 01:26:59,417
+[keucht wimmernd]
+
+863
+01:27:13,542 --> 01:27:15,125
+[Franzosisch] Tut mir leid.
+
+864
+01:27:15,917 --> 01:27:17,250
+[Deutsch] Es tut mir leid.
+
+865
+01:27:18,042 --> 01:27:20,750
+[Franzosisch]
+Es tut mir leid. Es tut mir leid.
+
+866
+01:27:34,125 --> 01:27:36,875
+[Paul wimmert entsetzt]
+
+867
+01:27:38,625 --> 01:27:39,667
+Oh...
+
+868
+01:27:40,750 --> 01:27:41,833
+Oh...
+
+869
+01:27:57,750 --> 01:28:00,292
+DUVAL, GERARD
+TYPOGRAF
+
+870
+01:28:15,333 --> 01:28:16,708
+[Franzosisch] Haus...
+
+871
+01:28:18,208 --> 01:28:21,458
+[Franzosisch] Deine Frau... Ich versprech's.
+
+872
+01:28:21,625 --> 01:28:22,708
+[Deutsch] Versprochen.
+
+873
+01:28:24,000 --> 01:28:24,917
+Versprochen.
+
+874
+01:28:37,083 --> 01:28:39,083
+[Stille]
+
+875
+01:29:01,708 --> 01:29:04,167
+[Vogel zwitschern]
+
+876
+01:29:36,208 --> 01:29:38,417
+[Operngesang]
+
+877
+01:29:41,958 --> 01:29:44,125
+[Schritte nahern sich]
+
+878
+01:30:12,375 --> 01:30:14,208
+Wann sind Sie geboren, Brixdorf?
+
+879
+01:30:16,250 --> 01:30:18,083
+1877, im Juni.
+
+880
+01:30:20,167 --> 01:30:21,708
+Ein Sommerkind.
+
+881
+01:30:22,708 --> 01:30:23,583
+Ja.
+
+882
+01:30:26,792 --> 01:30:28,042
+Was macht Ihr Vater?
+
+883
+01:30:30,458 --> 01:30:32,875
+Meine Familie
+hat in Holstein eine Manufaktur.
+
+884
+01:30:34,667 --> 01:30:35,542
+Wofur?
+
+885
+01:30:37,500 --> 01:30:39,125
+Reitsattel, Herr General.
+
+886
+01:30:39,292 --> 01:30:40,250
+Reitsattel...
+
+887
+01:30:41,917 --> 01:30:45,458
+Die kann man immer verkaufen.
+Da ist Ihre Zukunft gesichert.
+
+888
+01:30:47,083 --> 01:30:48,333
+Das ist ein gro?es Gluck.
+
+889
+01:30:50,667 --> 01:30:51,708
+Und?
+
+890
+01:30:52,583 --> 01:30:54,333
+Freuen Sie sich schon auf zu Hause?
+
+891
+01:30:55,417 --> 01:30:57,292
+Wenn man uns hier nicht mehr braucht?
+
+892
+01:30:57,458 --> 01:30:58,417
+Ja.
+
+893
+01:30:59,750 --> 01:31:02,125
+Nach dem Krieg,
+da wartet eine Aufgabe auf mich.
+
+894
+01:31:03,792 --> 01:31:05,500
+Ich werde das Geschaft ubernehmen.
+
+895
+01:31:06,875 --> 01:31:08,000
+Gratulation.
+
+896
+01:31:08,583 --> 01:31:09,917
+Und Sie?
+
+897
+01:31:11,917 --> 01:31:13,292
+Ich bin Soldat.
+
+898
+01:31:14,792 --> 01:31:17,292
+Mein Vater
+war schon Offizier in diesem Regiment.
+
+899
+01:31:18,292 --> 01:31:21,125
+Er hat in den drei Kriegen
+unter Bismarck gekampft.
+
+900
+01:31:21,292 --> 01:31:22,583
+Er hat alle drei gewonnen.
+
+901
+01:31:23,292 --> 01:31:25,583
+71 ist er auf Paris marschiert.
+
+902
+01:31:26,250 --> 01:31:28,208
+Als er wiederkam, war er ein Held.
+
+903
+01:31:32,042 --> 01:31:34,458
+Ich bin zu spat geboren, Brixdorf.
+
+904
+01:31:35,792 --> 01:31:37,750
+Ein halbes Jahrhundert ohne Krieg.
+
+905
+01:31:39,083 --> 01:31:41,583
+Was ist ein Soldat ohne Krieg?
+
+906
+01:31:47,875 --> 01:31:49,917
+Standen Sie Ihrem Vater nah?
+
+907
+01:31:51,000 --> 01:31:52,542
+Als Kind vielleicht.
+
+908
+01:31:54,458 --> 01:31:56,833
+Ein Mann wird alleine geboren,
+
+909
+01:31:57,458 --> 01:31:58,667
+er lebt allein,
+
+910
+01:31:59,625 --> 01:32:00,958
+und er stirbt alleine.
+
+911
+01:32:31,167 --> 01:32:32,917
+DER KAISER HAT ABGEDANKT
+
+912
+01:32:33,083 --> 01:32:34,167
+Herein.
+
+913
+01:32:35,417 --> 01:32:37,000
+Von Helldorf, was gibt's?
+
+914
+01:32:37,542 --> 01:32:38,500
+Hindenburg.
+
+915
+01:32:38,667 --> 01:32:40,000
+Machen Sie schon auf.
+
+916
+01:32:46,375 --> 01:32:48,125
+Er drangt zur Unterschrift.
+
+917
+01:32:48,667 --> 01:32:50,125
+[atmet erleichtert auf]
+
+918
+01:32:50,917 --> 01:32:52,292
+[Soldat] Vorbei!
+
+919
+01:32:53,583 --> 01:32:55,583
+[lautes Stimmengewirr]
+
+920
+01:32:55,750 --> 01:32:57,667
+[beklemmende Musik]
+
+921
+01:33:00,458 --> 01:33:01,458
+[Luftschusse]
+
+922
+01:33:03,208 --> 01:33:05,208
+[Stimmengewirr, betrunkene Rufe]
+
+923
+01:33:16,417 --> 01:33:21,292
+Klopf an das Tor des Klosters,
+und du findest nur Diebe und Schurken.
+
+924
+01:33:21,458 --> 01:33:24,750
+Es ist vorbei.
+Die fetten Schweine haben's eingesehen.
+
+925
+01:33:24,917 --> 01:33:28,958
+Sie verhandeln endlich.
+Wir fahren bald nach Hause, Soldat!
+
+926
+01:33:33,458 --> 01:33:34,833
+Wo ist das Lazarett?
+
+927
+01:33:40,417 --> 01:33:42,417
+[schmerzerfullte Schreie]
+
+928
+01:33:43,708 --> 01:33:46,250
+-[Soldat] Nein!
+-[Arzt] Chloroformiert ihn endlich!
+
+929
+01:33:46,417 --> 01:33:48,333
+[schreit vor Schmerz]
+
+930
+01:34:00,458 --> 01:34:01,708
+[Tjaden, schwach] Baumer.
+
+931
+01:34:02,750 --> 01:34:03,625
+Baumer.
+
+932
+01:34:07,542 --> 01:34:08,417
+Baumer.
+
+933
+01:34:10,750 --> 01:34:11,583
+Tjaden.
+
+934
+01:34:12,333 --> 01:34:13,250
+[flustert] Baumer.
+
+935
+01:34:13,833 --> 01:34:16,417
+Was ist passiert? Wo hast du was gekriegt?
+
+936
+01:34:16,583 --> 01:34:17,667
+Uberm Knie.
+
+937
+01:34:18,875 --> 01:34:19,708
+Glaub ich.
+
+938
+01:34:20,417 --> 01:34:21,792
+Ich spur nichts mehr.
+
+939
+01:34:22,708 --> 01:34:24,542
+Wie weit druber steckt der Schuss?
+
+940
+01:34:25,958 --> 01:34:27,625
+Ich kann meinen Kopf nicht heben.
+
+941
+01:34:28,625 --> 01:34:30,458
+10 cm mindestens.
+
+942
+01:34:34,625 --> 01:34:36,083
+Du fahrst nach Hause, Tjaden.
+
+943
+01:34:36,250 --> 01:34:37,917
+-Meinst du?
+-Ja, klar.
+
+944
+01:34:42,792 --> 01:34:45,333
+Wie soll ich denn so Landjager werden?
+
+945
+01:34:47,208 --> 01:34:48,958
+[schluchzt] Verdammte Schei?e.
+
+946
+01:34:49,458 --> 01:34:51,042
+Das kannst du doch immer noch.
+
+947
+01:34:53,083 --> 01:34:54,250
+Wirst schon sehen.
+
+948
+01:34:54,958 --> 01:34:57,250
+Ich lass mir den Knochen nicht abnehmen.
+
+949
+01:34:58,208 --> 01:35:00,333
+Ich lauf nicht als Kruppel durch die Welt.
+
+950
+01:35:00,833 --> 01:35:02,042
+Das musst du auch nicht.
+
+951
+01:35:02,208 --> 01:35:04,833
+Die haben schon ganz andere
+wieder zurechtgepflastert.
+
+952
+01:35:08,958 --> 01:35:10,417
+Ach Paulchen.
+
+953
+01:35:11,000 --> 01:35:12,625
+Ich soll dir was geben.
+
+954
+01:35:44,292 --> 01:35:45,292
+Ist er tot?
+
+955
+01:35:51,042 --> 01:35:52,833
+Du musst jetzt tapfer sein.
+
+956
+01:35:54,417 --> 01:35:55,625
+Du lebst.
+
+957
+01:35:55,792 --> 01:35:57,417
+Dafur musst du dankbar sein.
+
+958
+01:35:57,583 --> 01:36:00,750
+Fur uns.
+Fur die, die es nicht geschafft haben.
+
+959
+01:36:00,917 --> 01:36:04,333
+Sei still. Hor zu.
+So was darfst du nicht sagen. Nicht du.
+
+960
+01:36:19,792 --> 01:36:21,708
+[Lachen im Hintergrund]
+
+961
+01:36:56,958 --> 01:36:59,875
+[Soldat 1] Moment!
+Erst mal mussen alle da sein.
+
+962
+01:37:00,042 --> 01:37:02,208
+[Soldat 2]
+Die werden nicht mehr verpflegt.
+
+963
+01:37:02,375 --> 01:37:05,042
+-[Soldat 3] Mach, es ist fertig.
+-[Soldat 1] Geht nicht.
+
+964
+01:37:05,208 --> 01:37:08,042
+-[Soldat 4] Warum?
+-[Soldat 1] Ich hab fur 150 gekocht.
+
+965
+01:37:08,208 --> 01:37:10,417
+[Soldat 1]
+Das kann doch nicht fur 80 sein!
+
+966
+01:37:10,583 --> 01:37:13,167
+Wer hat dir ins Hirn geschissen?
+
+967
+01:37:13,333 --> 01:37:15,875
+Du hast fur die zweite Kompanie
+Furage empfangen.
+
+968
+01:37:16,042 --> 01:37:18,750
+-Die zweite Kompanie sind wir!
+-[alle] Ja!
+
+969
+01:37:18,917 --> 01:37:20,958
+Also gibst du's aus! Fertig!
+
+970
+01:37:21,542 --> 01:37:23,333
+[Paul] Kat! Kat!
+
+971
+01:37:23,500 --> 01:37:24,625
+-[Kat] Paul!
+-[Paul] Kat!
+
+972
+01:37:25,708 --> 01:37:27,583
+[Kat] Paul! Paul!
+
+973
+01:37:27,750 --> 01:37:28,833
+Kat! Du lebst.
+
+974
+01:37:29,625 --> 01:37:30,583
+Du lebst!
+
+975
+01:37:30,750 --> 01:37:32,083
+[Kat] Paul. Paul.
+
+976
+01:37:39,792 --> 01:37:41,292
+Tjaden hat's erwischt.
+
+977
+01:37:41,458 --> 01:37:42,667
+Der liegt in der Kirche.
+
+978
+01:37:43,958 --> 01:37:45,708
+Der kriegt 'ne doppelte Portion.
+
+979
+01:37:45,875 --> 01:37:46,792
+-Komm.
+
+980
+01:37:47,667 --> 01:37:48,625
+[Kat] Vorsicht.
+
+981
+01:37:51,208 --> 01:37:52,292
+Und hier noch einen.
+
+982
+01:37:55,458 --> 01:37:57,875
+[Paul] Verdammte Holle.
+Ich dachte, du warst tot.
+
+983
+01:37:59,500 --> 01:38:01,208
+[Kat] Irgendwann sterben wir alle.
+
+984
+01:38:01,917 --> 01:38:03,750
+[Paul] Nicht auf den letzten Metern.
+
+985
+01:38:06,042 --> 01:38:08,292
+[Kat]
+Stirbst du vor mir, bring ich dich um.
+
+986
+01:38:08,792 --> 01:38:09,792
+[Paul lacht]
+
+987
+01:38:13,917 --> 01:38:14,833
+Tjaden.
+
+988
+01:38:16,667 --> 01:38:17,750
+Tjaden.
+
+989
+01:38:23,792 --> 01:38:24,833
+-[schwach] Kat?
+-Mhm.
+
+990
+01:38:28,500 --> 01:38:29,500
+Kat.
+
+991
+01:38:31,000 --> 01:38:32,500
+Wir haben Suppe mitgebracht.
+
+992
+01:38:32,667 --> 01:38:34,292
+Hast du Besteck dabei?
+
+993
+01:38:34,458 --> 01:38:36,542
+Ja, Besteck haben wir auch dabei.
+
+994
+01:38:41,375 --> 01:38:42,500
+Lass es dir schmecken.
+
+995
+01:38:50,167 --> 01:38:52,167
+[die beiden schlurfen genusslich]
+
+996
+01:39:06,583 --> 01:39:09,667
+[Paul]
+Nein! Tjaden, halt! Hor auf, Tjaden!
+
+997
+01:39:09,833 --> 01:39:11,208
+Hor auf, nein!
+
+998
+01:39:15,417 --> 01:39:17,292
+Wir brauchen hier Hilfe!
+
+999
+01:39:17,458 --> 01:39:18,875
+Warum hast du das gemacht?
+
+1000
+01:39:19,458 --> 01:39:20,333
+Warum?
+
+1001
+01:39:20,917 --> 01:39:22,958
+Ist alle, Jungs, ist alle.
+
+1002
+01:39:23,125 --> 01:39:24,708
+[Paul] Der verblutet hier!
+
+1003
+01:39:25,875 --> 01:39:26,833
+[Kat] Ruhig.
+
+1004
+01:39:27,542 --> 01:39:29,208
+[rochelt]
+
+1005
+01:39:29,375 --> 01:39:30,208
+[Kat] Tjaden.
+
+1006
+01:39:31,458 --> 01:39:33,042
+[schluchzt]
+
+1007
+01:39:35,417 --> 01:39:36,458
+[Kat] Tjaden.
+
+1008
+01:39:37,542 --> 01:39:39,542
+[Rocheln]
+
+1009
+01:40:04,917 --> 01:40:07,000
+[sanfte getragene Harmonium-Musik]
+
+1010
+01:41:08,750 --> 01:41:10,875
+[Musik verklingt langsam]
+
+1011
+01:41:11,042 --> 01:41:11,792
+[Kat] Was ist?
+
+1012
+01:41:14,042 --> 01:41:15,125
+[Paul] Hab was verloren.
+
+1013
+01:41:19,917 --> 01:41:21,542
+Kat, kannst du Franzosisch?
+
+1014
+01:41:22,917 --> 01:41:24,542
+[Kat spricht Franzosisch]
+
+1015
+01:41:28,583 --> 01:41:30,958
+Meine Mutter wollte,
+dass ich Franzosisch lerne.
+
+1016
+01:41:31,125 --> 01:41:32,125
+[Kat] Ah...
+
+1017
+01:41:35,042 --> 01:41:35,917
+Und Klavier.
+
+1018
+01:41:38,292 --> 01:41:40,500
+Dass ich in den Krieg zieh,
+wollte sie nicht.
+
+1019
+01:41:41,500 --> 01:41:45,167
+"Das ist nichts fur dich", hat sie gesagt.
+"Da bist du ubermorgen tot."
+
+1020
+01:41:47,042 --> 01:41:49,167
+Ich wollte ihnen zeigen, dass ich es kann.
+
+1021
+01:41:49,833 --> 01:41:51,458
+[Kat] Was haben wir jetzt davon?
+
+1022
+01:41:54,625 --> 01:41:56,625
+"In ein paar Wochen sind wir in Paris."
+
+1023
+01:41:59,083 --> 01:42:02,417
+Zwei Jahre Handgranaten kann ich
+nicht ausziehen wie 'n Strumpf.
+
+1024
+01:42:02,583 --> 01:42:05,125
+-[Kat] Paul.
+-Den Gestank werden wir nie wieder los.
+
+1025
+01:42:05,292 --> 01:42:06,042
+[Kat] Ist gut.
+
+1026
+01:42:06,208 --> 01:42:09,208
+-Ludwig ist tot, Franz, Albert...
+-[Kat] Was geht's uns noch an?
+
+1027
+01:42:10,250 --> 01:42:11,750
+Wenigstens haben sie Ruhe.
+
+1028
+01:42:11,917 --> 01:42:12,750
+Wir leben.
+
+1029
+01:42:20,792 --> 01:42:22,625
+Das ist hier alles wie 'n Fieber.
+
+1030
+01:42:23,208 --> 01:42:25,833
+Keiner will's eigentlich,
+und mit einmal ist es da.
+
+1031
+01:42:26,583 --> 01:42:28,875
+Wir wollten es nicht,
+die anderen auch nicht.
+
+1032
+01:42:29,042 --> 01:42:31,917
+Trotzdem sind wir dabei.
+Trotzdem ist die halbe Welt dabei.
+
+1033
+01:42:32,083 --> 01:42:33,375
+Und Gott guckt zu,
+
+1034
+01:42:34,833 --> 01:42:36,292
+wie wir uns abschlachten.
+
+1035
+01:42:40,583 --> 01:42:41,417
+So...
+
+1036
+01:42:45,292 --> 01:42:46,333
+Aber was wei? ich?
+
+1037
+01:42:46,917 --> 01:42:48,000
+Ich wei? ja nichts.
+
+1038
+01:42:48,750 --> 01:42:50,667
+Bin 'n paar Stiefel mit 'nem Gewehr.
+
+1039
+01:42:52,583 --> 01:42:54,750
+Schlaf. Wir haben Schwein gehabt.
+
+1040
+01:42:54,917 --> 01:42:55,792
+Ja.
+
+1041
+01:43:13,708 --> 01:43:14,542
+Kat?
+
+1042
+01:43:15,667 --> 01:43:16,708
+[Kat] Mhm.
+
+1043
+01:43:18,792 --> 01:43:20,667
+[Paul] Woran ist dein Sohn gestorben?
+
+1044
+01:43:25,750 --> 01:43:26,750
+Pocken.
+
+1045
+01:43:35,000 --> 01:43:36,708
+Ich hab Angst vor dem, was kommt.
+
+1046
+01:43:44,083 --> 01:43:45,125
+Musst du nicht.
+
+1047
+01:43:49,458 --> 01:43:51,458
+[dustere spannungsvolle Musik]
+
+1048
+01:44:03,542 --> 01:44:05,542
+[gespenstische Klange]
+
+1049
+01:44:17,167 --> 01:44:18,167
+[Franzosisch] Henri.
+
+1050
+01:44:21,667 --> 01:44:22,708
+Probieren Sie mal.
+
+1051
+01:44:26,833 --> 01:44:27,833
+Sind die von heute?
+
+1052
+01:44:30,667 --> 01:44:32,875
+[Franzosisch]
+Tut mir leid. Ich glaube nicht.
+
+1053
+01:44:33,875 --> 01:44:34,833
+Hm...
+
+1054
+01:44:48,917 --> 01:44:51,000
+[gespenstische Klange]
+
+1055
+01:44:57,208 --> 01:44:58,500
+Monsieur le Marechal.
+
+1056
+01:45:05,792 --> 01:45:07,125
+[Franzosisch] Ich hore.
+
+1057
+01:45:07,292 --> 01:45:11,375
+[Erzberger] Der Kaiser hat abgedankt.
+Die Soldaten verweigern die Befehle.
+
+1058
+01:45:11,875 --> 01:45:13,667
+Deserteure ziehen durchs Land.
+
+1059
+01:45:13,833 --> 01:45:16,458
+Die neue Regierung
+wird sich mit aller Kraft bemuhen,
+
+1060
+01:45:16,625 --> 01:45:21,292
+die auferlegten Pflichten zu erfullen,
+aber die Bevolkerung droht,
+
+1061
+01:45:21,458 --> 01:45:25,875
+ohne eigenes Verschulden
+in Hungersnot und Anarchie zu sturzen.
+
+1062
+01:45:26,042 --> 01:45:29,000
+[Franzosisch] Das ist eine Krankheit
+der Besiegten, nicht der Sieger.
+
+1063
+01:45:29,167 --> 01:45:31,625
+Davor habe ich keine Angst.
+Ich verweigere...
+
+1064
+01:45:31,792 --> 01:45:33,792
+Ich verweigere jeden Kompromiss.
+
+1065
+01:45:33,958 --> 01:45:36,208
+Monsieur le Marechal, ich bitte Sie.
+
+1066
+01:45:37,000 --> 01:45:40,500
+Seien Sie gerecht zu Ihrem Gegner,
+sonst wird er diesen Frieden hassen.
+
+1067
+01:45:40,667 --> 01:45:41,750
+[Franzosisch] Gerecht?
+
+1068
+01:45:44,792 --> 01:45:46,875
+Sie reden von Gerechtigkeit?
+
+1069
+01:46:00,583 --> 01:46:01,750
+Unterschreiben Sie.
+
+1070
+01:46:23,083 --> 01:46:25,083
+[Fuller kratzt auf Papier]
+
+1071
+01:47:06,250 --> 01:47:09,208
+[Mann, franzosischer Akzent]
+Lassen Sie das Protokoll verzeichnen.
+
+1072
+01:47:09,375 --> 01:47:12,917
+Der Waffenstillstand
+tritt in sechs Stunden in Kraft.
+
+1073
+01:47:13,083 --> 01:47:17,000
+In der 11. Stunde
+am 11. Tag des 11. Monats.
+
+1074
+01:47:19,208 --> 01:47:22,417
+[Le Marechal, Franzosisch]
+Sehr schon. Der Krieg ist vorbei.
+
+1075
+01:47:24,500 --> 01:47:26,792
+[Luftschusse, Jubel]
+
+1076
+01:47:26,958 --> 01:47:28,875
+[lautes Stimmengewirr]
+
+1077
+01:47:36,708 --> 01:47:38,667
+[Brixdorf] Was wollen Sie jetzt machen?
+
+1078
+01:47:40,333 --> 01:47:42,000
+Was sehen Sie hier, Brixdorf?
+
+1079
+01:47:44,208 --> 01:47:46,875
+Die Ebenen von Latierre, Herr General.
+Eguisac.
+
+1080
+01:47:48,000 --> 01:47:49,292
+Die sehe ich auch.
+
+1081
+01:47:50,458 --> 01:47:53,208
+Und deutsche Soldaten,
+die weglaufen wie die Hasen.
+
+1082
+01:47:55,000 --> 01:47:57,333
+Die Franzosen furzen in unsere Stellung.
+
+1083
+01:47:57,500 --> 01:48:01,542
+Drau?en steht ein Zug mit Pferdefickern,
+die unsere Heimat verkaufen!
+
+1084
+01:48:05,458 --> 01:48:07,625
+Ziehen Sie die Rekruten ab.
+
+1085
+01:48:08,667 --> 01:48:10,250
+Lassen Sie im Hof antreten.
+
+1086
+01:48:10,750 --> 01:48:13,208
+Wir ziehen den Karren
+jetzt aus der Schei?e!
+
+1087
+01:48:15,458 --> 01:48:17,458
+[ruhige dustere Musik]
+
+1088
+01:48:24,583 --> 01:48:28,500
+[Radio] Die Kommunikation mit dem Feind
+bleibt untersagt.
+
+1089
+01:48:30,208 --> 01:48:32,583
+[Radio] Feindseligkeiten
+werden an der gesamten Front
+
+1090
+01:48:32,750 --> 01:48:36,333
+heute am 11. November,
+um 11 Uhr morgens eingestellt...
+
+1091
+01:48:49,417 --> 01:48:50,583
+[Paul] Wie spat ist es?
+
+1092
+01:48:56,417 --> 01:48:58,500
+-[Paul] Warum schlafst du nicht?
+-Hor mal.
+
+1093
+01:49:01,917 --> 01:49:03,292
+Es ist so still hier.
+
+1094
+01:49:05,708 --> 01:49:07,542
+Ich glaub, ich bin taub geworden.
+
+1095
+01:49:13,375 --> 01:49:15,167
+Die haben unterschrieben, Paul.
+
+1096
+01:49:19,458 --> 01:49:20,583
+Krieg ist vorbei.
+
+1097
+01:49:22,500 --> 01:49:23,625
+Er ist vorbei.
+
+1098
+01:49:29,250 --> 01:49:30,208
+Hast du Hunger?
+
+1099
+01:49:31,417 --> 01:49:32,417
+Ich hab Hunger.
+
+1100
+01:49:37,417 --> 01:49:38,833
+[Paul] Wo willst du hin?
+
+1101
+01:49:39,000 --> 01:49:41,250
+[Kat] Jetzt komm,
+eh der Saukerl noch aufwacht.
+
+1102
+01:49:43,083 --> 01:49:46,167
+-[Kat] Was machst du an Weihnachten, Paul?
+-[Paul] Wei? nicht.
+
+1103
+01:49:46,833 --> 01:49:50,208
+[Kat] Ich brat 'ne Gans.
+Mit Rotkohl, Kartoffeln...
+
+1104
+01:49:50,375 --> 01:49:53,042
+Dann zunde ich alle Kerzen an,
+dann kuss ich meine Frau.
+
+1105
+01:49:53,208 --> 01:49:55,333
+Gott, Paul... Meine Frau, die ist schon.
+
+1106
+01:49:55,917 --> 01:49:57,000
+-[Paul] Ja?
+-[Kat] Ja.
+
+1107
+01:49:57,167 --> 01:49:58,625
+[Paul] Wie sieht sie denn aus?
+
+1108
+01:49:58,792 --> 01:50:02,042
+[Kat] Na... Lange Locken, dunkel...
+
+1109
+01:50:02,750 --> 01:50:05,250
+Und rund ist die und stark.
+
+1110
+01:50:05,417 --> 01:50:06,208
+Ja?
+
+1111
+01:50:08,583 --> 01:50:09,542
+[Paul] Weihnachten.
+
+1112
+01:50:10,375 --> 01:50:12,083
+Das ist alles noch so weit weg.
+
+1113
+01:50:12,250 --> 01:50:15,333
+[Kat]
+Na, ist es aber nicht. Ist ganz nah. Hm?
+
+1114
+01:50:17,958 --> 01:50:20,167
+Wir wollen wieder ein Kind. Kinder, Paul.
+
+1115
+01:50:21,125 --> 01:50:24,875
+Weil, was ist Weihnachten ohne Kinder?
+Halt nichts. Hm?
+
+1116
+01:50:27,208 --> 01:50:28,125
+Wei?t du, wenn...
+
+1117
+01:50:28,833 --> 01:50:31,208
+Wenn wir erst mal wieder zu Hause sind,
+dann...
+
+1118
+01:50:31,375 --> 01:50:33,042
+-Ja?
+-Dann machen wir was Gro?es.
+
+1119
+01:50:33,792 --> 01:50:35,792
+Wir beide. Wir beide zusammen, ja?
+
+1120
+01:50:35,958 --> 01:50:36,792
+Na, na.
+
+1121
+01:50:38,750 --> 01:50:39,667
+Was denn?
+
+1122
+01:50:40,417 --> 01:50:41,958
+Na, ich bin Schuster, Paul.
+
+1123
+01:50:42,125 --> 01:50:44,083
+Ich repariere Schuhe. Ja?
+
+1124
+01:50:44,250 --> 01:50:47,083
+Du kannst lesen, schreiben,
+hast das Abitur.
+
+1125
+01:50:48,083 --> 01:50:49,542
+Hat mir auch nichts gebracht.
+
+1126
+01:50:50,542 --> 01:50:51,792
+Was sollen wir machen?
+
+1127
+01:50:52,292 --> 01:50:54,083
+Zusammen Schuhsohlen vernageln?
+
+1128
+01:50:54,792 --> 01:50:56,125
+Willst du mich beleidigen?
+
+1129
+01:50:57,000 --> 01:50:59,333
+Ich kann nicht mal 'n Brief lesen
+von meiner Frau.
+
+1130
+01:51:00,208 --> 01:51:01,458
+Du gehst studieren, Paul.
+
+1131
+01:51:02,417 --> 01:51:04,292
+Sonst erschie?e ich dich gleich hier.
+
+1132
+01:51:06,333 --> 01:51:07,458
+Meine Hose rutscht.
+
+1133
+01:51:10,333 --> 01:51:11,542
+Die Hose ist lose.
+
+1134
+01:51:14,042 --> 01:51:16,167
+[Paul]
+Musst du eben mal 'n bisschen essen.
+
+1135
+01:51:16,917 --> 01:51:19,667
+[Kat] Bald sind wir zu Hause,
+dann essen wir, was wir wollen.
+
+1136
+01:51:20,375 --> 01:51:21,583
+Was wir wollen.
+
+1137
+01:51:27,292 --> 01:51:28,625
+[Pferd wiehert]
+
+1138
+01:51:30,667 --> 01:51:32,083
+[Huhner gackern]
+
+1139
+01:51:46,375 --> 01:51:47,417
+Du bist dran.
+
+1140
+01:51:48,167 --> 01:51:52,042
+Wenn mich der Bauer noch mal erwischt,
+schie?t der mich glatt uber 'n Haufen.
+
+1141
+01:51:52,208 --> 01:51:53,292
+[Kat pfeift]
+
+1142
+01:51:56,583 --> 01:51:58,250
+Pass mit dem verdammten Hund auf.
+
+1143
+01:51:58,417 --> 01:51:59,167
+Ja.
+
+1144
+01:52:04,000 --> 01:52:05,833
+[Huhner gackern, Enten schnattern]
+
+1145
+01:52:26,542 --> 01:52:28,917
+[Ente schnattert]
+
+1146
+01:52:31,208 --> 01:52:32,458
+[Tur quietscht]
+
+1147
+01:52:36,583 --> 01:52:38,583
+[Enten quaken]
+
+1148
+01:52:46,958 --> 01:52:49,625
+[lautes Schnattern]
+
+1149
+01:52:50,875 --> 01:52:51,792
+[Paul] Pst...
+
+1150
+01:52:52,917 --> 01:52:54,917
+[Knarzen]
+
+1151
+01:53:13,167 --> 01:53:14,167
+[Franzosisch] Schau.
+
+1152
+01:53:17,208 --> 01:53:18,792
+[Franzosisch] Das ist sehr gut.
+
+1153
+01:53:21,917 --> 01:53:23,375
+[Franzosisch] Mochtest du?
+
+1154
+01:53:25,208 --> 01:53:26,250
+Schei?e.
+
+1155
+01:53:33,333 --> 01:53:35,000
+[seufzt]
+
+1156
+01:53:50,333 --> 01:53:52,708
+[melancholische Klaviermusik]
+
+1157
+01:54:04,792 --> 01:54:06,333
+[Hund bellt]
+
+1158
+01:54:07,000 --> 01:54:09,000
+-[Paul] Pst...
+-[Hund bellt]
+
+1159
+01:54:17,208 --> 01:54:20,458
+[Bauer, Franzosisch] He! Stehen bleiben!
+
+1160
+01:54:20,958 --> 01:54:22,417
+He!
+
+1161
+01:54:28,875 --> 01:54:29,708
+[Paul] Kat!
+
+1162
+01:54:30,292 --> 01:54:31,792
+Lauf! Lauf!
+
+1163
+01:54:34,417 --> 01:54:36,083
+[Bauer, Franzosich] Schei?kerl!!
+
+1164
+01:54:43,000 --> 01:54:44,958
+[Bauer murmelt unverstandlich]
+
+1165
+01:54:47,667 --> 01:54:49,667
+[weiter melancholische Musik]
+
+1166
+01:54:54,292 --> 01:54:56,292
+[keuchen]
+
+1167
+01:55:02,000 --> 01:55:03,583
+[Paul] Oh, Mist.
+
+1168
+01:55:03,750 --> 01:55:04,958
+Guck dir das an.
+
+1169
+01:55:05,125 --> 01:55:06,042
+Was ist?
+
+1170
+01:55:06,208 --> 01:55:08,792
+-[Paul] Oh, Schwein gehabt.
+-[Kat] Eier weggeschossen?
+
+1171
+01:55:08,958 --> 01:55:09,875
+[lacht]
+
+1172
+01:55:10,042 --> 01:55:10,792
+Druck drauf.
+
+1173
+01:55:15,958 --> 01:55:17,625
+-[Kat] Komm, mach alles rein.
+-Ja.
+
+1174
+01:55:19,042 --> 01:55:19,917
+[Kat] Rein damit.
+
+1175
+01:55:22,875 --> 01:55:24,000
+Die konnen wir braten.
+
+1176
+01:55:24,542 --> 01:55:26,458
+Quatsch mit So?e. Das essen wir jetzt.
+
+1177
+01:55:26,625 --> 01:55:27,417
+Das geht auch so.
+
+1178
+01:55:40,667 --> 01:55:42,000
+[Kat] Mmh!
+
+1179
+01:55:43,792 --> 01:55:44,708
+Ah!
+
+1180
+01:55:46,333 --> 01:55:47,500
+Besser geht's nicht.
+
+1181
+01:55:49,042 --> 01:55:50,125
+Bin gleich wieder da.
+
+1182
+01:55:54,250 --> 01:55:56,250
+[weiter melancholische Musik]
+
+1183
+01:56:22,917 --> 01:56:24,917
+[uriniert]
+
+1184
+01:56:37,500 --> 01:56:39,500
+[Wind rauscht sanft]
+
+1185
+01:56:53,000 --> 01:56:55,000
+[Klacken]
+
+1186
+01:57:20,458 --> 01:57:22,667
+[entfernter Schuss]
+
+1187
+01:57:27,500 --> 01:57:28,417
+Kat?
+
+1188
+01:57:33,375 --> 01:57:34,500
+Kat?
+
+1189
+01:57:38,958 --> 01:57:39,833
+Kat!
+
+1190
+01:57:41,958 --> 01:57:44,750
+-[Paul] Was ist passiert?
+-[Kat] Lass uns gehen.
+
+1191
+01:57:46,667 --> 01:57:49,542
+-Wer hat geschossen?
+-Der kleine Schei?er vom Hof.
+
+1192
+01:57:50,542 --> 01:57:52,083
+Der Sohn vom Bauer.
+
+1193
+01:57:53,792 --> 01:57:56,167
+-Kat. Kat.
+-[Kat achzt vor Schmerz]
+
+1194
+01:57:56,333 --> 01:57:57,208
+[Kat] Schlamassel.
+
+1195
+01:58:03,708 --> 01:58:06,000
+-[Paul] Ah...
+-[Kat] Hm? Wie gro??
+
+1196
+01:58:06,792 --> 01:58:09,042
+Kleiner Finger. Ich hol die Kugel raus.
+
+1197
+01:58:09,208 --> 01:58:11,208
+Nee, gib mir lieber 'ne Zigarette.
+
+1198
+01:58:11,708 --> 01:58:13,708
+Lass das den Sanitater machen.
+
+1199
+01:58:32,333 --> 01:58:34,625
+Die steckten mich
+in eine Klasse mit 7-Jahrigen.
+
+1200
+01:58:36,000 --> 01:58:37,875
+Ich hab mich damals schon rasiert.
+
+1201
+01:58:39,458 --> 01:58:40,708
+Find mal 'n Wort...
+
+1202
+01:58:42,583 --> 01:58:44,333
+...das sich auf Affe reimt.
+
+1203
+01:58:45,333 --> 01:58:46,250
+Hm...
+
+1204
+01:58:48,375 --> 01:58:50,750
+Nichts reimt sich auf Affe. Nichts.
+
+1205
+01:58:56,875 --> 01:58:58,583
+Verfluchte Schei?e.
+
+1206
+01:58:59,750 --> 01:59:02,083
+Muss das
+ausgerechnet jetzt noch passieren?
+
+1207
+01:59:05,917 --> 01:59:07,458
+-Komm, wir mussen weiter.
+-Ja.
+
+1208
+01:59:08,333 --> 01:59:09,208
+Weiter.
+
+1209
+01:59:11,292 --> 01:59:13,292
+[Kat achzt]
+
+1210
+01:59:14,750 --> 01:59:16,458
+[Paul] Geht's, Kat?
+
+1211
+01:59:17,167 --> 01:59:18,292
+[Kat] Mhm.
+
+1212
+01:59:18,458 --> 01:59:19,833
+-[Paul] Waffe.
+-[Kat] Hm?
+
+1213
+01:59:20,542 --> 01:59:22,208
+[Paul] Waffe reimt sich auf Affe.
+
+1214
+01:59:22,750 --> 01:59:24,167
+[Kat lacht]
+
+1215
+01:59:32,542 --> 01:59:36,167
+[Paul] Wenn wir zu Hause sind,
+machst du mir erst mal neue Stiefel.
+
+1216
+01:59:36,333 --> 01:59:38,208
+Ich laufe mir hier die Fu?e blutig.
+
+1217
+01:59:38,875 --> 01:59:40,417
+[Jubel in der Ferne]
+
+1218
+01:59:52,208 --> 01:59:53,167
+Halt!
+
+1219
+01:59:56,542 --> 01:59:57,375
+Halt!
+
+1220
+01:59:59,208 --> 02:00:00,167
+Anhalten!
+
+1221
+02:00:00,792 --> 02:00:01,708
+Anhalten!
+
+1222
+02:00:03,417 --> 02:00:04,417
+Anhalten!
+
+1223
+02:00:08,292 --> 02:00:09,458
+[Kat achzt vor Schmerz]
+
+1224
+02:00:16,958 --> 02:00:18,167
+[Paul achzt angestrengt]
+
+1225
+02:00:52,292 --> 02:00:53,500
+Sanitater!
+
+1226
+02:00:55,917 --> 02:00:57,250
+Sanitater!
+
+1227
+02:01:04,792 --> 02:01:06,792
+[Paul keucht]
+
+1228
+02:01:25,792 --> 02:01:28,000
+[Sanitater]
+Das hattest du dir sparen konnen.
+
+1229
+02:01:28,583 --> 02:01:29,458
+[Paul] Hm?
+
+1230
+02:01:30,792 --> 02:01:32,250
+[Sanitater] Der ist doch tot.
+
+1231
+02:01:37,167 --> 02:01:40,000
+[Paul] Ist doch...
+Ist doch nur ein kleiner Steckschuss.
+
+1232
+02:01:40,167 --> 02:01:42,833
+Ja, schwarzes Blut. Direkt in die Leber.
+
+1233
+02:01:43,417 --> 02:01:45,042
+Die Organe sind vergiftet.
+
+1234
+02:01:51,333 --> 02:01:52,542
+Ohnmachtig.
+
+1235
+02:01:53,333 --> 02:01:55,625
+[Sanitater] M-m. Der ist tot.
+
+1236
+02:01:56,375 --> 02:01:58,250
+Kenn ich mich ja wohl besser mit aus.
+
+1237
+02:01:58,958 --> 02:02:03,250
+Das... Das kann nicht sein, ich hab...
+Ich hab gerade noch mit ihm gesprochen.
+
+1238
+02:02:03,417 --> 02:02:04,417
+Der ist ohnmachtig.
+
+1239
+02:02:06,292 --> 02:02:07,458
+Der ist ohnmachtig.
+
+1240
+02:02:14,708 --> 02:02:15,833
+[Sanitater] Siehst du?
+
+1241
+02:02:17,583 --> 02:02:19,250
+Hat einfach Pech gehabt.
+
+1242
+02:02:19,417 --> 02:02:20,625
+So kurz vor Schluss.
+
+1243
+02:02:38,333 --> 02:02:39,792
+[Atem stockt]
+
+1244
+02:02:51,417 --> 02:02:52,792
+[achzt]
+
+1245
+02:02:55,250 --> 02:02:59,542
+[deutsche Soldaten singen im Hintergrund]
+
+1246
+02:03:03,542 --> 02:03:05,542
+[keucht]
+
+1247
+02:03:44,542 --> 02:03:46,250
+[Soldat] Komm mit, Soldat!
+
+1248
+02:03:46,417 --> 02:03:49,542
+Der General schickt uns nach Hause!
+Wir fahren nach Hause!
+
+1249
+02:03:50,042 --> 02:03:52,042
+Wir fahren nach Hause!
+
+1250
+02:03:54,083 --> 02:03:56,083
+[bedrohliche Klange]
+
+1251
+02:03:57,417 --> 02:03:59,417
+[Kirchenglocken lauten]
+
+1252
+02:04:09,750 --> 02:04:12,208
+[Feldwebel] Los, weiter! Weiter!
+
+1253
+02:04:12,792 --> 02:04:14,083
+Legt 'n Zahn zu!
+
+1254
+02:04:32,458 --> 02:04:34,167
+[Feldwebel] Achtung!
+
+1255
+02:04:40,417 --> 02:04:41,375
+[General] Soldaten.
+
+1256
+02:04:42,042 --> 02:04:44,292
+Wir stehen hier als Bruder
+
+1257
+02:04:45,333 --> 02:04:48,792
+in einer Welt von Feinden
+und mussen zusehen,
+
+1258
+02:04:48,958 --> 02:04:54,083
+wie deutsche Sozialdemokraten
+unser geliebtes Volk wehrlos machen,
+
+1259
+02:04:54,250 --> 02:04:58,042
+durch die Annahme
+eines perfiden Waffenstillstands.
+
+1260
+02:04:59,125 --> 02:05:00,042
+Kameraden.
+
+1261
+02:05:01,292 --> 02:05:05,292
+Fur Sie geht es bald heim
+zu Eltern, Frau und Kindern.
+
+1262
+02:05:06,500 --> 02:05:07,750
+Der Krieg ist aus.
+
+1263
+02:05:08,375 --> 02:05:13,167
+Nach Jahren der Opfer und Leiden
+sehen Sie nun Ihrem Lohn entgegen.
+
+1264
+02:05:13,750 --> 02:05:18,083
+Dem Lohn der Bewunderung fur alles,
+was Sie hier geleistet haben.
+
+1265
+02:05:19,417 --> 02:05:21,042
+Aber, Kameraden,
+
+1266
+02:05:22,417 --> 02:05:25,250
+wollt ihr als Soldaten
+und Helden empfangen werden
+
+1267
+02:05:27,208 --> 02:05:28,167
+oder als Feiglinge,
+
+1268
+02:05:28,333 --> 02:05:31,667
+die ihren Schwanz einzogen,
+als es wirklich darauf ankam?
+
+1269
+02:05:32,583 --> 02:05:33,958
+Soldaten.
+
+1270
+02:05:34,458 --> 02:05:38,208
+Wir werden jetzt zuschlagen
+mit all unserer Harte und Gewalt.
+
+1271
+02:05:38,958 --> 02:05:42,500
+Latierre gehort in deutsche Hand.
+
+1272
+02:05:42,667 --> 02:05:48,958
+Wir erobern die Ebene noch vor 11 Uhr
+und beenden diesen Krieg mit einem Sieg!
+
+1273
+02:05:49,917 --> 02:05:50,833
+Vorwarts!
+
+1274
+02:05:51,000 --> 02:05:55,167
+Mit Gott, der mit uns sein wird,
+wie er es schon mit unseren Vatern war.
+
+1275
+02:05:56,583 --> 02:05:59,333
+[Soldat] Ich zieh nicht mehr
+in die Schlacht, ich nicht!
+
+1276
+02:05:59,500 --> 02:06:00,750
+Halts Maul!
+
+1277
+02:06:00,917 --> 02:06:03,417
+[unverstandliche Rufe]
+
+1278
+02:06:09,750 --> 02:06:11,583
+[Feldwebel] Legt an!
+
+1279
+02:06:11,750 --> 02:06:13,375
+-[Soldat] Nein!
+-[Feldwebel] Feuer!
+
+1280
+02:06:13,542 --> 02:06:15,750
+[Schusse]
+
+1281
+02:06:24,125 --> 02:06:26,125
+[bedrohliche Klange]
+
+1282
+02:06:35,042 --> 02:06:37,042
+[bedrohliche Klange]
+
+1283
+02:06:46,000 --> 02:06:48,250
+[bedrohliche Klange]
+
+1284
+02:06:50,625 --> 02:06:52,625
+[Feldwebel] Kompanie halt!
+
+1285
+02:06:57,458 --> 02:06:59,125
+Gewehr ab!
+
+1286
+02:06:59,708 --> 02:07:01,083
+[Soldat 1] Seitengewehr ab!
+
+1287
+02:07:01,250 --> 02:07:02,375
+[unverstandliche Rufe]
+
+1288
+02:07:12,542 --> 02:07:14,542
+-[spannungsvolle Musik]
+-[Uhr tickt]
+
+1289
+02:07:17,375 --> 02:07:18,250
+Wie spat?
+
+1290
+02:07:19,083 --> 02:07:20,625
+[Soldat] Noch 15 Minuten.
+
+1291
+02:07:30,333 --> 02:07:32,333
+[bedrohliche Klange]
+
+1292
+02:07:35,500 --> 02:07:37,500
+[franzosisches Stimmengewirr]
+
+1293
+02:07:47,292 --> 02:07:49,042
+[unverstandlich]
+
+1294
+02:07:57,583 --> 02:07:59,292
+[Franzosisch] Die gehorte Lefevre.
+
+1295
+02:08:00,250 --> 02:08:04,292
+Der Arme. Hat sie furs Ende aufgehoben.
+Jetzt hat er nichts mehr davon.
+
+1296
+02:08:04,458 --> 02:08:06,042
+[Franzosisch] Danke, Kommandant.
+
+1297
+02:08:09,333 --> 02:08:11,083
+Auf Sie und auf Lefevre.
+
+1298
+02:08:17,500 --> 02:08:18,583
+Der ist gut.
+
+1299
+02:08:22,125 --> 02:08:23,333
+Der Albtraum ist vorbei.
+
+1300
+02:08:39,208 --> 02:08:41,208
+[dustere spannungsvolle Musik]
+
+1301
+02:08:56,958 --> 02:08:59,167
+[achzt]
+
+1302
+02:09:04,917 --> 02:09:06,917
+[Stimmengewirr, Lachen]
+
+1303
+02:09:12,875 --> 02:09:14,708
+[entferntes Beben]
+
+1304
+02:09:18,125 --> 02:09:20,125
+[entfernte Schreie]
+
+1305
+02:09:23,333 --> 02:09:26,167
+[Franzosisch]
+Der Feind greift an! Der Feind greift an!
+
+1306
+02:09:26,333 --> 02:09:28,083
+Auf Position!
+[pfeift]
+
+1307
+02:09:28,250 --> 02:09:30,167
+[Kampfgebrull]
+
+1308
+02:09:31,167 --> 02:09:32,083
+Feuer!
+
+1309
+02:09:32,750 --> 02:09:34,917
+Feuer!
+
+1310
+02:09:35,083 --> 02:09:37,417
+[Sirenen ertonen]
+
+1311
+02:09:46,167 --> 02:09:48,167
+[Maschinengewehr-Feuer]
+
+1312
+02:09:49,625 --> 02:09:51,625
+[keucht]
+
+1313
+02:10:09,333 --> 02:10:11,042
+[Soldat] Granaten!
+
+1314
+02:10:17,667 --> 02:10:19,625
+[Schreie]
+
+1315
+02:10:21,625 --> 02:10:22,958
+[Franzosisch] Angriff!
+
+1316
+02:10:46,333 --> 02:10:48,458
+[Achzen]
+
+1317
+02:11:02,083 --> 02:11:04,250
+[keucht]
+
+1318
+02:11:19,167 --> 02:11:20,625
+Nein! Nein! Bitte! Nein!
+
+1319
+02:11:25,917 --> 02:11:27,125
+Nein! Nicht! Nein!
+
+1320
+02:11:27,292 --> 02:11:29,208
+[Achzen]
+
+1321
+02:11:55,625 --> 02:11:57,667
+[Paul schreit unterdruckt]
+
+1322
+02:12:14,458 --> 02:12:16,708
+[achzt]
+
+1323
+02:12:17,333 --> 02:12:19,333
+[ringt nach Luft]
+
+1324
+02:12:59,458 --> 02:13:00,875
+Dapst]
+
+1325
+02:13:07,292 --> 02:13:08,833
+[rochelt]
+
+1326
+02:13:11,417 --> 02:13:13,333
+[Mann, Franzosisch] Waffenstillstand!
+
+1327
+02:13:13,500 --> 02:13:15,083
+Es ist 11 Uhr!
+
+1328
+02:13:16,083 --> 02:13:19,750
+[deutscher Feldwebel] Feuer einstellen!
+
+1329
+02:13:20,250 --> 02:13:22,083
+Es ist 11 Uhr!
+
+1330
+02:13:39,958 --> 02:13:41,958
+[getragene Streichmusik]
+
+1331
+02:13:47,958 --> 02:13:49,458
+[achzt schwach]
+
+1332
+02:15:16,292 --> 02:15:18,375
+[Musik verklingt langsam]
+
+1333
+02:15:24,500 --> 02:15:26,500
+[Uhr schlagt]
+
+1334
+02:16:10,333 --> 02:16:13,042
+[triste Harmonium-Musik]
+
+1335
+02:16:20,042 --> 02:16:21,500
+Sind Sie in Ordnung, Soldat?
+
+1336
+02:16:22,833 --> 02:16:23,875
+Ja.
+
+1337
+02:16:24,042 --> 02:16:25,083
+Na dann.
+
+1338
+02:16:25,792 --> 02:16:26,833
+Einsammeln, bitte.
+
+1339
+02:18:18,042 --> 02:18:20,042
+[Musik verklingt langsam]
+
+1340
+02:18:46,417 --> 02:18:48,417
+[sanfte Harmonium-Musik]
+
+1341
+02:20:19,083 --> 02:20:20,625
+[Musik klingt aus]
+
