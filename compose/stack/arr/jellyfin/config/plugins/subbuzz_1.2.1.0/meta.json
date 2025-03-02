@@ -1,0 +1,16 @@
+{
+  "category": "Metadata",
+  "changelog": "- Added new provider: SubDL.com\n",
+  "description": "Download subtitles from various sites",
+  "guid": "5aeab01b-2ef8-45c6-bb6b-16ce9cb268d4",
+  "name": "subbuzz",
+  "overview": "Download subtitles for your media",
+  "owner": "josdion",
+  "targetAbi": "10.10.0.0",
+  "timestamp": "2024-10-27T10:01:24.0000000Z",
+  "version": "1.2.1.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/plugins/subbuzz_1.2.1.0/thumb.png",
+  "assemblies": []
+}

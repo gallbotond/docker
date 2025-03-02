@@ -1,0 +1,3 @@
+{"sdk":{"name":"sentry.dotnet","version":"4.0.2"}}
+{"type":"client_report","length":131}
+{"timestamp":"2025-03-01T23:38:21.5485305+00:00","discarded_events":[{"reason":"event_processor","category":"error","quantity":1}]}

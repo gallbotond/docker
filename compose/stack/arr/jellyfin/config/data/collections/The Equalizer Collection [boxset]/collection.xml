@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>R</ContentRating>
+  <Added>02/15/2025 22:35:38</Added>
+  <LockData>true</LockData>
+  <LocalTitle>The Equalizer Collection</LocalTitle>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/movies/The Equalizer (2014)/The Equalizer.2014.720p.LEONARDO_[scarabey.org].mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/The Equalizer 2 (2018)/The Equalizer 2 (2018) [BluRay] [720p] [YTS] [YIFY].mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/movies/The Equalizer 3 (2023)/The.Equalizer.3.2023.BDRip.720p.seleZen.mkv</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

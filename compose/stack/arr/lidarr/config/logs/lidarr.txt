@@ -1,0 +1,1018 @@
+2025-02-27 02:06:46.8|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 02:06:46.8|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 02:06:56.7|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 02:06:56.7|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 02:06:56.9|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 02:06:56.9|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 02:06:59.1|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 02:06:59.1|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 02:21:56.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 02:21:56.6|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 02:06:26 and 02/27/2025 02:21:56 UTC. Search may be required.
+2025-02-27 02:21:56.7|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 02:21:56.7|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 02:22:12.8|Info|DownloadDecisionMaker|Processing 456 releases
+2025-02-27 02:22:13.1|Info|RssSyncService|RSS Sync Completed. Reports found: 456, Reports grabbed: 0
+2025-02-27 02:37:26.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 02:37:26.6|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 02:21:56 and 02/27/2025 02:37:26 UTC. Search may be required.
+2025-02-27 02:37:26.7|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 02:37:26.7|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 02:37:42.8|Info|DownloadDecisionMaker|Processing 454 releases
+2025-02-27 02:37:43.1|Info|RssSyncService|RSS Sync Completed. Reports found: 454, Reports grabbed: 0
+2025-02-27 02:52:56.5|Info|RssSyncService|Starting RSS Sync
+2025-02-27 02:52:56.7|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 02:37:26 and 02/27/2025 02:52:56 UTC. Search may be required.
+2025-02-27 02:52:56.7|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 02:52:56.7|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 02:53:13.4|Info|DownloadDecisionMaker|Processing 454 releases
+2025-02-27 02:53:13.7|Info|RssSyncService|RSS Sync Completed. Reports found: 454, Reports grabbed: 0
+2025-02-27 03:08:27.6|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:08:27.9|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 02:52:56 and 02/27/2025 03:08:27 UTC. Search may be required.
+2025-02-27 03:08:27.9|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 03:08:27.9|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 03:08:43.6|Info|DownloadDecisionMaker|Processing 454 releases
+2025-02-27 03:08:43.9|Info|RssSyncService|RSS Sync Completed. Reports found: 454, Reports grabbed: 0
+2025-02-27 03:23:57.7|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:23:57.9|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 03:08:27 and 02/27/2025 03:23:57 UTC. Search may be required.
+2025-02-27 03:23:58.0|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 03:23:58.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 03:24:13.6|Info|DownloadDecisionMaker|Processing 456 releases
+2025-02-27 03:24:13.9|Info|RssSyncService|RSS Sync Completed. Reports found: 456, Reports grabbed: 0
+2025-02-27 03:39:27.8|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:39:28.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 03:39:28.1|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 03:23:57 and 02/27/2025 03:39:28 UTC. Search may be required.
+2025-02-27 03:39:28.2|Warn|Torznab|Indexer Tokyo Toshokan (Prowlarr) rss sync didn't cover the period between 02/26/2025 22:16:00 and 02/26/2025 22:16:00 UTC. Search may be required.
+2025-02-27 03:39:28.2|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 03:39:43.8|Info|DownloadDecisionMaker|Processing 454 releases
+2025-02-27 03:39:44.1|Info|RssSyncService|RSS Sync Completed. Reports found: 454, Reports grabbed: 0
+2025-02-27 03:54:57.8|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:54:58.0|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 03:39:28 and 02/27/2025 03:54:58 UTC. Search may be required.
+2025-02-27 03:54:58.1|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 03:54:58.2|Warn|Torznab|Indexer Tokyo Toshokan (Prowlarr) rss sync didn't cover the period between 02/26/2025 22:16:00 and 02/26/2025 22:16:00 UTC. Search may be required.
+2025-02-27 03:54:58.2|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 03:55:15.1|Info|DownloadDecisionMaker|Processing 455 releases
+2025-02-27 03:55:15.4|Info|RssSyncService|RSS Sync Completed. Reports found: 455, Reports grabbed: 0
+2025-02-27 04:10:28.1|Info|RssSyncService|Starting RSS Sync
+2025-02-27 04:10:28.3|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 03:54:58 and 02/27/2025 04:10:28 UTC. Search may be required.
+2025-02-27 04:10:28.4|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 04:10:28.4|Warn|Torznab|Indexer Tokyo Toshokan (Prowlarr) rss sync didn't cover the period between 02/26/2025 22:16:00 and 02/26/2025 22:16:00 UTC. Search may be required.
+2025-02-27 04:10:28.4|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 04:10:43.8|Info|DownloadDecisionMaker|Processing 454 releases
+2025-02-27 04:10:44.1|Info|RssSyncService|RSS Sync Completed. Reports found: 454, Reports grabbed: 0
+2025-02-27 04:25:58.2|Info|RssSyncService|Starting RSS Sync
+2025-02-27 04:25:58.4|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 04:10:28 and 02/27/2025 04:25:58 UTC. Search may be required.
+2025-02-27 04:25:58.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 04:25:58.5|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 04:25:58.5|Warn|Torznab|Indexer Tokyo Toshokan (Prowlarr) rss sync didn't cover the period between 02/26/2025 22:16:00 and 02/26/2025 22:16:00 UTC. Search may be required.
+2025-02-27 04:26:14.2|Info|DownloadDecisionMaker|Processing 454 releases
+2025-02-27 04:26:14.5|Info|RssSyncService|RSS Sync Completed. Reports found: 454, Reports grabbed: 0
+2025-02-27 04:41:28.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 04:41:28.6|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 04:25:58 and 02/27/2025 04:41:28 UTC. Search may be required.
+2025-02-27 04:41:28.6|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 04:41:28.8|Warn|Torznab|Indexer Tokyo Toshokan (Prowlarr) rss sync didn't cover the period between 02/26/2025 22:16:00 and 02/26/2025 22:16:00 UTC. Search may be required.
+2025-02-27 04:41:28.8|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 04:41:45.9|Info|DownloadDecisionMaker|Processing 455 releases
+2025-02-27 04:41:46.3|Info|RssSyncService|RSS Sync Completed. Reports found: 455, Reports grabbed: 0
+2025-02-27 04:56:58.5|Info|RssSyncService|Starting RSS Sync
+2025-02-27 04:56:58.6|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 04:41:28 and 02/27/2025 04:56:58 UTC. Search may be required.
+2025-02-27 04:56:58.8|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 04:56:58.8|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 04:56:58.9|Warn|Torznab|Indexer Tokyo Toshokan (Prowlarr) rss sync didn't cover the period between 02/26/2025 22:16:00 and 02/26/2025 22:16:00 UTC. Search may be required.
+2025-02-27 04:57:14.3|Info|DownloadDecisionMaker|Processing 455 releases
+2025-02-27 04:57:14.6|Info|RssSyncService|RSS Sync Completed. Reports found: 455, Reports grabbed: 0
+2025-02-27 05:12:28.6|Info|RssSyncService|Starting RSS Sync
+2025-02-27 05:12:28.8|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 04:56:58 and 02/27/2025 05:12:28 UTC. Search may be required.
+2025-02-27 05:12:28.9|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 05:12:28.9|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 05:12:29.0|Warn|Torznab|Indexer Tokyo Toshokan (Prowlarr) rss sync didn't cover the period between 02/26/2025 22:16:00 and 02/26/2025 22:16:00 UTC. Search may be required.
+2025-02-27 05:12:47.8|Info|DownloadDecisionMaker|Processing 458 releases
+2025-02-27 05:12:48.2|Info|RssSyncService|RSS Sync Completed. Reports found: 458, Reports grabbed: 0
+2025-02-27 05:27:58.7|Info|RssSyncService|Starting RSS Sync
+2025-02-27 05:27:59.0|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 05:12:28 and 02/27/2025 05:27:58 UTC. Search may be required.
+2025-02-27 05:27:59.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 05:27:59.0|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 05:28:14.4|Info|DownloadDecisionMaker|Processing 456 releases
+2025-02-27 05:28:14.7|Info|RssSyncService|RSS Sync Completed. Reports found: 456, Reports grabbed: 0
+2025-02-27 05:43:28.8|Info|RssSyncService|Starting RSS Sync
+2025-02-27 05:43:29.1|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 05:27:58 and 02/27/2025 05:43:29 UTC. Search may be required.
+2025-02-27 05:43:29.1|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 05:43:29.2|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 05:43:47.0|Info|DownloadDecisionMaker|Processing 456 releases
+2025-02-27 05:43:47.4|Info|RssSyncService|RSS Sync Completed. Reports found: 456, Reports grabbed: 0
+2025-02-27 05:58:59.0|Info|RssSyncService|Starting RSS Sync
+2025-02-27 05:58:59.2|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 05:43:29 and 02/27/2025 05:58:59 UTC. Search may be required.
+2025-02-27 05:58:59.2|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 05:58:59.3|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 05:59:14.5|Info|DownloadDecisionMaker|Processing 459 releases
+2025-02-27 05:59:14.8|Info|RssSyncService|RSS Sync Completed. Reports found: 459, Reports grabbed: 0
+2025-02-27 06:14:29.1|Info|RssSyncService|Starting RSS Sync
+2025-02-27 06:14:29.3|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 05:58:59 and 02/27/2025 06:14:29 UTC. Search may be required.
+2025-02-27 06:14:29.4|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 06:14:29.4|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 06:14:29.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/17/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/27/2025 06:15:29 due to recent failures." />
+2025-02-27 06:14:29.9|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-27 06:14:45.9|Info|DownloadDecisionMaker|Processing 366 releases
+2025-02-27 06:14:46.2|Info|RssSyncService|RSS Sync Completed. Reports found: 366, Reports grabbed: 0
+2025-02-27 06:29:59.1|Info|RssSyncService|Starting RSS Sync
+2025-02-27 06:29:59.4|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 06:14:29 and 02/27/2025 06:29:59 UTC. Search may be required.
+2025-02-27 06:29:59.4|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 06:29:59.4|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 06:30:17.2|Info|DownloadDecisionMaker|Processing 469 releases
+2025-02-27 06:30:17.6|Info|RssSyncService|RSS Sync Completed. Reports found: 469, Reports grabbed: 0
+2025-02-27 06:45:29.2|Info|RssSyncService|Starting RSS Sync
+2025-02-27 06:45:29.4|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 06:29:59 and 02/27/2025 06:45:29 UTC. Search may be required.
+2025-02-27 06:45:29.5|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 06:45:29.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 06:45:44.7|Info|DownloadDecisionMaker|Processing 481 releases
+2025-02-27 06:45:45.0|Info|RssSyncService|RSS Sync Completed. Reports found: 481, Reports grabbed: 0
+2025-02-27 07:00:59.3|Info|RssSyncService|Starting RSS Sync
+2025-02-27 07:00:59.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 07:00:59.5|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 06:45:29 and 02/27/2025 07:00:59 UTC. Search may be required.
+2025-02-27 07:00:59.6|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 07:01:14.7|Info|DownloadDecisionMaker|Processing 479 releases
+2025-02-27 07:01:15.0|Info|RssSyncService|RSS Sync Completed. Reports found: 479, Reports grabbed: 0
+2025-02-27 07:16:29.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 07:16:29.7|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 07:00:59 and 02/27/2025 07:16:29 UTC. Search may be required.
+2025-02-27 07:16:29.7|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 07:16:29.7|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 07:16:44.8|Info|DownloadDecisionMaker|Processing 479 releases
+2025-02-27 07:16:45.2|Info|RssSyncService|RSS Sync Completed. Reports found: 479, Reports grabbed: 0
+2025-02-27 07:31:59.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 07:31:59.7|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 07:31:59.7|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 07:16:29 and 02/27/2025 07:31:59 UTC. Search may be required.
+2025-02-27 07:31:59.8|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 07:32:14.9|Info|DownloadDecisionMaker|Processing 482 releases
+2025-02-27 07:32:15.3|Info|RssSyncService|RSS Sync Completed. Reports found: 482, Reports grabbed: 0
+2025-02-27 07:47:29.7|Info|RssSyncService|Starting RSS Sync
+2025-02-27 07:47:30.1|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 07:31:59 and 02/27/2025 07:47:30 UTC. Search may be required.
+2025-02-27 07:47:30.5|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 07:47:30.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 07:47:45.1|Info|DownloadDecisionMaker|Processing 483 releases
+2025-02-27 07:47:45.6|Info|RssSyncService|RSS Sync Completed. Reports found: 483, Reports grabbed: 0
+2025-02-27 08:02:59.7|Info|RssSyncService|Starting RSS Sync
+2025-02-27 08:02:59.9|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 07:47:30 and 02/27/2025 08:02:59 UTC. Search may be required.
+2025-02-27 08:03:00.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 08:03:00.1|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 08:03:42.6|Info|DownloadDecisionMaker|Processing 481 releases
+2025-02-27 08:03:43.0|Info|RssSyncService|RSS Sync Completed. Reports found: 481, Reports grabbed: 0
+2025-02-27 08:07:55.7|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 08:07:55.8|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 08:07:58.6|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 08:07:58.6|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 08:08:07.8|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 08:08:07.8|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 08:08:17.8|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 08:08:17.8|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 08:08:18.0|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 08:08:18.0|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 08:08:20.0|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 08:08:20.0|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 08:18:59.8|Info|RssSyncService|Starting RSS Sync
+2025-02-27 08:19:00.1|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 08:02:59 and 02/27/2025 08:19:00 UTC. Search may be required.
+2025-02-27 08:19:00.2|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 08:19:00.3|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 08:19:05.5|Info|DownloadDecisionMaker|Processing 478 releases
+2025-02-27 08:19:06.0|Info|RssSyncService|RSS Sync Completed. Reports found: 478, Reports grabbed: 0
+2025-02-27 08:34:29.8|Info|RssSyncService|Starting RSS Sync
+2025-02-27 08:34:30.1|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 08:19:00 and 02/27/2025 08:34:30 UTC. Search may be required.
+2025-02-27 08:34:30.3|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 08:34:30.3|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 08:34:39.4|Info|DownloadDecisionMaker|Processing 478 releases
+2025-02-27 08:34:39.9|Info|RssSyncService|RSS Sync Completed. Reports found: 478, Reports grabbed: 0
+2025-02-27 08:49:59.9|Info|RssSyncService|Starting RSS Sync
+2025-02-27 08:50:00.4|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 08:34:30 and 02/27/2025 08:50:00 UTC. Search may be required.
+2025-02-27 08:50:00.4|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 08:50:00.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 08:50:13.2|Info|DownloadDecisionMaker|Processing 478 releases
+2025-02-27 08:50:13.7|Info|RssSyncService|RSS Sync Completed. Reports found: 478, Reports grabbed: 0
+2025-02-27 09:05:30.0|Info|RssSyncService|Starting RSS Sync
+2025-02-27 09:05:30.4|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 09:05:30.4|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 09:05:30.4|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 08:50:00 and 02/27/2025 09:05:30 UTC. Search may be required.
+2025-02-27 09:05:39.4|Info|DownloadDecisionMaker|Processing 480 releases
+2025-02-27 09:05:39.9|Info|RssSyncService|RSS Sync Completed. Reports found: 480, Reports grabbed: 0
+2025-02-27 09:21:00.1|Info|RssSyncService|Starting RSS Sync
+2025-02-27 09:21:00.6|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 09:05:30 and 02/27/2025 09:21:00 UTC. Search may be required.
+2025-02-27 09:21:00.6|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 09:21:00.6|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 09:21:16.7|Info|DownloadDecisionMaker|Processing 490 releases
+2025-02-27 09:21:17.1|Info|RssSyncService|RSS Sync Completed. Reports found: 490, Reports grabbed: 0
+2025-02-27 09:36:32.9|Info|RssSyncService|Starting RSS Sync
+2025-02-27 09:36:33.1|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 09:21:00 and 02/27/2025 09:36:33 UTC. Search may be required.
+2025-02-27 09:36:33.3|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 09:36:33.3|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 09:36:34.0|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/17/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/27/2025 09:37:34 due to recent failures." />
+2025-02-27 09:36:34.0|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-27 09:36:40.8|Info|DownloadDecisionMaker|Processing 390 releases
+2025-02-27 09:36:41.2|Info|RssSyncService|RSS Sync Completed. Reports found: 390, Reports grabbed: 0
+2025-02-27 09:52:03.0|Info|RssSyncService|Starting RSS Sync
+2025-02-27 09:52:03.3|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 09:36:33 and 02/27/2025 09:52:03 UTC. Search may be required.
+2025-02-27 09:52:03.3|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 09:52:03.4|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 09:52:10.2|Info|DownloadDecisionMaker|Processing 492 releases
+2025-02-27 09:52:10.6|Info|RssSyncService|RSS Sync Completed. Reports found: 492, Reports grabbed: 0
+2025-02-27 10:07:33.1|Info|RssSyncService|Starting RSS Sync
+2025-02-27 10:07:33.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 10:07:33.5|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 10:07:33.5|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 09:52:03 and 02/27/2025 10:07:33 UTC. Search may be required.
+2025-02-27 10:07:38.9|Info|DownloadDecisionMaker|Processing 493 releases
+2025-02-27 10:07:39.3|Info|RssSyncService|RSS Sync Completed. Reports found: 493, Reports grabbed: 0
+2025-02-27 10:23:03.2|Info|RssSyncService|Starting RSS Sync
+2025-02-27 10:23:03.4|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 10:07:33 and 02/27/2025 10:23:03 UTC. Search may be required.
+2025-02-27 10:23:03.5|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 10:23:03.6|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 10:23:12.1|Info|DownloadDecisionMaker|Processing 493 releases
+2025-02-27 10:23:12.5|Info|RssSyncService|RSS Sync Completed. Reports found: 493, Reports grabbed: 0
+2025-02-27 10:38:33.3|Info|RssSyncService|Starting RSS Sync
+2025-02-27 10:38:33.6|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 10:23:03 and 02/27/2025 10:38:33 UTC. Search may be required.
+2025-02-27 10:38:33.7|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 10:38:33.7|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 10:38:43.7|Info|DownloadDecisionMaker|Processing 495 releases
+2025-02-27 10:38:44.1|Info|RssSyncService|RSS Sync Completed. Reports found: 495, Reports grabbed: 0
+2025-02-27 10:54:04.1|Info|RssSyncService|Starting RSS Sync
+2025-02-27 10:54:04.4|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 10:38:33 and 02/27/2025 10:54:04 UTC. Search may be required.
+2025-02-27 10:54:04.5|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 10:54:04.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 10:54:14.5|Info|DownloadDecisionMaker|Processing 495 releases
+2025-02-27 10:54:14.9|Info|RssSyncService|RSS Sync Completed. Reports found: 495, Reports grabbed: 0
+2025-02-27 11:09:34.2|Info|RssSyncService|Starting RSS Sync
+2025-02-27 11:09:34.6|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 11:09:34.7|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 11:09:34.7|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 10:54:04 and 02/27/2025 11:09:34 UTC. Search may be required.
+2025-02-27 11:09:51.5|Info|DownloadDecisionMaker|Processing 497 releases
+2025-02-27 11:09:52.0|Info|RssSyncService|RSS Sync Completed. Reports found: 497, Reports grabbed: 0
+2025-02-27 11:25:04.3|Info|RssSyncService|Starting RSS Sync
+2025-02-27 11:25:04.8|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 11:09:34 and 02/27/2025 11:25:04 UTC. Search may be required.
+2025-02-27 11:25:05.0|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 11:25:05.1|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 11:25:21.2|Info|DownloadDecisionMaker|Processing 503 releases
+2025-02-27 11:25:21.7|Info|RssSyncService|RSS Sync Completed. Reports found: 503, Reports grabbed: 0
+2025-02-27 11:40:34.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 11:40:34.9|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 11:25:04 and 02/27/2025 11:40:34 UTC. Search may be required.
+2025-02-27 11:40:35.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 11:40:35.0|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 11:40:53.3|Info|DownloadDecisionMaker|Processing 508 releases
+2025-02-27 11:40:53.9|Info|RssSyncService|RSS Sync Completed. Reports found: 508, Reports grabbed: 0
+2025-02-27 11:56:04.5|Info|RssSyncService|Starting RSS Sync
+2025-02-27 11:56:04.8|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 11:40:34 and 02/27/2025 11:56:04 UTC. Search may be required.
+2025-02-27 11:56:04.9|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 11:56:05.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 11:56:20.0|Info|DownloadDecisionMaker|Processing 511 releases
+2025-02-27 11:56:20.5|Info|RssSyncService|RSS Sync Completed. Reports found: 511, Reports grabbed: 0
+2025-02-27 12:11:34.6|Info|RssSyncService|Starting RSS Sync
+2025-02-27 12:11:35.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 12:11:35.0|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 12:11:35.0|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 11:56:04 and 02/27/2025 12:11:34 UTC. Search may be required.
+2025-02-27 12:13:14.6|Warn|Torznab|Tokyo Toshokan (Prowlarr) server is currently unavailable. http://prowlarr:9696/29/api?t=search&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-27 12:13:14.6|Info|DownloadDecisionMaker|Processing 508 releases
+2025-02-27 12:13:15.1|Info|RssSyncService|RSS Sync Completed. Reports found: 508, Reports grabbed: 0
+2025-02-27 12:28:34.6|Info|RssSyncService|Starting RSS Sync
+2025-02-27 12:28:34.7|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/29/api?t=search&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/27/2025 12:28:37 due to recent failures." />
+2025-02-27 12:28:34.7|Warn|Torznab|API Request Limit reached for Tokyo Toshokan (Prowlarr). Disabled for 00:00:03
+2025-02-27 12:28:35.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 12:28:35.0|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 12:11:34 and 02/27/2025 12:28:34 UTC. Search may be required.
+2025-02-27 12:28:35.1|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 12:28:50.3|Info|DownloadDecisionMaker|Processing 509 releases
+2025-02-27 12:28:50.7|Info|RssSyncService|RSS Sync Completed. Reports found: 509, Reports grabbed: 0
+2025-02-27 12:44:04.7|Info|RssSyncService|Starting RSS Sync
+2025-02-27 12:44:05.3|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 12:44:05.3|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 12:28:34 and 02/27/2025 12:44:05 UTC. Search may be required.
+2025-02-27 12:44:05.3|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 12:45:44.8|Warn|Torznab|dmhy (Prowlarr) server is currently unavailable. http://prowlarr:9696/43/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2025-02-27 12:45:44.8|Info|DownloadDecisionMaker|Processing 496 releases
+2025-02-27 12:45:45.2|Info|RssSyncService|RSS Sync Completed. Reports found: 496, Reports grabbed: 0
+2025-02-27 13:01:04.8|Info|RssSyncService|Starting RSS Sync
+2025-02-27 13:01:05.2|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 13:01:05.2|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 12:44:05 and 02/27/2025 13:01:05 UTC. Search may be required.
+2025-02-27 13:01:05.3|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 13:01:10.6|Info|DownloadDecisionMaker|Processing 523 releases
+2025-02-27 13:01:11.0|Info|RssSyncService|RSS Sync Completed. Reports found: 523, Reports grabbed: 0
+2025-02-27 13:16:34.9|Info|RssSyncService|Starting RSS Sync
+2025-02-27 13:16:35.2|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 13:01:05 and 02/27/2025 13:16:35 UTC. Search may be required.
+2025-02-27 13:16:35.3|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 13:16:35.3|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 13:16:45.8|Info|DownloadDecisionMaker|Processing 508 releases
+2025-02-27 13:16:46.2|Info|RssSyncService|RSS Sync Completed. Reports found: 508, Reports grabbed: 0
+2025-02-27 13:32:05.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 13:32:05.7|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 13:32:05.7|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 13:16:35 and 02/27/2025 13:32:05 UTC. Search may be required.
+2025-02-27 13:32:05.7|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 13:32:17.6|Info|DownloadDecisionMaker|Processing 507 releases
+2025-02-27 13:32:18.1|Info|RssSyncService|RSS Sync Completed. Reports found: 507, Reports grabbed: 0
+2025-02-27 13:47:35.5|Info|RssSyncService|Starting RSS Sync
+2025-02-27 13:47:35.8|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 13:32:05 and 02/27/2025 13:47:35 UTC. Search may be required.
+2025-02-27 13:47:35.9|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 13:47:35.9|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 13:47:36.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/17/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/27/2025 13:48:36 due to recent failures." />
+2025-02-27 13:47:36.2|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-27 13:47:50.2|Info|DownloadDecisionMaker|Processing 407 releases
+2025-02-27 13:47:50.6|Info|RssSyncService|RSS Sync Completed. Reports found: 407, Reports grabbed: 0
+2025-02-27 14:03:05.6|Info|RssSyncService|Starting RSS Sync
+2025-02-27 14:03:05.9|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 13:47:35 and 02/27/2025 14:03:05 UTC. Search may be required.
+2025-02-27 14:03:06.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 14:03:06.0|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 14:03:26.4|Info|DownloadDecisionMaker|Processing 508 releases
+2025-02-27 14:03:26.8|Info|RssSyncService|RSS Sync Completed. Reports found: 508, Reports grabbed: 0
+2025-02-27 14:08:56.8|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 14:08:56.8|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 14:08:59.3|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 14:08:59.4|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 14:09:08.5|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 14:09:08.5|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 14:09:18.5|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 14:09:18.5|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 14:09:18.6|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 14:09:18.7|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 14:09:20.6|Warn|LidarrErrorPipeline|FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+
+[v2.9.6.4552] FluentValidation.ValidationException: Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+   at Lidarr.Api.V1.ProviderControllerBase`4.VerifyValidationResult(ValidationResult validationResult, Boolean includeWarnings) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 289
+   at Lidarr.Api.V1.ProviderControllerBase`4.CreateProvider(TProviderResource providerResource, Boolean forceSave) in ./Lidarr.Api.V1/ProviderControllerBase.cs:line 81
+   at lambda_method110(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Lidarr.Http.Middleware.BufferingMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/BufferingMiddleware.cs:line 28
+   at Lidarr.Http.Middleware.IfModifiedMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/IfModifiedMiddleware.cs:line 41
+   at Lidarr.Http.Middleware.CacheHeaderMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/CacheHeaderMiddleware.cs:line 33
+   at Lidarr.Http.Middleware.StartingUpMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/StartingUpMiddleware.cs:line 38
+   at Lidarr.Http.Middleware.UrlBaseMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/UrlBaseMiddleware.cs:line 29
+   at Lidarr.Http.Middleware.VersionMiddleware.InvokeAsync(HttpContext context) in ./Lidarr.Http/Middleware/VersionMiddleware.cs:line 29
+   at Microsoft.AspNetCore.ResponseCompression.ResponseCompressionMiddleware.InvokeCore(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+
+
+2025-02-27 14:09:20.7|Warn|LidarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2025-02-27 14:18:35.7|Info|RssSyncService|Starting RSS Sync
+2025-02-27 14:18:36.0|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 14:03:05 and 02/27/2025 14:18:35 UTC. Search may be required.
+2025-02-27 14:18:36.1|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 14:18:36.1|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 14:18:44.4|Info|DownloadDecisionMaker|Processing 519 releases
+2025-02-27 14:18:44.9|Info|RssSyncService|RSS Sync Completed. Reports found: 519, Reports grabbed: 0
+2025-02-27 14:34:05.9|Info|RssSyncService|Starting RSS Sync
+2025-02-27 14:34:06.2|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 14:18:35 and 02/27/2025 14:34:06 UTC. Search may be required.
+2025-02-27 14:34:06.3|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 14:34:06.4|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 14:34:25.7|Info|DownloadDecisionMaker|Processing 526 releases
+2025-02-27 14:34:26.2|Info|RssSyncService|RSS Sync Completed. Reports found: 526, Reports grabbed: 0
+2025-02-27 14:49:36.0|Info|RssSyncService|Starting RSS Sync
+2025-02-27 14:49:36.3|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 14:34:06 and 02/27/2025 14:49:36 UTC. Search may be required.
+2025-02-27 14:49:36.4|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 14:49:36.4|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 14:49:49.2|Info|DownloadDecisionMaker|Processing 528 releases
+2025-02-27 14:49:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 528, Reports grabbed: 0
+2025-02-27 15:05:06.1|Info|RssSyncService|Starting RSS Sync
+2025-02-27 15:05:06.4|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 14:49:36 and 02/27/2025 15:05:06 UTC. Search may be required.
+2025-02-27 15:05:06.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 15:05:06.5|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 15:05:06.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 19:20:00 and 02/27/2025 13:04:08 UTC. Search may be required.
+2025-02-27 15:05:07.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/17/api?t=music&cat=3000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 02/27/2025 15:06:07 due to recent failures." />
+2025-02-27 15:05:07.1|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:00
+2025-02-27 15:05:14.0|Info|DownloadDecisionMaker|Processing 427 releases
+2025-02-27 15:05:14.4|Info|RssSyncService|RSS Sync Completed. Reports found: 427, Reports grabbed: 0
+2025-02-27 15:10:36.1|Error|TaskExtensions|Task Error
+
+[v2.9.6.4552] code = Full (13), message = System.Data.SQLite.SQLiteException (0x800007FF): database or disk is full
+database or disk is full
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLi2025-02-27 15:43:36.3|Info|RssSyncService|Starting RSS Sync
+2025-02-27 15:43:36.9|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 15:43:36.9|Warn|Torznab|Indexer Torrent Downloads (Prowlarr) rss sync didn't cover the period between 02/27/2025 15:05:06 and 02/27/2025 15:43:36 UTC. Search may be required.
+2025-02-27 15:43:36.9|Warn|Torznab|Indexer Solid Torrents (Prowlarr) rss sync didn't cover the period between 01/01/2025 00:00:00 and 01/01/2025 00:00:00 UTC. Search may be required.
+2025-02-27 15:43:56.3|Info|DownloadDecisionMaker|Processing 528 releases
+2025-02-27 15:43:56.8|Info|RssSyncService|RSS Sync Completed. Reports found: 528, Reports grabbed: 0
+2025-02-27 15:51:06.3|Error|TaskExtensions|Task Error
+
+[v2.9.6.4552] code = Full (13), message = System.Data.SQLite.SQLiteException (0x800007FF): database or disk is full
+database or disk is full
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1142
+   at Dapper.SqlMapper.QueryMultipleImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 1125
+   at NzbDrone.Core.Datastore.BasicRepository`1.Insert(IDbConnection connection, IDbTransaction transaction, TModel model) in ./Lidarr.Core/Datastore/BasicRepository.cs:line 188
+   at NzbDrone.Core.Datastore.BasicRepository`1.Insert(TModel model) in ./Lidarr.Core/Datastore/BasicRepository.cs:line 151
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Push[TCommand](TCommand command, CommandPriority priority, CommandTrigger trigger) in ./Lidarr.Core/Messaging/Commands/CommandQueueManager.cs:line 140
+   at NzbDrone.Core.Jobs.Scheduler.ExecuteCommands() in ./Lidarr.Core/Jobs/Scheduler.cs:line 42
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+
+
+2025-02-27 15:51:36.3|Error|TaskExtensions|Task Error
+
+[v2.9.6.4552] code = Full (13), message = System.Data.SQLite.SQLiteException (0x800007FF): database or disk is full
+database or disk is full
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in /_/Dapper/SqlMapper.cs:line 1142
+   at Dapper.SqlMapper.QueryMultipleImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 1125
+   at NzbDrone.Core.Datastore.BasicRepository`1.Insert(IDbConnection connection, IDbTransaction transaction, TModel model) in ./Lidarr.Core/Datastore/BasicRepository.cs:line 188
+   at NzbDrone.Core.Datastore.BasicRepository`1.Insert(TModel model) in ./Lidarr.Core/Datastore/BasicRepository.cs:line 151
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Push[TCommand](TCommand command, CommandPriority priority, CommandTrigger trigger) in ./Lidarr.Core/Messaging/Commands/CommandQueueManager.cs:line 140
+   at NzbDrone.Core.Jobs.Scheduler.ExecuteCommands() in ./Lidarr.Core/Jobs/Scheduler.cs:line 42
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextC

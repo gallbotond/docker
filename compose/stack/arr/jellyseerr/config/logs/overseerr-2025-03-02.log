@@ -1,0 +1,22 @@
+2025-03-02T00:00:00.006Z [error][Download Tracker]: Unable to get queue from Radarr server: radarr 
+2025-03-02T00:00:00.026Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2025-03-02T00:00:00.034Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-03-02T00:00:00.034Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"0c340387-528a-40ee-a4c5-1da31841917d"}
+2025-03-02T00:00:00.053Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-03-02T00:00:00.066Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server {"error":"connect ECONNREFUSED 192.168.1.149:8096"}
+2025-03-02T00:00:00.066Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-03-02T00:01:00.022Z [error][Download Tracker]: Unable to get queue from Radarr server: radarr 
+2025-03-02T00:02:00.015Z [error][Download Tracker]: Unable to get queue from Radarr server: radarr 
+2025-03-02T00:03:00.023Z [error][Download Tracker]: Unable to get queue from Radarr server: radarr 
+2025-03-02T00:03:00.030Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2025-03-02T00:04:00.036Z [error][Download Tracker]: Unable to get queue from Radarr server: radarr 
+2025-03-02T00:05:00.009Z [error][Download Tracker]: Unable to get queue from Radarr server: radarr 
+2025-03-02T00:05:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-03-02T00:05:00.011Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"2087955c-67af-4214-978a-cdaed138f412"}
+2025-03-02T00:05:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-03-02T00:05:00.019Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server {"error":"connect ECONNREFUSED 192.168.1.149:8096"}
+2025-03-02T00:05:00.019Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-03-02T00:06:00.007Z [info][Jobs]: Starting scheduled job: Plex Watchlist Sync 
+2025-03-02T00:06:00.010Z [error][Download Tracker]: Unable to get queue from Radarr server: radarr 
+2025-03-02T00:07:00.020Z [error][Download Tracker]: Unable to get queue from Radarr server: radarr 
+2025-03-02T00:08:00.005Z [error][Download Tracker]: Unable to get queue from Radarr server: radarr 
