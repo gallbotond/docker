@@ -7,7 +7,7 @@ services:
       - PGID=3000  # Adjusted to your group ID
       - TZ=Etc/UTC # Replace with your timezone
     volumes:
-      - ./prowlarr/config:/config
+      - /mnt/media/configs/prowlarr/config:/config
       - /mnt/media:/md  # Mount books folder
     ports:
       - 9696:9696
@@ -21,7 +21,7 @@ services:
       - PGID=3000
       - TZ=Etc/UTC
     volumes:
-      - ./radarr/config:/config
+      - /mnt/media/configs/radarr/config:/config
       - /mnt/media:/md  # Mount movies folder
     ports:
       - 7878:7878
@@ -35,7 +35,7 @@ services:
       - PGID=3000
       - TZ=Etc/UTC
     volumes:
-      - ./sonarr/config:/config
+      - /mnt/media/configs/sonarr/config:/config
       - /mnt/media:/md
     ports:
       - 8989:8989
@@ -49,7 +49,7 @@ services:
       - PGID=3000
       - TZ=Etc/UTC
     volumes:
-      - ./lidarr/config:/config
+      - /mnt/media/configs/lidarr/config:/config
       - /mnt/media:/md
     ports:
       - 8686:8686
@@ -63,7 +63,7 @@ services:
       - PGID=3000
       - TZ=Etc/UTC
     volumes:
-      - ./readarr/config:/config
+      - /mnt/media/configs/readarr/config:/config
       - /mnt/media:/md
     ports:
       - 8787:8787
@@ -79,7 +79,7 @@ services:
       - TZ=Etc/UTC
       - PORT=5055
     volumes:
-      - ./jellyseerr/config:/app/config
+      - /mnt/media/configs/jellyseerr/config:/app/config
     ports:
       - 5055:5055
     restart: unless-stopped
@@ -95,7 +95,7 @@ services:
       # - NVIDIA_DRIVER_CAPABILITIES=all
     # runtime: nvidia
     volumes:
-      - ./jellyfin/config:/config
+      - /mnt/media/configs/jellyfin/config:/config
       - /mnt/media/movies:/movies  # Mount movies folder
       - /mnt/media/shows:/shows  # Mount shows folder
       - /mnt/media/music:/music  # Mount music folder
@@ -121,7 +121,7 @@ services:
       - TZ=Etc/UTC
       - WEBUI_PORT=8080
     volumes:
-      - ./qbittorrent/config:/config
+      - /mnt/media/configs/qbittorrent/config:/config
       - /mnt/media:/md
     ports:
       - 8080:8080
